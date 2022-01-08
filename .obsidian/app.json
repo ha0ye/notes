@@ -1,5 +1,7 @@
 {
   "showFrontmatter": true,
   "foldHeading": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": false
 }

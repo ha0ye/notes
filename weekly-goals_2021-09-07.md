@@ -9,14 +9,16 @@
 	+ reproducibility as more than just research rigor (and NIH's narrow definition)
 	+ empowering patrons vs checking for correctness and following guidelines
 	+ area: Innovation & Research Practice
-- [ ] 
+- [ ] immersion session on ebookSOS pricing
+	- [ ] reach out to Chris Shaffer (UCSF), Collection Development or Scholarly Comms caucuses
 - [ ] ~~immersion session on data curation for hospitals?~~
-
 
 ### Misc
 - [ ] orientation for Stacy Wright
 - [ ] consultation meeting with Thiago de Andrade
 - [ ] MEE review
+- [ ] HOBI liaison email (to Matt Gurka and Dominick Lemas?)
+- [ ] Biostats liaison email (to Ira Longini?)
 
 ### UIC Reproducibility Conference
 - [ ] discuss talk topics and timing with Vicky Rampin

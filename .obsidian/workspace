@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "324effa40270edb9",
+    "id": "70b40fceb323ccb0",
     "type": "split",
     "children": [
       {
-        "id": "d5ab0f09dc601e8a",
+        "id": "a3fa823fa9b3f489",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2021-09-07.md",
-            "mode": "source"
+            "file": "weekly-goals_2022-01-03.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2021-09-07.md",
+                "file": "weekly-goals_2022-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +79,43 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a78d6832f9ae89e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weekly-goals_2022-01-03.md"
+              }
+            }
+          },
+          {
+            "id": "f990c887958ff15a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d5ab0f09dc601e8a",
+  "active": "a3fa823fa9b3f489",
   "lastOpenFiles": [
+    "weekly-goals_2022-01-03.md",
+    "gms-5909-course-notes.md",
+    "weekly-goals_2021-10-11.md",
     "weekly-goals_2021-09-07.md",
-    "weekly-goals_2021-09-13.md",
-    "weekly-goals_2021-09-07 1.md",
-    "weekly-goals_2021-08-30.md",
-    "weekly-goals_2021-08-23.md",
-    "weekly-goals_2021-08-30 1.md",
-    "weekly-goals_2021-08-09.md",
-    "weekly-goals_2021-08-23 1.md",
-    "weekly-goals_2021-08-09 1.md",
-    "gms-5909-course-notes.md"
+    "weekly-goals_2021-12-20.md",
+    "weekly-goals_2021-12-13.md",
+    "weekly-goals_2021-07-12.md",
+    "behavioral nudge teachone.md",
+    "weekly-goals_2021-12-06.md",
+    "weekly-goals_2021-07-19.md"
   ]
 }
