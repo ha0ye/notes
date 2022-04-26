@@ -16,7 +16,8 @@
 - [x] letter for DSP re: Chelsea and Bess cost-share time
   - [x] follow-up reply to Ashley
   - [x] budget justification
-  - [ ] new IMLS budget form and justification
+  - [x] new IMLS budget form and justification
+  - [ ] UF DSP will try to submit; if not will contact Hao
 - [ ] cost justification to Lori for coffee and snacks
 - [ ] timeline of environmental scan work
 - [x] agenda for advisory group meeting (May 19-20)
