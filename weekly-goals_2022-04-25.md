@@ -9,8 +9,8 @@
   + any specific asks for UF team? (commitment to discussion facilitation)
   + Hannah will ask for brainstorming about perspectives to obtain
 - [ ] document materials in shared google drive
-- [ ] upload draft meeting schedule to website
-- [ ] lightning slide template
+- [x] upload draft meeting schedule to website
+- [x] lightning slide template
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] review DLF Forum abstract
 - [x] letter for DSP re: Chelsea and Bess cost-share time
@@ -47,16 +47,18 @@
 ### Misc
 - [ ] faculty meeting minutes for April 01
 - [ ] faculty meeting minutes for April 22
+- [x] schedule workshops
+- [x] send workshop schedule to Sarah
 
 ### Metabolomics Software Reproducibility Paper
-- [ ] feedback on paper
+- [x] feedback on paper
 
 ### ARCS Senior Director Search Committee
-- [ ] reference interviews for week of April 25
-- [ ] search committee meeting
+- [x] reference interviews for week of April 25
+- [x] search committee meeting
 
 ### Faculty Mentoring
-- [ ] debrief with Twanna and review feedback
+- [ ] debrief with Twanna and review feedback?
 
 ### MLA Data Caucus
 - [ ] check needs for election
@@ -66,7 +68,7 @@
 - [x] prepare slides (yellow-green background, dark grey, blue/lilac/pink?)
 - [x] record presentation
 - [x] upload materials to OSF
-- [ ] do live presentation on April 27
+- [x] do live presentation on April 27
 
 ### HSCL DEI / Values Statement
 - [ ] respond to Hannah comments
