@@ -58,7 +58,7 @@
 - [x] search committee meeting
 
 ### Faculty Mentoring
-- [ ] debrief with Twanna and review feedback?
+- [x] ~~debrief with Twanna and review feedback?~~
 
 ### MLA Data Caucus
 - [ ] check needs for election
