@@ -46,8 +46,8 @@
   - [x] travel authorization
 
 ### Misc
-- [ ] faculty meeting minutes for April 01
-- [ ] faculty meeting minutes for April 22
+- [x] faculty meeting minutes for April 01
+- [x] faculty meeting minutes for April 22
 - [x] schedule workshops
 - [x] send workshop schedule to Sarah
 
