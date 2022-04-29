@@ -5,19 +5,20 @@
 ## weekly
 
 ### Open Grants
+- [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] slides for Friday
   + any specific asks for UF team? (commitment to discussion facilitation)
   + Hannah will ask for brainstorming about perspectives to obtain
-- [ ] document materials in shared google drive
 - [x] upload draft meeting schedule to website
 - [x] lightning slide template
-- [ ] reach out to contacts for HBCU, MSI, TCU
+- [x] draft changes to project description 
 - [x] review DLF Forum abstract
 - [x] letter for DSP re: Chelsea and Bess cost-share time
   - [x] follow-up reply to Ashley
   - [x] budget justification
   - [x] new IMLS budget form and justification
-  - [ ] UF DSP will try to submit; if not will contact Hao
+  - [x] UF DSP will submit; if not will contact Hao
+  - [x] changes approved
 - [ ] cost justification to Lori for coffee and snacks
 - [ ] timeline of environmental scan work
 - [x] agenda for advisory group meeting (May 19-20)
@@ -38,11 +39,11 @@
 - [ ] check-in for post teaching review?
 
 ### NINDS workshop
-- [ ] book travel
+- [x] book travel
   - [x] request for flights
   - [x] hotel booking
   - [x] registration
-  - [ ] travel authorization
+  - [x] travel authorization
 
 ### Misc
 - [ ] faculty meeting minutes for April 01
