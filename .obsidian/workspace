@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-04-25.md",
+            "file": "weekly-goals_2022-05-02.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-04-25.md",
+                "file": "weekly-goals_2022-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-04-25.md"
+                "file": "weekly-goals_2022-05-02.md"
               }
             }
           },
@@ -107,6 +107,7 @@
   },
   "active": "cce3be36613a73d3",
   "lastOpenFiles": [
+    "weekly-goals_2022-05-02.md",
     "weekly-goals_2022-04-25.md",
     "weekly-goals_2022-04-18.md",
     "weekly-goals_2022-01-03.md",
@@ -115,7 +116,6 @@
     "weekly-goals_2022-04-11.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
-    "weekly-goals_2022-04-04.md",
-    "weekly-goals_2022-03-28.md"
+    "weekly-goals_2022-04-04.md"
   ]
 }
