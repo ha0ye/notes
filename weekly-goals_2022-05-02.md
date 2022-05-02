@@ -31,7 +31,7 @@
 - [ ] review brainstorming for JTE: Consequences of Scientific Reform submission
 
 ### Metabolomics Software Reproducibility Paper
-- [ ] final feedback on paper
+- [x] final feedback on paper
 
 ### ARCS Senior Director Search Committee
 - [x] edits to onsite recommendation letter
