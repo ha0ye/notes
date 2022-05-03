@@ -9,6 +9,7 @@
 - [ ] cost justification to Lori for coffee and snacks
 - [ ] timeline of environmental scan work
 - [x] agenda for advisory group meeting (May 19-20)
+  - [ ] email about masks and other safety mechanisms
   - [ ] discussion items
   - [ ] facilitating breakouts + instructions for facilitating
   - [ ] preparation of intro and reading materials
@@ -109,7 +110,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
-  - [ ] recheck availability
+  - [x] recheck availability
   - [ ] speaker bio on webpage
   - [ ] confirm date and time
   - [ ] setup libcal event
