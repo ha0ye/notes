@@ -27,7 +27,9 @@
 - [ ] check-in for post teaching review?
 
 ### Misc
-- [ ] faculty meeting minutes for April 29
+- [x] faculty meeting minutes for April 29
+- [x] FAR for summer 2022
+- [x] verify degrees for libraries HR
 - [ ] UF Core Values Letter
 - [ ] review brainstorming for JTE: Consequences of Scientific Reform submission
 
