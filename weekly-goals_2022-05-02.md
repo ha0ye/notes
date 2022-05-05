@@ -36,7 +36,6 @@
 - [x] verify degrees for libraries HR
 - [ ] UF Core Values Letter
 - [x] review brainstorming for JTE: Consequences of Scientific Reform submission
-- [ ] coordinate ideas for JTE: Conesequences of Scientific Reform
 - [x] go through out of date trainings
 
 ### Metabolomics Software Reproducibility Paper
