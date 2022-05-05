@@ -8,6 +8,7 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] cost justification to Lori for coffee and snacks
 - [ ] timeline of environmental scan work
+- [ ] send job posting to Joe Piazza
 - [x] agenda for advisory group meeting (May 19-20)
   - [ ] email about masks and other safety mechanisms
   - [ ] discussion items
@@ -20,6 +21,9 @@
   - [ ] need for guides to walk people over from Holiday Inn in the mornings
 - [x] add advisory group readings to website
 
+### OA Committee
+- [ ] schedule next meeting
+
 ### NIH Data Policy Coordination
 - [ ] reach out to NCDS and RDAP executive board to coordinate
 
@@ -31,7 +35,8 @@
 - [x] FAR for summer 2022
 - [x] verify degrees for libraries HR
 - [ ] UF Core Values Letter
-- [ ] review brainstorming for JTE: Consequences of Scientific Reform submission
+- [x] review brainstorming for JTE: Consequences of Scientific Reform submission
+- [ ] coordinate ideas for JTE: Conesequences of Scientific Reform
 - [x] go through out of date trainings
 
 ### Metabolomics Software Reproducibility Paper
@@ -101,6 +106,7 @@
 ### MEE time series paper
 - [x] skim paper
 - [x] invite reviewers
+- [x] invite more reviewers
 - [ ] read reviews
 - [ ] make decision
 
