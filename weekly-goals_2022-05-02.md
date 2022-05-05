@@ -22,7 +22,7 @@
 - [x] add advisory group readings to website
 
 ### OA Committee
-- [ ] schedule next meeting
+- [x] propose new schedule
 
 ### NIH Data Policy Coordination
 - [ ] reach out to NCDS and RDAP executive board to coordinate
