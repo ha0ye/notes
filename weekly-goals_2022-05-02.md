@@ -6,7 +6,7 @@
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
-- [ ] cost justification to Lori for coffee and snacks
+- [x] cost justification to Lori for coffee and snacks
 - [ ] timeline of environmental scan work
 - [ ] send job posting to Joe Piazza
 - [x] agenda for advisory group meeting (May 19-20)
