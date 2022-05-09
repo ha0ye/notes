@@ -8,6 +8,7 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] cost justification to Lori for coffee and snacks
 - [ ] timeline of environmental scan work
+- [x] announce student position ad
 - [x] agenda for advisory group meeting (May 19-20)
   - [ ] email about masks and other safety mechanisms
   - [ ] discussion items
