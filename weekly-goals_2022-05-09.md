@@ -26,13 +26,13 @@
 - [ ] reach out to NCDS and RDAP executive board to coordinate
 
 ### FAIR Biomed Teaching
-- [ ] check-in for post teaching review?
+- [x] check-in for post teaching review?
 
 ### Misc
 - [ ] UF Core Values Letter
 
 ### Faculty Mentoring
-- [ ] participate in communications session
+- [x] participate in communications session
 
 ### MLA Data Caucus
 - [ ] check needs for election
