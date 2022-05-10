@@ -9,7 +9,7 @@
 - [x] cost justification to Lori for coffee and snacks
 - [x] announce student position ad
 - [x] agenda for advisory group meeting (May 19-20)
-  - [ ] email about masks and other safety mechanisms
+  - [x] email about masks and other safety mechanisms
   - [ ] discussion items
   - [ ] facilitating breakouts + instructions for facilitating
   - [ ] preparation of intro and reading materials
