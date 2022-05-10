@@ -20,7 +20,7 @@
   - [ ] need for guides to walk people over from Holiday Inn in the mornings
 
 ### OA Committee
-- [ ] set agenda for June
+- [x] set agenda for June
 
 ### NIH Data Policy Coordination
 - [ ] reach out to NCDS and RDAP executive board to coordinate
