@@ -35,7 +35,7 @@
 - [x] participate in communications session
 
 ### MLA Data Caucus
-- [ ] check needs for election
+- [x] email Comm Council about elections
 
 ### HSCL DEI / Values Statement
 - [ ] respond to Hannah comments
