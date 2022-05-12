@@ -27,7 +27,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] set agenda for June
 
 ### NIH Data Policy Coordination
-- [ ] reach out to NCDS and RDAP executive board to coordinate
+- [x] reach out to NCDS and RDAP executive board to coordinate
 
 ### FAIR Biomed Teaching
 - [x] check-in for post teaching review?
