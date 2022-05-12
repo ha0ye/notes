@@ -41,7 +41,12 @@
 - [ ] respond to Hannah comments
 - [ ] send reminder
 
-## Library HiPerGator/ResVault Sponsored Use Program
+### Consequences of the Scientific Reform Movement
+- [ ] draft abstract
+- [ ] ask for feedback on abstract
+- [ ] submit abstract
+
+### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
 - [x] review processes for accounts, including allocations, sunsetting, etc.
 - [ ] start spreadsheet for active user information
