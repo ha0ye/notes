@@ -10,14 +10,18 @@
 - [x] announce student position ad
 - [x] agenda for advisory group meeting (May 19-20)
   - [x] email about masks and other safety mechanisms
-  - [ ] discussion items
-  - [ ] facilitating breakouts + instructions for facilitating
-  - [ ] preparation of intro and reading materials
-  - [ ] coordinating virtual/hybrid participation
-  - [ ] background summary of advisory group for sharing
-  - [ ] easels for discussion
-  - [ ] prompts for problems or obstacles encountered dealing with grants - where is the friction?
-  - [ ] need for guides to walk people over from Holiday Inn in the mornings
+see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
+
+### T32 Rigor & Reproducibility Seminar Series
+- Summer 2022
+  - [x] recheck availability
+  - [ ] scheduling check (May 16)
+  - [ ] speaker bio on webpage
+  - [ ] confirm date and time
+  - [ ] setup libcal event
+  - [ ] reminder email
+  - [ ] advertising
+  - [ ] setup google docs
 
 ### OA Committee
 - [x] set agenda for June
@@ -107,14 +111,3 @@
 - [x] invite reviewers
 - [ ] read reviews
 - [ ] make decision
-
-
-### T32 Rigor & Reproducibility Seminar Series
-- Summer 2022
-  - [x] recheck availability
-  - [ ] speaker bio on webpage
-  - [ ] confirm date and time
-  - [ ] setup libcal event
-  - [ ] reminder email
-  - [ ] advertising
-  - [ ] setup google docs
