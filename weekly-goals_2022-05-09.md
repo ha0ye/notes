@@ -103,8 +103,8 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] skim paper
 - [x] invite reviewers
 - [x] invite more reviewers
-- [ ] read reviews
-- [ ] make decision
+- [x] read reviews
+- [x] make decision
 
 ### MEE stochastic/stability paper
 - [x] skim paper
