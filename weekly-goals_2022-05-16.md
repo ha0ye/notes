@@ -15,7 +15,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
   - [x] recheck availability
-  - [ ] scheduling check (May 16)
+  - [x] scheduling check (May 16)
   - [ ] speaker bio on webpage
   - [ ] confirm date and time
   - [ ] setup libcal event
@@ -32,8 +32,9 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### FAIR Biomed Teaching
 
 ### Misc
-- [ ] add summer workshops to calendar
+- [x] add summer workshops to calendar
 - [ ] UF Core Values Letter
+- [x] marketing for UF RCR series
 
 ### Faculty Mentoring
 
@@ -96,13 +97,6 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [ ] examples and template language for journal policy
 
 ### Milk Metabolomics Searching
-
-### MEE time series paper
-- [x] skim paper
-- [x] invite reviewers
-- [x] invite more reviewers
-- [x] read reviews
-- [x] make decision
 
 ### MEE stochastic/stability paper
 - [x] skim paper
