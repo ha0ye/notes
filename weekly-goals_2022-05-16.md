@@ -39,6 +39,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### Faculty Mentoring
 
 ### MLA Data Caucus
+- [ ] distribute ballot?
 
 ### HSCL DEI / Values Statement
 - [ ] respond to Hannah comments
@@ -103,3 +104,5 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] invite reviewers
 - [ ] read reviews
 - [ ] make decision
+
+### MEE community interactions paper
