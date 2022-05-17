@@ -35,6 +35,8 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] add summer workshops to calendar
 - [ ] UF Core Values Letter
 - [x] marketing for UF RCR series
+- [x] forward information about HSCL workshops
+- [x] faculty meeting minutes for 05-13
 
 ### Faculty Mentoring
 
