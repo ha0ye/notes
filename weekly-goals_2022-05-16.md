@@ -50,7 +50,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### Consequences of the Scientific Reform Movement
 - [x] draft abstract
 - [x] ask for feedback on abstract
-- [ ] submit abstract
+- [x] submit abstract
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
