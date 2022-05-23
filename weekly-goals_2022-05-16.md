@@ -6,6 +6,9 @@
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
+- [ ] set up meetings after May 25
+- [ ] set up UF Team meeting
+- [ ] IRB approval for interview
 - [x] cost justification to Lori for coffee and snacks
 - [x] announce student position ad
 - [x] agenda for advisory group meeting (May 19-20)
