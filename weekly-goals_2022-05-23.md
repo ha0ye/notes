@@ -49,7 +49,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [ ] send reminder
 
 ### Consequences of the Scientific Reform Movement
-- [ ] coordinate meetings (depending on acceptance of approval)
+- [ ] coordinate meetings
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
