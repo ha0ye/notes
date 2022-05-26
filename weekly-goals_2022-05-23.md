@@ -43,7 +43,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### Faculty Mentoring
 
 ### MLA Data Caucus
-- [ ] send ballot reminder (May 27)
+- [x] send ballot reminder
 
 ### HSCL DEI / Values Statement
 - [ ] respond to Hannah comments
