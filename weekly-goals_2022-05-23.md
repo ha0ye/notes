@@ -5,7 +5,8 @@
 ## weekly
 
 ### NINDS Meeting
-- [ ] meeting stuff
+- [x] meeting stuff
+- [ ] file reimbursement
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
