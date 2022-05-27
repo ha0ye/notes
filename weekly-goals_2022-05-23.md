@@ -6,7 +6,7 @@
 
 ### NINDS Meeting
 - [x] meeting stuff
-- [ ] file reimbursement
+- [x] send reimbursement forms and receipts
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -39,6 +39,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### Misc
 - [ ] UF Core Values Letter
 - [x] Update eval materials
+- [ ] meeting minutes 2022-05-27
 
 ### Faculty Mentoring
 
