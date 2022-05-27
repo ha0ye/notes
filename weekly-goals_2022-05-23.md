@@ -38,7 +38,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] Update eval materials
+- [x] Update eval materials
 
 ### Faculty Mentoring
 
