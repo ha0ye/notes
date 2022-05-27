@@ -4,6 +4,19 @@
 
 ## weekly
 
+### Midterm T&P Packet
+- [ ] cover sheet
+- [ ] completed packet
+	- [ ]  annual evaluation letter for each year
+	- [ ]  T&P Criteria
+	- [ ]  Chair's letter
+	- [ ]  annual assignments for each year
+	- [ ]  annual activity reports for each year
+	- [ ]  annual goals for each year
+	- [ ]  curriculum vitae
+	- [ ]  any other documents nominee feels are important
+- [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps
+
 ### NINDS Meeting
 - [x] meeting stuff
 - [x] send reimbursement forms and receipts
