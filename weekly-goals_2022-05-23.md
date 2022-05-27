@@ -39,7 +39,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### Misc
 - [ ] UF Core Values Letter
 - [x] Update eval materials
-- [ ] meeting minutes 2022-05-27
+- [ ] meeting minutes 2022-05-20
 
 ### Faculty Mentoring
 
