@@ -47,6 +47,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 
 ### Misc
 - [ ] UF Core Values Letter
+- [ ] social media posts (June 6, June 10, June 22, July 5)
 
 ### Faculty Mentoring
 
@@ -114,10 +115,16 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] skim paper
 - [x] invite reviewers
 - [x] read reviews
-- [ ] make decision
+- [x] make decision
 
 ### MEE community interactions paper
-- [ ] skim paper
-- [ ] invite reviewers
+- [x] skim paper
+- [x] invite reviewers
 - [ ] read reviews
 - [ ] make decision
+
+### MEE weak interactions paper
+- [ ] skim paper and past reviews
+- [ ] invite reviewers?
+- [ ] read reviews?
+- [ ] make decision?
