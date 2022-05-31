@@ -22,8 +22,8 @@
 - [ ] set up summer meetings
 - [ ] IRB approval for interview
 - [ ] receipts and sign-in sheets to Lori
-- [ ] check applications for student position
-- [ ] meeting follow-up email
+- [x] check applications for student position
+- [x] meeting follow-up email
 see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 
 ### T32 Rigor & Reproducibility Seminar Series
