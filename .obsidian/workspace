@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-05-23.md",
+            "file": "weekly-goals_2022-05-31.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-05-23.md",
+                "file": "weekly-goals_2022-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-05-23.md"
+                "file": "weekly-goals_2022-05-31.md"
               }
             }
           },
@@ -107,6 +107,7 @@
   },
   "active": "60e5d5be9d850f3c",
   "lastOpenFiles": [
+    "weekly-goals_2022-05-31.md",
     "weekly-goals_2022-05-23.md",
     "weekly-goals_2022-05-16.md",
     "weekly-goals_2022-05-09.md",
@@ -115,7 +116,6 @@
     "weekly-goals_2022-04-25.md",
     "weekly-goals_2022-04-18.md",
     "weekly-goals_2022-01-03.md",
-    "archive/weekly-goals_2021-07-12.md",
-    "Untitled.md"
+    "archive/weekly-goals_2021-07-12.md"
   ]
 }
