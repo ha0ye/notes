@@ -24,7 +24,7 @@
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] set up meetings after May 25
-- [ ] set up UF Team meeting
+- [x] set up UF Team meeting for June
 - [ ] IRB approval for interview
 - [ ] receipts and sign-in sheets to Lori
 - [ ] check applications for student position
@@ -52,7 +52,8 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### Misc
 - [ ] UF Core Values Letter
 - [x] Update eval materials
-- [ ] meeting minutes 2022-05-20
+- [x] meeting minutes 2022-05-20
+- [x] meeting minutes 2022-05-27
 
 ### Faculty Mentoring
 
@@ -60,7 +61,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] send ballot reminder
 
 ### HSCL DEI / Values Statement
-- [ ] respond to Hannah comments
+- [x] respond to Hannah comments
 - [ ] send reminder
 
 ### Consequences of the Scientific Reform Movement
