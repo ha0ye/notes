@@ -60,7 +60,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] send reminder
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
-- [ ] send out meeting survey
+- [x] send out meeting survey
 - [ ] create and send out agenda
 - [ ] 
 
