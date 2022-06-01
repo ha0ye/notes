@@ -59,8 +59,10 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [x] respond to Hannah comments
 - [x] send reminder
 
-### Consequences of the Scientific Reform Movement
-- [ ] coordinate meetings
+### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
+- [ ] send out meeting survey
+- [ ] create and send out agenda
+- [ ] 
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
