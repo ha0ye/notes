@@ -124,7 +124,5 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 - [ ] make decision
 
 ### MEE weak interactions paper
-- [ ] skim paper and past reviews
-- [ ] invite reviewers?
-- [ ] read reviews?
-- [ ] make decision?
+- [x] skim paper and past review
+- [x] make decision
