@@ -47,7 +47,7 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] social media posts (June 6, June 10, June 22, July 5)
+- [ ] social media posts (~~June 6~~, June 10, June 22, July 5)
 
 ### Faculty Mentoring
 
