@@ -29,10 +29,10 @@ see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
   - [x] scheduling check (May 23)
-  - [ ] set up date and time
+  - [x] set up date and time
+  - [x] confirm date and time
+  - [x] setup libcal event
   - [ ] speaker bio on webpage
-  - [ ] confirm date and time
-  - [ ] setup libcal event
   - [ ] reminder email
   - [ ] advertising
   - [ ] setup google docs
