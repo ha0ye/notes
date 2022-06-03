@@ -21,7 +21,8 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] set up summer meetings
 - [ ] IRB approval for interview
-- [ ] receipts and sign-in sheets to Lori
+- [ ] student assistant interviews
+- [x] receipts and sign-in sheets to Lori
 - [x] check applications for student position
 - [x] meeting follow-up email
 see [advisory-group/prep-plan.md] and [meeting-signup.docx] for tasklist
