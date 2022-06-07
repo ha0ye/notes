@@ -26,6 +26,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
+  - [ ] followup with speaker
   - [ ] speaker bio on webpage
   - [ ] reminder email
   - [ ] advertising
@@ -57,7 +58,9 @@
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] send out meeting survey
-- [ ] create and send out agenda
+- [x] schedule meeting
+- [ ] scaffold coordination of project and distribute
+- [ ] meeting agenda
 - [ ] 
 
 ### Library HiPerGator/ResVault Sponsored Use Program
