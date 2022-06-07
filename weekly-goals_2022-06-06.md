@@ -32,7 +32,7 @@
   - [ ] setup google docs
 
 ### OA Committee
-- [ ] IEP documents
+- [ ] plan out reorganization
 - [ ] organize files and folders in Teams, document organization
 
 ### NIH Data Policy Coordination
