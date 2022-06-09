@@ -36,7 +36,7 @@
 - [ ] plan out file/folder reorganization
 - [ ] do file/folder reorganization
 
-### NIH Data Policy Coordination
+### NIH DMSP working group
 - [ ] finalize coordination
 - [ ] contact volunteers
 
