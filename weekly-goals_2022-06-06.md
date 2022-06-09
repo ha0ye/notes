@@ -26,15 +26,15 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
-  - [ ] followup with speaker
+  - [x] followup with speaker
   - [ ] speaker bio on webpage
   - [ ] reminder email
   - [ ] advertising
   - [ ] setup google docs
 
 ### OA Committee
-- [ ] plan out reorganization
-- [ ] organize files and folders in Teams, document organization
+- [ ] plan out file/folder reorganization
+- [ ] do file/folder reorganization
 
 ### NIH Data Policy Coordination
 - [ ] finalize coordination
@@ -49,7 +49,7 @@
 ### Faculty Mentoring
 
 ### MLA Data Caucus
-- [ ] announce elections results
+- [x] announce elections results
 - [ ] set up Fall meeting
 
 ### HSCL DEI / Values Statement
