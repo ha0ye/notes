@@ -22,7 +22,7 @@
 - [ ] set up summer meetings
 - [ ] draft IRB materials - see manual at https://my.irb.ufl.edu/
 - [x] student assistant interviews
-- [ ] respond to student assistant interviews
+- [ ] respond to student assistant interviews (!)
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
