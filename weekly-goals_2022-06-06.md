@@ -37,8 +37,9 @@
 - [ ] do file/folder reorganization
 
 ### NIH DMSP working group
-- [ ] finalize coordination
-- [ ] contact volunteers
+- [x] send out email
+- [ ] schedule meeting
+- [ ] set agenda
 
 ### FAIR Biomed Teaching
 
@@ -83,26 +84,26 @@
 - [ ] clean up bookmarks and propagate to reproducibility libguide
 - [ ] Research Integrity / RCR libguide
 
-### ARCS webpage
-- [ ] info for hipergator student program
-- [ ] exit assessment for hipergator program
-
-### Modular, Reproducible Data Analysis for the Rest of Us
-- [ ] set up meeting for scoping discussion/chat
-
-## Long-term
-
-### Library Carpentry for Joint Chairs
-- [ ] draft plan and distribute for Joint Chairs & UF Carpentries Club input
-- [ ] distribute plan to UF Carpentries Club
-
-### Ally Skills
-- [ ] message check-in
-
 ### ReproducibiliTea
 - [ ] develop advertising plan
 - [ ] carry out advertising
 - [ ] develop initial reading list
+
+## Long-term
+
+### Library Carpentry Workshop
+- [ ] draft plan and distribute for Joint Chairs & UF Carpentries Club input
+- [ ] distribute plan to UF Carpentries Club
+
+### Modular, Reproducible Data Analysis for the Rest of Us
+- [ ] set up meeting for scoping discussion/chat
+
+### ARCS webpage
+- [ ] info for hipergator student program
+- [ ] exit assessment for hipergator program
+
+### Ally Skills
+- [ ] message check-in
 
 ### DEI team
 - [ ] look into trainings on activism or institutional change
