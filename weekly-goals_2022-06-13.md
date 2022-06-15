@@ -53,6 +53,11 @@
 - [x] respond to Hannah comments
 - [x] send reminder
 
+### Searching for endometriosis outcomes
+- [ ] do initial search
+
+
+
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] send out meeting survey
 - [x] schedule meeting
