@@ -54,9 +54,9 @@
 - [x] send reminder
 
 ### Searching for endometriosis outcomes
-- [ ] do initial search
-
-
+- [x] do initial search
+- [x] send results to Silvana
+- [ ] record stats
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] send out meeting survey
@@ -64,6 +64,11 @@
 - [ ] scaffold coordination of project and distribute
 - [ ] meeting agenda
 - [ ] 
+
+### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
+- [x] signup for paper sections
+- [x] pre-work scheduling and forms
+- [ ] co-working session on Friday June 18
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
@@ -118,12 +123,6 @@
 - [ ] examples and template language for journal policy
 
 ### Milk Metabolomics Searching
-
-### MEE stochastic/stability paper
-- [x] skim paper
-- [x] invite reviewers
-- [x] read reviews
-- [x] make decision
 
 ### MEE community interactions paper
 - [x] skim paper

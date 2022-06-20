@@ -113,12 +113,6 @@
 
 ### Milk Metabolomics Searching
 
-### MEE stochastic/stability paper
-- [x] skim paper
-- [x] invite reviewers
-- [x] read reviews
-- [x] make decision
-
 ### MEE community interactions paper
 - [x] skim paper
 - [x] invite reviewers
