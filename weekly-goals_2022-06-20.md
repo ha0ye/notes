@@ -45,7 +45,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] social media posts (~~June 6~~, ~~June 10~~, June 22, July 5)
+- [ ] social media posts (~~June 6~~, ~~June 10~~, ~~June 22~~, June 29, July 5)
 
 ### ReproducibiliTea
 - [ ] develop advertising plan
@@ -100,6 +100,7 @@
 - [ ] review resources for biostats
 - [ ] review resources for IDP
 - [ ] clean up bookmarks and propagate to reproducibility libguide
+	https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
 - [ ] Research Integrity / RCR libguide
 
 ## Long-term
