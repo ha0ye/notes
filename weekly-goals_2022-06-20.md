@@ -35,6 +35,12 @@
 ### OA Committee
 - [ ] plan out file/folder reorganization
 - [ ] do file/folder reorganization
+- [ ] July agenda
+
+### Blogdown workshop
+- [x] revise libcal event and send out notification
+- [ ] develop materials and test
+
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
