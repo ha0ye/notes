@@ -35,7 +35,7 @@
 ### OA Committee
 - [ ] plan out file/folder reorganization
 - [ ] do file/folder reorganization
-- [ ] July agenda
+- [x] July agenda
 
 ### Blogdown workshop
 - [x] revise libcal event and send out notification
