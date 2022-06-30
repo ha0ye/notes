@@ -8,7 +8,8 @@
 - [x] schedule meeting
 - [x] set agenda
 - [x] create OSF for next meeting
-- [ ] set agenda for more granular timeline
+- [x] set June 30 agenda
+- [ ] 
 
 ### Open Grants
 - [ ] draft IRB materials - see manual at https://my.irb.ufl.edu/
