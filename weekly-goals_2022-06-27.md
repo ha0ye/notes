@@ -19,9 +19,9 @@
 - [ ] set up summer meetings
 - [x] student assistant interviews
 - [x] respond to student assistant interviews
-- [ ] set up onboarding doc
+- [x] set up onboarding doc
 - [x] review expectations with Natalia
-- [ ] complete hiring process
+- [x] complete hiring process
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] send out meeting survey
@@ -51,13 +51,15 @@
 - Summer 2022
   - [x] speaker bio on webpage
   - [x] talk title
-  - [ ] reminder email
+  - [x] reminder email
   - [x] advertising
-  - [ ] setup google docs
+  - [x] setup google docs
+  - [ ] host seminar
+- [ ] check in for Fall 2022 and forward
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] social media posts (~~June 6~~, ~~June 10~~, ~~June 22~~, June 29, July 5)
+- [ ] social media posts (~~June 6~~, ~~June 10~~, ~~June 22~~, ~~June 29~~, July 5)
 
 ### ReproducibiliTea
 - [ ] develop advertising plan
