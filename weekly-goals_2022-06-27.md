@@ -7,7 +7,7 @@
 ### NIH DMSP working group
 - [x] schedule meeting
 - [x] set agenda
-- [ ] create OSF for next meeting
+- [x] create OSF for next meeting
 - [ ] set agenda for more granular timeline
 
 ### Open Grants
@@ -19,13 +19,16 @@
 - [ ] set up summer meetings
 - [x] student assistant interviews
 - [x] respond to student assistant interviews
+- [ ] set up onboarding doc
+- [x] review expectations with Natalia
 - [ ] complete hiring process
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] send out meeting survey
 - [x] schedule meeting
-- [ ] scaffold coordination of project and distribute
-- [ ] meeting agenda
+- [x] meeting agenda
+- [ ] poll for regular meeting date
+- [ ] scaffold organization of main themes for paper
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [x] signup for paper sections
@@ -47,9 +50,9 @@
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2022
   - [x] speaker bio on webpage
-  - [ ] talk title
+  - [x] talk title
   - [ ] reminder email
-  - [ ] advertising
+  - [x] advertising
   - [ ] setup google docs
 
 ### Misc
