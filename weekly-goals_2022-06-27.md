@@ -17,7 +17,8 @@
 	- [ ] proofread protocol and other documents
 	- [ ] submit
 - [ ] reach out to contacts for HBCU, MSI, TCU
-- [ ] set up summer meetings
+- [ ] set up July meeting
+- [ ] set up August meeting
 - [x] student assistant interviews
 - [x] respond to student assistant interviews
 - [x] set up onboarding doc
@@ -28,7 +29,7 @@
 - [x] send out meeting survey
 - [x] schedule meeting
 - [x] meeting agenda
-- [ ] poll for regular meeting date
+- [x] poll for regular meeting date
 - [ ] scaffold organization of main themes for paper
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
@@ -92,8 +93,8 @@
 ### Searching for endometriosis outcomes
 - [x] do initial search
 - [x] send results to Silvana
-- [ ] respond to feedback
-- [ ] record stats
+- [x] send information about searching
+- [x] record stats
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
