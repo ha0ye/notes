@@ -20,7 +20,7 @@
 - [ ] review onboarding doc with Natalia
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
-- [ ] reminder coworking poll
+- [x] reminder coworking poll
 - [ ] set up regular meeting times
 - [ ] scaffold organization of main themes for paper
 
@@ -135,5 +135,5 @@
 ### MEE community interactions paper
 - [x] skim paper
 - [x] invite reviewers
-- [ ] read reviews
-- [ ] make decision
+- [x] read reviews
+- [x] write up decision
