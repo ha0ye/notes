@@ -43,12 +43,13 @@
   - [x] reminder email
   - [x] advertising
   - [x] setup google docs
-  - [ ] host seminar
+  - [x] host seminar
+  - [ ] upload recording to mediasite
 - [ ] check in for Fall 2022 and forward
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] social media posts (~~June 6~~, ~~June 10~~, ~~June 22~~, ~~June 29~~, July 5)
+- [ ] social media posts (~~June 6~~, ~~June 10~~, ~~June 22~~, ~~June 29~~, ~~July 5~~)
 
 ### ReproducibiliTea
 - [ ] develop advertising plan
