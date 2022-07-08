@@ -5,8 +5,9 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] checkin with RDAP and NCDS for funding support
-- [ ] contact RDAP about google drive hosting and connection to OSF
+- [x] checkin with RDAP and NCDS for funding support
+- [x] contact RDAP about google drive hosting and connection to OSF
+	- [ ] wait for post RDAP exec board meeting
 - [ ] 
 
 ### Open Grants
@@ -17,7 +18,7 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] schedule July meeting
 - [ ] set up August meeting
-- [ ] review onboarding doc with Natalia
+- [x] review onboarding doc with Natalia
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] reminder coworking poll
@@ -44,7 +45,7 @@
   - [x] advertising
   - [x] setup google docs
   - [x] host seminar
-  - [ ] upload recording to mediasite
+  - [x] upload recording to mediasite
 - [ ] check in for Fall 2022 and forward
 
 ### Misc
