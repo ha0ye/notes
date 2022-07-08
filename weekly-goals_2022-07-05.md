@@ -22,8 +22,9 @@
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [x] reminder coworking poll
-- [ ] set up regular meeting times
-- [ ] scaffold organization of main themes for paper
+- [x] set up regular meeting times
+- [x] update google doc with meeting times
+- [x] scaffold organization to discuss main themes for paper
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] writing?
