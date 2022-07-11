@@ -30,7 +30,7 @@
 - [ ] writing?
 
 ### OA Committee
-- [ ] plan out file/folder reorganization
+- [ ] plan out file/folder qreorganization
 - [ ] do file/folder reorganization
 - [x] July agenda
 
