@@ -119,6 +119,10 @@
 
 ### Milk Metabolomics Searching
 
+### MEE time series distance metrics
+- [ ] skim revision
+- [ ] decide on reviewers
+
 ### MEE state-specific modeling
 - [x] invite reviewers
 
