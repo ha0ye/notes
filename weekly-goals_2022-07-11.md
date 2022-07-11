@@ -64,6 +64,13 @@
 	- [ ]  any other documents nominee feels are important
 - [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps
 
+### Activity Reporter
+- [x] create project
+- [ ] set up style doc
+- [ ] set up Rmd with templated sections
+- [ ] 
+
+
 ### HSCL DEI / Values Statement
 - [x] send reminder to HSCL 
 
