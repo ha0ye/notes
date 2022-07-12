@@ -28,10 +28,13 @@
 - [ ] do file/folder reorganization
 
 ### Blogdown workshop
-- [ ] develop materials and test
+- [x] develop materials and test
   - [x] startup instructions
   - [x] add resources
-  - [ ] add slides and info on individual pages
+  - [x] add slides and info on individual pages
+- [ ] identify areas of improvement
+- [ ] revise content
+- [ ] release v1.0
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [ ] check in for Fall 2022 and forward
@@ -68,7 +71,7 @@
 - [x] create project
 - [x] set up style doc
 - [ ] set up Rmd with templated sections
-- [ ] 
+- [ ] read in data from UF templated tables
 
 
 ### HSCL DEI / Values Statement
@@ -95,7 +98,7 @@
 - [ ] clean up bookmarks and propagate to reproducibility libguide
 	https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
 - [ ] Research Integrity / RCR libguide
-- [ ] Add blogdown lesson to lessons page
+- [x] Add blogdown lesson to lessons page
 
 ## Long-term
 
