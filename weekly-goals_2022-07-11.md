@@ -66,7 +66,7 @@
 
 ### Activity Reporter
 - [x] create project
-- [ ] set up style doc
+- [x] set up style doc
 - [ ] set up Rmd with templated sections
 - [ ] 
 
