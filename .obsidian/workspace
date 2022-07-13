@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "weekly-goals_2022-07-11.md",
-            "mode": "source"
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 272.5
   },
   "right": {
     "id": "151d2fc0a24160d2",

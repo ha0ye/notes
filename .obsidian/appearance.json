@@ -3,7 +3,7 @@
   "translucency": false,
   "theme": "obsidian",
   "cssTheme": "Base2Tone",
-  "enabledCssSnippets": [
-    "font"
-  ]
+  "enabledCssSnippets": [],
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "Source Code Pro"
 }

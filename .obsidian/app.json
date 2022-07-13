@@ -2,7 +2,8 @@
   "showFrontmatter": true,
   "foldHeading": true,
   "showLineNumber": true,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "source"
 }

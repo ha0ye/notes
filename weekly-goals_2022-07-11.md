@@ -16,6 +16,9 @@
 	- [ ] submit
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] set up August meeting
+- [ ] work on note synthesis
+- [ ] feedback on draft
+- [ ] 
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
 - [ ] set initial proposed ideas for main themes
@@ -32,9 +35,9 @@
   - [x] startup instructions
   - [x] add resources
   - [x] add slides and info on individual pages
-- [ ] identify areas of improvement
-- [ ] revise content
-- [ ] release v1.0
+- [x] identify areas of improvement
+- [x] revise content
+- [x] release v1.0
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [ ] check in for Fall 2022 and forward

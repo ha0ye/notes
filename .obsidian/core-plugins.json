@@ -7,10 +7,10 @@
   "page-preview",
   "note-composer",
   "command-palette",
+  "editor-status",
   "markdown-importer",
   "outline",
   "word-count",
   "slides",
-  "open-with-default-app",
   "file-recovery"
 ]
