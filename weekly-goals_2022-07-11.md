@@ -5,9 +5,10 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] use RDAP google drive hosting and connect to OSF
-	- [ ] wait for post RDAP exec board meeting
-- [ ] scaffold discussion of tasks for next meeting
+- [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
+- [ ] fill out request for honoraria
+- [ ] develop and distribute survey on honoraria
+- [ ] read through policy
 
 ### Open Grants
 - [ ] draft IRB materials - see manual at https://my.irb.ufl.edu/
@@ -21,10 +22,11 @@
 - [ ] 
 
 ### Researcher Empowerment paper for "Consequences of the Scientific Reform Movement"
-- [ ] set initial proposed ideas for main themes
+- [x] cancel paper
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] writing?
+- [ ] sketch out revised section 4/5
+- [ ] start writing revised section 4/5
 
 ### OA Committee
 - [x] plan file/folder qreorganization and distribute notice of proposed changes
@@ -55,11 +57,11 @@
 - [ ] schedule optional participant discussion
 - [x] schedule organizer debrief
 - [x] review feedback for session 4
-- [ ] write up coordination for Fall sessions
+- [ ] begin coordination file for Fall sessions
 - [ ] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
 - [ ] joint chairs presentation (John/Bonnie)
 - [ ] update syllabus (John)
-- [ ] invitation and announcement email text (Hao)
+- [x] invitation and announcement email text (Hao)
 
 ### Midterm T&P Packet
 - [ ] cover sheet
@@ -83,6 +85,7 @@
 
 ### HSCL DEI / Values Statement
 - [x] send reminder to HSCL 
+- [ ] schedule revision time for Hao/Jane/Maggie
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
