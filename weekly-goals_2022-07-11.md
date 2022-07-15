@@ -54,8 +54,12 @@
 ### Faculty Mentoring
 - [ ] schedule optional participant discussion
 - [x] schedule organizer debrief
-- [ ] review feedback for session 4
-- [ ] plan out Fall sessions
+- [x] review feedback for session 4
+- [ ] write up coordination for Fall sessions
+- [ ] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
+- [ ] joint chairs presentation (John/Bonnie)
+- [ ] update syllabus (John)
+- [ ] invitation and announcement email text (Hao)
 
 ### Midterm T&P Packet
 - [ ] cover sheet
