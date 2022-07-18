@@ -33,14 +33,13 @@
 - [ ] do file/folder reorganization
 
 ### Blogdown workshop
-- [ ] add DOI badge
+- [x] add DOI badge
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [ ] check in for Fall 2022 and forward
 
 ### Misc
 - [ ] UF Core Values Letter
-- [x] ARCS news items for HSCL all-staff
 
 ### ReproducibiliTea
 - [ ] develop advertising plan
@@ -49,8 +48,6 @@
 
 ### Faculty Mentoring
 - [ ] schedule optional participant discussion
-- [x] schedule organizer debrief
-- [x] review feedback for session 4
 - [ ] begin coordination file for Fall sessions
 - [ ] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
 - [ ] joint chairs presentation (John/Bonnie)
