@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "151d2fc0a24160d2",
@@ -89,22 +90,13 @@
                 "file": "weekly-goals_2022-07-18.md"
               }
             }
-          },
-          {
-            "id": "f990c887958ff15a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "86265574d11d1b80",
   "lastOpenFiles": [

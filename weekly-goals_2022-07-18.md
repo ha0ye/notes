@@ -36,7 +36,8 @@
 - [x] add DOI badge
 
 ### T32 Rigor & Reproducibility Seminar Series
-- [ ] check in for Fall 2022 and forward
+- [x] check in for Fall 2022 and forward
+- [ ] assemble invitee list for 2022-2023
 
 ### Misc
 - [ ] UF Core Values Letter
@@ -76,7 +77,7 @@
 
 ### HSCL DEI / Values Statement
 - [x] send reminder to HSCL 
-- [ ] schedule revision time for Hao/Jane/Maggie
+- [ ] revisions with Hao/Jane/Maggie
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description

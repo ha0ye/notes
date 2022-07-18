@@ -2,8 +2,11 @@
   "baseFontSize": 13,
   "translucency": false,
   "theme": "obsidian",
-  "cssTheme": "Base2Tone",
-  "enabledCssSnippets": [],
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsidian-default-theme",
+    "custom"
+  ],
   "textFontFamily": "Source Code Pro",
   "monospaceFontFamily": "Source Code Pro"
 }
