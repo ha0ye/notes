@@ -49,8 +49,8 @@
 
 ### Faculty Mentoring
 - [ ] schedule optional participant discussion
-- [ ] begin coordination file for Fall sessions
-- [ ] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
+- [x] begin coordination file for Fall sessions
+- [x] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
 - [ ] joint chairs presentation (John/Bonnie)
 - [ ] update syllabus (John)
 - [x] invitation and announcement email text (Hao)
