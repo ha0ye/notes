@@ -73,6 +73,8 @@
 - [x] set up style doc
 - [ ] set up Rmd with templated sections
 - [ ] read in data from UF templated tables
+- [ ] summary of grant funding ??
+      For assistance with these values, please run the ‘Sponsored Project Portfolio Report (2007 - Present)’ report available at this path: Enterprise Analytics > Sponsored Program Information > Awards > Sponsored Project Portfolio Report (2007 - Present).
 
 
 ### HSCL DEI / Values Statement
