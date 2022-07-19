@@ -71,7 +71,9 @@
 ### Activity Reporter
 - [x] create project
 - [x] set up style doc
-- [ ] set up Rmd with templated sections
+- [x] set up Rmd with section headers
+- [x] set up employment table
+- [ ] set and check all header styles
 - [ ] read in data from UF templated tables
 - [ ] summary of grant funding ??
       For assistance with these values, please run the ‘Sponsored Project Portfolio Report (2007 - Present)’ report available at this path: Enterprise Analytics > Sponsored Program Information > Awards > Sponsored Project Portfolio Report (2007 - Present).
