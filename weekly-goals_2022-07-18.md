@@ -9,7 +9,7 @@
 - [ ] fill out request for honoraria
 - [x] develop and distribute survey on honoraria
 - [ ] survey reminder + followup from this week
-- [ ] update notes with next meeting info
+- [x] update notes with next meeting info
 - [ ] contact other groups re: scoping
 - [ ] read through policy
 
