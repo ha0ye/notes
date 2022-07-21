@@ -8,9 +8,9 @@
 - [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
 - [ ] fill out request for honoraria
 - [x] develop and distribute survey on honoraria
-- [ ] survey reminder + followup from this week
+- [x] survey reminder + followup from this week
 - [x] update notes with next meeting info
-- [ ] contact other groups re: scoping
+- [x] contact other groups re: scoping
 - [ ] read through policy
 
 ### Open Grants
