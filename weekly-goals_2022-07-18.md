@@ -8,7 +8,9 @@
 - [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
 - [ ] fill out request for honoraria
 - [x] develop and distribute survey on honoraria
-- [ ] survey reminder
+- [ ] survey reminder + followup from this week
+- [ ] update notes with next meeting info
+- [ ] contact other groups re: scoping
 - [ ] read through policy
 
 ### Open Grants
@@ -41,6 +43,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
+- [ ] HB 7 questions
 
 ### ReproducibiliTea
 - [ ] develop advertising plan
@@ -48,7 +51,7 @@
 - [ ] develop initial reading list
 
 ### Faculty Mentoring
-- [ ] schedule optional participant discussion
+- [x] schedule optional participant discussion
 - [x] begin coordination file for Fall sessions
 - [x] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
 - [ ] joint chairs presentation (John/Bonnie)
@@ -56,7 +59,7 @@
 - [x] invitation and announcement email text (Hao)
 
 ### Midterm T&P Packet
-- [ ] cover sheet
+- [ ] cover sheet (auto-created by system)
 - [ ] completed packet
 	- [ ]  annual evaluation letter for each year
 	- [ ]  T&P Criteria
