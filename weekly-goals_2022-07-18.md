@@ -84,7 +84,7 @@
 
 ### HSCL DEI / Values Statement
 - [x] send reminder to HSCL 
-- [ ] revisions with Hao/Jane/Maggie
+- [x] revisions with Hao/Jane/Maggie
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
