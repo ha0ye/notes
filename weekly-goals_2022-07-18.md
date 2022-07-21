@@ -39,7 +39,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [x] check in for Fall 2022 and forward
-- [ ] assemble invitee list for 2022-2023
+- [x] assemble invitee list for 2022-2023
 
 ### Misc
 - [ ] UF Core Values Letter
