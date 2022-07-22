@@ -45,7 +45,7 @@
 ### Misc
 - [ ] UF Core Values Letter
 - [ ] HB 7 questions
-- [ ] eval edits
+- [x] eval edits
 
 ### ReproducibiliTea
 - [ ] develop advertising plan
