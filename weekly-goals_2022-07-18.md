@@ -12,6 +12,7 @@
 - [x] update notes with next meeting info
 - [x] contact other groups re: scoping
 - [ ] read through policy
+- [ ] schedule meeting with other group
 
 ### Open Grants
 - [ ] draft IRB materials - see manual at https://my.irb.ufl.edu/
