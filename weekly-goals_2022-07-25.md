@@ -9,7 +9,7 @@
 - [ ] fill out request for honoraria
 - [ ] survey reminder
 - [ ] agenda for July 28 meeting
-- [ ] schedule meeting with other group
+- [ ] schedule meeting with pre-checklist group
 - [ ] read through policy
 
 ### Open Grants
@@ -24,40 +24,31 @@
 - [ ] 
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [x] sketch out revised section 4/5
-- [x] start writing revised section 4/5
-- [ ] draft our remainder of section 4/5
+- [ ] draft out remainder of section 4/5
 
 ### OA Committee
-- [x] plan file/folder qreorganization and distribute notice of proposed changes
 - [ ] brainstorming for OA week
 - [ ] do file/folder reorganization
-
-### Blogdown workshop
-- [x] add DOI badge
+- [x] August meeting agenda
+- [ ] Fall semester scheduling
 
 ### T32 Rigor & Reproducibility Seminar Series
-- [x] check in for Fall 2022 and forward
-- [x] assemble invitee list for 2022-2023
-- [ ] send out invites
+- [ ] send out invites for 2022-2023
 
 ### Misc
 - [ ] UF Core Values Letter
 - [ ] HB 7 questions
-- [x] eval edits
 
 ### ReproducibiliTea
+- [ ] document comms channels
 - [ ] develop advertising plan
 - [ ] carry out advertising
 - [ ] develop initial reading list
 
 ### Faculty Mentoring
-- [x] schedule optional participant discussion
-- [x] begin coordination file for Fall sessions
 - [x] invites for facilitators (Natercia & Colleen, Suzanne, Michelle - Hao; Margarita - John)
 - [ ] joint chairs presentation (John/Bonnie)
 - [ ] update syllabus (John)
-- [x] invitation and announcement email text (Hao)
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
@@ -73,19 +64,13 @@
 - [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps
 
 ### Activity Reporter
-- [x] create project
-- [x] set up style doc
-- [x] set up Rmd with section headers
-- [x] set up employment table
 - [ ] set and check all header styles
 - [ ] read in data from UF templated tables
 - [ ] summary of grant funding ??
       For assistance with these values, please run the ‘Sponsored Project Portfolio Report (2007 - Present)’ report available at this path: Enterprise Analytics > Sponsored Program Information > Awards > Sponsored Project Portfolio Report (2007 - Present).
 
-
 ### HSCL DEI / Values Statement
-- [x] send reminder to HSCL 
-- [x] revisions with Hao/Jane/Maggie
+- [ ] ask DEI team about linking DEI libguide from page https://library.health.ufl.edu/about-us/about-the-hsc-libraries/missionstatement/
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] review program description
@@ -120,11 +105,13 @@
 ### Library Carpentry Workshop
 - [ ] draft plan and distribute for Joint Chairs & UF Carpentries Club input
 - [ ] distribute plan to UF Carpentries Club
+- [ ] pass to Natya?
 
 ### Modular, Reproducible Data Analysis for the Rest of Us
 - [ ] set up meeting for scoping discussion/chat
 
 ### ARCS webpage
+(Borui will lead)
 - [ ] info for hipergator student program
 - [ ] exit assessment for hipergator program
 
@@ -140,8 +127,8 @@
 ### Milk Metabolomics Searching
 
 ### MEE time series distance metrics
-- [ ] skim revision
-- [ ] decide on reviewers
+- [x] skim revision
+- [ ] write response
 
 ### MEE state-specific modeling
 - [x] invite reviewers
