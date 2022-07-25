@@ -98,7 +98,10 @@
 ## Long-term
 
 ### MLA Data Caucus
-- [ ] send survey Fall meeting
+- [x] send scheduling poll for Fall meeting
+- [ ] send reminder for scheduling poll
+- [ ] schedule Fall meeting
+- [ ] set agenda
 
 ### FAIR Biomed Teaching
 
