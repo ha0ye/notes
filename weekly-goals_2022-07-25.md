@@ -7,7 +7,7 @@
 ### NIH DMSP working group
 - [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
 - [ ] fill out request for honoraria
-- [ ] survey reminder
+- [ ] honoraria survey reminder
 - [ ] agenda for July 28 meeting
 - [ ] schedule meeting with pre-checklist group
 - [ ] read through policy
@@ -33,7 +33,7 @@
 - [ ] Fall semester scheduling
 
 ### T32 Rigor & Reproducibility Seminar Series
-- [ ] send out invites for 2022-2023
+- [x] send out invites for 2022-2023
 
 ### Misc
 - [ ] UF Core Values Letter
@@ -95,13 +95,13 @@
 - [ ] Research Integrity / RCR libguide
 - [x] Add blogdown lesson to lessons page
 
-## Long-term
-
 ### MLA Data Caucus
 - [x] send scheduling poll for Fall meeting
 - [ ] send reminder for scheduling poll
 - [ ] schedule Fall meeting
 - [ ] set agenda
+
+## Long-term
 
 ### FAIR Biomed Teaching
 
