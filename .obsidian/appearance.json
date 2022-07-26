@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 12,
   "translucency": false,
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Sanctum",
   "enabledCssSnippets": [
     "obsidian-default-theme",
     "custom"
