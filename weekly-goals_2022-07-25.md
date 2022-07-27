@@ -7,14 +7,13 @@
 ### NIH DMSP working group
 - [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
 - [ ] fill out request for honoraria
-- [ ] honoraria survey reminder
 - [ ] agenda for July 28 meeting
 - [ ] schedule meeting with pre-checklist group
 - [ ] read through policy
 
 ### Open Grants
-- [ ] draft IRB materials - see manual at https://my.irb.ufl.edu/
-	- [ ] finish responses
+- [x] draft IRB materials - see manual at https://my.irb.ufl.edu/
+	- [x] finish responses
 	- [ ] proofread protocol and other documents
 	- [ ] submit
 - [ ] reach out to contacts for HBCU, MSI, TCU
