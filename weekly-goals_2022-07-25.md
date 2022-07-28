@@ -9,19 +9,19 @@
 - [x] review honoraria survey data
 - [ ] fill out request for honoraria
 - [x] agenda for July 28 meeting
-- [ ] schedule meeting with pre-checklist group
+- [x] schedule meeting with pre-checklist group
 - [ ] read through policy
 
 ### Open Grants
 - [x] draft IRB materials - see manual at https://my.irb.ufl.edu/
 	- [x] finish responses
-	- [ ] proofread protocol and other documents
-	- [ ] submit
+	- [ ] submit IRB application
+	- [ ] extension
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] set up August meeting
 - [ ] work on note synthesis
 - [ ] feedback on draft
-- [ ] 
+- [ ] slides for July meeting
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] draft out remainder of section 4/5
