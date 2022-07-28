@@ -6,9 +6,9 @@
 
 ### NIH DMSP working group
 - [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
-- [ ] review honoraria survey data
+- [x] review honoraria survey data
 - [ ] fill out request for honoraria
-- [ ] agenda for July 28 meeting
+- [x] agenda for July 28 meeting
 - [ ] schedule meeting with pre-checklist group
 - [ ] read through policy
 

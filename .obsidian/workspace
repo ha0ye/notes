@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-07-25.md",
+            "file": "DMSP notes.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-07-25.md",
+                "file": "DMSP notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-07-25.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -100,6 +100,7 @@
   },
   "active": "86265574d11d1b80",
   "lastOpenFiles": [
+    "weekly-goals_2022-07-25.md",
     "weekly-goals_2022-07-18.md",
     "weekly-goals_2022-07-11.md",
     "weekly-goals_2022-07-05.md",
@@ -108,7 +109,6 @@
     "weekly-goals_2022-02-14.md",
     "weekly-goals_2022-06-13.md",
     "weekly-goals_2022-06-06.md",
-    "weekly-goals_2022-05-31.md",
-    "weekly-goals_2022-05-23.md"
+    "weekly-goals_2022-05-31.md"
   ]
 }
