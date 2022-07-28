@@ -1,5 +1,8 @@
 
+# 
 
+
+# Elements of an NIH DMSP
 
 NIH institutes, centers, or offices, may have specific data sharing expectations (e.g., scientific data to share, relevant standards, repository selection, timelines).
 
@@ -43,3 +46,22 @@ Elements:
 	* how will compliance with the plan be monitored and managed?
 	* frequency
 	* who?
+
+# Allowable Costs
+
+* costs must be during performance period, *even for data sharing beyond the award period*
+* NO infrastructure costs that are institutional overhead (Facilities and Administrative costs)
+* NO costs for collecting or accessing research data (routine costs of research, NOT data management and sharing)
+* allowable costs
+	* curating data and developing supporting documentation
+		* formatting
+		* de-identifying
+		* preparing metadata
+	* local data management considerations
+		* unique and specialized infrastructure ofr local management and preservation (before depost into an established repository)
+	* preserving and sharing in repositories
+		* data deposit fees
+		* if plan specifies X years, pay for X years prior to end of award period
+
+
+# Selecting a Repository
