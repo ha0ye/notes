@@ -36,6 +36,13 @@
 - [x] send out invites for 2022-2023
 - [ ] handle invite responses and schedule
 
+### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
+- [ ] course advertising
+- [ ] review reproducibility materials
+- [ ] review grant materials
+- [ ] revise reproducibility materials
+- [ ] write/revise grant materials
+
 ### Misc
 - [ ] UF Core Values Letter
 - [ ] HB 7 questions
