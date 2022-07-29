@@ -5,7 +5,8 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] use RDAP google drive hosting and connect to OSF (delayed for a few weeks)
+- [ ] use RDAP google drive hosting and connect to OSF (check next week)
+- [ ] migrate items to google drive
 - [x] review honoraria survey data
 - [ ] fill out request for honoraria
 - [x] agenda for July 28 meeting
@@ -21,7 +22,7 @@
 - [ ] set up August meeting
 - [ ] work on note synthesis
 - [ ] feedback on draft
-- [ ] slides for July meeting
+- [x] slides for July meeting
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] draft out remainder of section 4/5
@@ -45,7 +46,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] HB 7 questions
+- [x] HB 7 questions
 
 ### ReproducibiliTea
 - [ ] document comms channels
