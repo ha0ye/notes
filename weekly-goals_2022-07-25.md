@@ -60,7 +60,6 @@
 - [ ] update syllabus (John)
 - [ ] announcement email to faculty  https://libcal.uflib.ufl.edu/event/9169727
 - [ ] contact Juliana to add details and open registration for the first session
-- [ ] 
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
