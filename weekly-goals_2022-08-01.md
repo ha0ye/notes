@@ -43,6 +43,8 @@
 
 ### Misc
 - [ ] UF Core Values Letter
+- [ ] contact Margarita about meeting
+- [ ] contact Michelle about RCR summer series
 
 ### ReproducibiliTea
 - [ ] document comms channels
