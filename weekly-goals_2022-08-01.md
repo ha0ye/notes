@@ -16,8 +16,9 @@
 	- [x] finish responses
 	- [ ] review and make edits
 	- [ ] submit IRB application
+- [ ] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
 - [ ] reach out to contacts for HBCU, MSI, TCU
-- [ ] set up August meeting
+- [x] schedule August meeting
 - [ ] work on note synthesis
 - [ ] feedback on draft
 
