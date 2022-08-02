@@ -16,7 +16,7 @@
 	- [x] finish responses
 	- [ ] review and make edits
 	- [ ] submit IRB application
-- [ ] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
+- [x] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] schedule August meeting
 - [ ] work on note synthesis
@@ -44,6 +44,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
+- [x] UF Core Values council application
 - [ ] contact Margarita about meeting
 - [ ] contact Michelle about RCR summer series
 
@@ -57,7 +58,7 @@
 - [ ] joint chairs presentation (John/Bonnie)
 - [ ] update syllabus (John)
 - [ ] announcement email to faculty  https://libcal.uflib.ufl.edu/event/9169727
-- [ ] contact Juliana to add details and open registration for the first session
+- [x] contact Juliana to add details and open registration for the first session
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
@@ -103,7 +104,7 @@
 
 ### MLA Data Caucus
 - [x] send scheduling poll for Fall meeting
-- [ ] send reminder for scheduling poll
+- [x] send reminder for scheduling poll
 - [ ] schedule Fall meeting
 - [ ] set agenda
 
