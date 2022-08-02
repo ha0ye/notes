@@ -1,6 +1,4 @@
-# Goals
-2022-08-01
----
+# Goals 2022-08-01
 
 ## weekly
 
@@ -47,6 +45,7 @@
 - [x] UF Core Values council application
 - [ ] contact Margarita about meeting
 - [ ] contact Michelle about RCR summer series
+- [ ] sign up for marketing messages
 
 ### ReproducibiliTea
 - [ ] document comms channels

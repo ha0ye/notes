@@ -48,8 +48,19 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "252bb39861a90f15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weekly-goals_2022-08-01.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
