@@ -15,6 +15,7 @@
 	- [ ] review and make edits
 	- [ ] submit IRB application
 - [x] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
+- [ ] ask Natalia to coordinate to metadata discussions
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] schedule August meeting
 - [ ] work on note synthesis
@@ -34,7 +35,7 @@
 - [ ] handle invite responses and schedule
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
-- [ ] course advertising
+- [~] course advertising
 - [ ] review reproducibility materials
 - [ ] review grant materials
 - [ ] revise reproducibility materials
@@ -44,7 +45,7 @@
 - [ ] UF Core Values Letter
 - [x] UF Core Values council application
 - [x] contact Margarita about meeting
-- [ ] contact Michelle about RCR summer series
+- [ ] contact Michelle Leonard about RCR summer series
 - [x] sign up for marketing messages
 
 ### ReproducibiliTea
@@ -55,8 +56,7 @@
 
 ### Faculty Mentoring
 - [ ] joint chairs presentation (John/Bonnie)
-- [ ] update syllabus (John)
-- [ ] announcement email to faculty  https://libcal.uflib.ufl.edu/event/9169727
+- [x] announcement email to faculty  https://libcal.uflib.ufl.edu/event/9169727
 - [x] contact Juliana to add details and open registration for the first session
 
 ### Midterm T&P Packet
