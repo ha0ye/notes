@@ -43,9 +43,9 @@
 ### Misc
 - [ ] UF Core Values Letter
 - [x] UF Core Values council application
-- [ ] contact Margarita about meeting
+- [x] contact Margarita about meeting
 - [ ] contact Michelle about RCR summer series
-- [ ] sign up for marketing messages
+- [x] sign up for marketing messages
 
 ### ReproducibiliTea
 - [ ] document comms channels
