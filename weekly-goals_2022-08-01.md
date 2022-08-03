@@ -79,8 +79,7 @@
       For assistance with these values, please run the ‘Sponsored Project Portfolio Report (2007 - Present)’ report available at this path: Enterprise Analytics > Sponsored Program Information > Awards > Sponsored Project Portfolio Report (2007 - Present).
 
 ### Library HiPerGator/ResVault Sponsored Use Program
-- [ ] review program description
-- [x] review processes for accounts, including allocations, sunsetting, etc.
+- [ ] review program description and processes
 - [ ] start spreadsheet for active user information
 - [ ] Research Computing slack - get information and prep to share
 - [ ] develop internal docs for workflow
