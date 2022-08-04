@@ -5,7 +5,8 @@
 ### NIH DMSP working group
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
-- [ ] fill out request for honoraria
+- [x] draft honoraria request RDAP
+- [ ] draft honoraria request NCDS
 - [ ] read through policy
 - [d] draft email for coordinating groups
 
@@ -14,12 +15,12 @@
 	- [x] finish responses
 	- [ ] review and make edits
 	- [ ] submit IRB application
+- [ ] work on note synthesis
+- [ ] feedback on draft
 - [x] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
 - [ ] ask Natalia to coordinate to metadata discussions
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] schedule August meeting
-- [ ] work on note synthesis
-- [ ] feedback on draft
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] draft out remainder of section 4/5
@@ -47,6 +48,7 @@
 - [x] contact Margarita about meeting
 - [ ] contact Michelle Leonard about RCR summer series
 - [x] sign up for marketing messages
+- [ ] ARCS updates
 
 ### ReproducibiliTea
 - [ ] document comms channels
