@@ -18,7 +18,7 @@
 - [ ] work on note synthesis
 - [ ] feedback on draft
 - [x] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
-- [ ] ask Natalia to coordinate to metadata discussions
+- [x] ask Natalia to coordinate metadata discussions
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [x] schedule August meeting
 
@@ -26,7 +26,8 @@
 - [ ] draft out remainder of section 4/5
 
 ### OA Committee
-- [ ] brainstorming for OA week
+- [x] brainstorming for OA week
+- [ ] brainstrom faculty outreach for OA week
 - [x] do file/folder reorganization
 - [~] Fall semester scheduling
 
@@ -61,6 +62,7 @@
 - [ ] joint chairs presentation (John/Bonnie)
 - [x] announcement email to faculty  https://libcal.uflib.ufl.edu/event/9169727
 - [x] contact Juliana to add details and open registration for the first session
+- [ ] organize files into Facilitators channel in Teams
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
