@@ -49,6 +49,7 @@
 - [ ] contact Michelle Leonard about RCR summer series
 - [x] sign up for marketing messages
 - [ ] ARCS updates
+- [ ] migrate gitlab repos
 
 ### ReproducibiliTea
 - [ ] document comms channels
