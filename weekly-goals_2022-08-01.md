@@ -26,8 +26,8 @@
 
 ### OA Committee
 - [ ] brainstorming for OA week
-- [ ] do file/folder reorganization
-- [ ] Fall semester scheduling
+- [x] do file/folder reorganization
+- [~] Fall semester scheduling
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [x] send out invites for 2022-2023
