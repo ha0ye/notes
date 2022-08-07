@@ -6,7 +6,8 @@
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
 - [x] draft honoraria request RDAP
-- [ ] draft honoraria request NCDS
+- [x] draft honoraria request NCDS
+- [ ] send funding requests
 - [ ] read through policy
 - [d] draft email for coordinating groups
 
@@ -27,7 +28,7 @@
 
 ### OA Committee
 - [x] brainstorming for OA week
-- [ ] brainstrom faculty outreach for OA week
+- [ ] brainstorm faculty outreach for OA week
 - [x] do file/folder reorganization
 - [~] Fall semester scheduling
 
