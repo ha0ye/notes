@@ -1,15 +1,12 @@
-# Goals 2022-08-01
+# Goals 2022-08-10
 
 ## weekly
 
 ### NIH DMSP working group
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
-- [x] draft honoraria request RDAP
-- [x] draft honoraria request NCDS
 - [ ] send funding requests
 - [ ] read through policy
-- [x] draft email for coordinating groups
 
 ### Open Grants
 - [x] draft IRB materials - see manual at https://my.irb.ufl.edu/
@@ -18,23 +15,17 @@
 	- [ ] submit IRB application
 - [ ] work on note synthesis
 - [ ] feedback on draft
-- [x] email Xiaoli and Plato for more explicit instructions on feedback for metadata schema
-- [x] ask Natalia to coordinate metadata discussions
 - [ ] reach out to contacts for HBCU, MSI, TCU
-- [x] schedule August meeting
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] draft out remainder of section 4/5
 
 ### OA Committee
-- [x] brainstorming for OA week
 - [ ] brainstorm faculty outreach for OA week
-- [x] do file/folder reorganization
-- [~] Fall semester scheduling
+- [ ] finalize Fall semester scheduling
 
 ### T32 Rigor & Reproducibility Seminar Series
-- [x] send out invites for 2022-2023
-- [ ] check on invites
+- [ ] check on invites for 2022-2023
 - [ ] handle invite responses and schedule
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
@@ -46,12 +37,8 @@
 
 ### Misc
 - [ ] UF Core Values Letter
-- [x] UF Core Values council application
-- [x] contact Margarita about meeting
 - [ ] contact Michelle Leonard about RCR summer series
-- [x] sign up for marketing messages
-- [ ] ARCS updates
-- [ ] migrate gitlab repos
+- [~] ARCS updates
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -61,8 +48,6 @@
 
 ### Faculty Mentoring
 - [ ] joint chairs presentation (John/Bonnie)
-- [x] announcement email to faculty  https://libcal.uflib.ufl.edu/event/9169727
-- [x] contact Juliana to add details and open registration for the first session
 - [ ] organize files into Facilitators channel in Teams
 
 ### Midterm T&P Packet
@@ -107,8 +92,6 @@
 - [x] Add blogdown lesson to lessons page
 
 ### MLA Data Caucus
-- [x] send scheduling poll for Fall meeting
-- [x] send reminder for scheduling poll
 - [ ] schedule Fall meeting
 - [ ] set agenda
 
@@ -141,11 +124,11 @@
 ### Milk Metabolomics Searching
 
 ### MEE time series distance metrics
-- [x] skim revision
-- [x] write response
 
 ### MEE state-specific modeling
 - [x] invite reviewers
+- [ ] read reviews
+- [ ] write decision
 
 ### MEE community interactions paper
 
