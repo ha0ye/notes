@@ -5,7 +5,7 @@
 ### NIH DMSP working group
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
-- [ ] send funding requests
+- [x] send funding requests
 - [ ] read through policy
 
 ### Open Grants
@@ -14,18 +14,19 @@
 	- [ ] review and make edits
 	- [ ] submit IRB application
 - [ ] work on note synthesis
-- [ ] feedback on draft
+- [x] feedback on draft
 - [ ] reach out to contacts for HBCU, MSI, TCU
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] draft out remainder of section 4/5
 
 ### OA Committee
-- [ ] brainstorm faculty outreach for OA week
-- [ ] finalize Fall semester scheduling
+- [x] brainstorm faculty outreach for OA week
+- [ ] gather faculty names to contact for OA week
+- [x] finalize Fall semester scheduling
 
 ### T32 Rigor & Reproducibility Seminar Series
-- [ ] check on invites for 2022-2023
+- [x] check on invites for 2022-2023
 - [ ] handle invite responses and schedule
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
@@ -39,6 +40,8 @@
 - [ ] UF Core Values Letter
 - [ ] contact Michelle Leonard about RCR summer series
 - [~] ARCS updates
+- [x] privilege wheel email followup
+- [ ] schedule Fall standalones
 
 ### ReproducibiliTea
 - [ ] document comms channels
