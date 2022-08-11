@@ -42,6 +42,7 @@
 - [~] ARCS updates
 - [x] privilege wheel email followup
 - [ ] schedule Fall standalones
+- [ ] marketing messages 
 
 ### ReproducibiliTea
 - [ ] document comms channels
