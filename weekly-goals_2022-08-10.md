@@ -43,7 +43,7 @@
 - [x] privilege wheel email followup
 - [ ] schedule Fall standalones
 - [ ] marketing messages 
-- [ ] schedule AI ethics content discussions
+- [x] schedule AI ethics content discussions
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -86,7 +86,6 @@
 - [ ] request changes for intake form (Aida)
 
 ### LibGuides
-- [ ] add info to AI libguide
 - [ ] redo pubmed searching guide
 - [ ] review resources for HOBI
 - [ ] review resources for biostats
