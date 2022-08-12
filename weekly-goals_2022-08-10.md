@@ -43,6 +43,7 @@
 - [x] privilege wheel email followup
 - [ ] schedule Fall standalones
 - [ ] marketing messages 
+- [ ] schedule AI ethics content discussions
 
 ### ReproducibiliTea
 - [ ] document comms channels
