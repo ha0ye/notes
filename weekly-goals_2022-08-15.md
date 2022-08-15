@@ -3,7 +3,7 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] write agenda for August 17 meeting
+- [x] agenda for August 17 meeting
 - [ ] wrangle honoraria funding 
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
@@ -40,10 +40,14 @@
 ### Misc
 - [ ] UF Core Values Letter
 - [ ] contact Michelle Leonard about RCR summer series
-- [ ] liaison email
+- [x] liaison email
+  + ~~biostats~~
+  + ~~graduate program in biomedical sciences~~
+  + ~~HOBI~~
+- [x] delegate response to privilege wheel
 - [x] ARCS updates
-- [ ] delegate response to privilege wheel
 - [x] schedule Fall standalones
+- [ ] add workshops to AI training spreadsheet
 
 ### ReproducibiliTea
 - [ ] document comms channels
