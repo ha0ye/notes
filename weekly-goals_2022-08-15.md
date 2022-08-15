@@ -47,7 +47,7 @@
 - [x] delegate response to privilege wheel
 - [x] ARCS updates
 - [x] schedule Fall standalones
-- [ ] add workshops to AI training spreadsheet
+- [x] add workshops to AI training spreadsheet
 
 ### ReproducibiliTea
 - [ ] document comms channels
