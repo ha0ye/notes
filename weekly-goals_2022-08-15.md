@@ -21,9 +21,12 @@
 - [ ] draft out remainder of section 4
 
 ### OA Committee
-- [ ] gather faculty names to contact for OA week
+- [x] gather faculty names to contact for OA week
 - [x] add Megan Daly to September meeting and Teams
 - [x] agenda for September meeting
+- [ ] finalize OA panel invitees
+- [ ] finalize OA panel details for invitations
+- [ ] send OA panel invitations
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [x] check on invites for 2022-2023
@@ -48,6 +51,7 @@
 - [x] ARCS updates
 - [x] schedule Fall standalones
 - [x] add workshops to AI training spreadsheet
+- [ ] code review sections
 
 ### ReproducibiliTea
 - [ ] document comms channels
