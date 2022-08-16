@@ -39,7 +39,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] contact Michelle Leonard about RCR summer series
+- [x] contact Michelle Leonard about RCR summer series
 - [x] liaison email
   + ~~biostats~~
   + ~~graduate program in biomedical sciences~~
