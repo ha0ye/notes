@@ -15,6 +15,7 @@
 	- [ ] submit IRB application
 - [ ] review draft
 - [ ] work on note synthesis
+- [x] review interviewee spreadsheet
 - [ ] reach out to contacts for HBCU, MSI, TCU
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
@@ -52,6 +53,7 @@
 - [x] schedule Fall standalones
 - [x] add workshops to AI training spreadsheet
 - [ ] code review sections
+- [ ] MLA community council voting
 
 ### ReproducibiliTea
 - [ ] document comms channels
