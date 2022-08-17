@@ -66,7 +66,7 @@
 - [ ] draft 
 
 ### Faculty Mentoring
-- [ ] reminder email
+- [x] reminder email
 - [ ] organize files into Facilitators channel in Teams
 
 ### Midterm T&P Packet
