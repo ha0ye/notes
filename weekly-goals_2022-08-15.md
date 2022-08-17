@@ -66,7 +66,7 @@
 - [ ] draft 
 
 ### Faculty Mentoring
-- [ ] joint chairs presentation (John/Bonnie)
+- [ ] reminder email
 - [ ] organize files into Facilitators channel in Teams
 
 ### Midterm T&P Packet
