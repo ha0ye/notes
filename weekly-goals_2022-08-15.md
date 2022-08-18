@@ -4,7 +4,7 @@
 
 ### NIH DMSP working group
 - [x] agenda for August 17 meeting
-- [ ] wrangle honoraria funding 
+- [x] wrangle honoraria funding 
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
 - [ ] read through policy
@@ -31,7 +31,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - [x] check on invites for 2022-2023
-- [ ] schedule Fall and Spring seminar dates
+- [x] schedule Fall and Spring seminar dates
 - [ ] check on invites for summer 2023
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
@@ -53,7 +53,7 @@
 - [x] schedule Fall standalones
 - [x] add workshops to AI training spreadsheet
 - [ ] code review sections
-- [ ] MLA community council voting
+- [x] MLA community council voting
 
 ### ReproducibiliTea
 - [ ] document comms channels
