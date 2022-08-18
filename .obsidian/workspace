@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-08-15.md",
+            "file": "DMSP notes.md",
             "mode": "source",
             "source": true
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-08-15.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-08-15.md",
+                "file": "DMSP notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-08-15.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -110,12 +110,12 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "weekly-goals_2022-08-15.md",
     "UF ReproducibiliTea Planning.md",
     "chart.md",
     "notes-UF-DMSP-help.md",
     "gms-5909-course-notes.md",
     "DMSP notes.md",
-    "weekly-goals_2022-08-15.md",
     "weekly-goals_2022-08-10.md",
     "weekly-goals_2022-08-01.md",
     "weekly-goals_2022-07-25.md",
