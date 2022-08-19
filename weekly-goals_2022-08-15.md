@@ -19,7 +19,8 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] draft out remainder of section 4
+- [x] draft out remainder of section 4
+- [ ] summary table of roles and properties
 
 ### OA Committee
 - [x] gather faculty names to contact for OA week
