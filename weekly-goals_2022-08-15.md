@@ -104,6 +104,8 @@
 - [ ] redo pubmed searching guide
 - [ ] review resources for HOBI
 - [ ] review resources for biostats
+	- [x] grover to fix liaison page links
+	- [x] email with Mary about public health libguide
 - [ ] review resources for IDP
 - [ ] clean up bookmarks and propagate to reproducibility libguide
 	https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
@@ -113,6 +115,7 @@
 ### MLA Data Caucus
 - [x] schedule Fall meeting
 - [ ] set agenda
+	- [ ] MLA history thing
 
 ## Long-term
 
