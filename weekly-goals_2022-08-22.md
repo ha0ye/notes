@@ -4,7 +4,8 @@
 
 ### NIH DMSP working group
 - [ ] wrangle honoraria funding from RDAP
-- [ ] setup September and October meetings
+- [x] setup September meetings
+- [ ] setup October meetings
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
 - [ ] read through policy
@@ -12,7 +13,8 @@
 ### Open Grants
 - [x] draft IRB materials - see manual at https://my.irb.ufl.edu/
 	- [x] review and make edits
-	- [ ] submit IRB application
+	- [x] submit IRB application
+- [x] slides for Aug 24 meeting
 - [ ] review draft
 - [ ] work on note synthesis
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -56,6 +58,13 @@
 - [ ] UF Core Values Letter
 - [~] delegate response to privilege wheel
 - [ ] code review sections
+
+### Liaison Stuff
+- [x] workshop email to liaisons
+- [x] email about faculty meeting
+- [ ] intro slides for biostats faculty meeting Sept 16
+- [ ] intro slides for HOBI faculty meeting Oct 12
+
 
 ### ReproducibiliTea
 - [ ] document comms channels
