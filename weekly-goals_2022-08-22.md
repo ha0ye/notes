@@ -23,8 +23,8 @@
 - [ ] summary table of roles and properties
 
 ### OA Committee
-- [ ] finalize OA panel invitees
-- [ ] finalize OA panel details for invitations
+- [x] finalize OA panel invitees
+- [x] finalize OA panel details for invitations
 - [ ] send OA panel invitations
 
 ### T32 Rigor & Reproducibility Seminar Series
