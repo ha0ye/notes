@@ -76,7 +76,8 @@
 - [ ] draft outline for materials
 
 ### Faculty Mentoring
-- [ ] organize files into Facilitators channel in Teams
+- [ ] organize Teams files for new crop
+- [ ] prepare zoom breakout tutorial
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
