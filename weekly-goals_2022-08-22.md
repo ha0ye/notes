@@ -25,7 +25,8 @@
 ### OA Committee
 - [x] finalize OA panel invitees
 - [x] finalize OA panel details for invitations
-- [ ] send OA panel invitations
+- [x] send OA panel invitations
+- [ ] wrangle OA panel responses / reminder / new invites
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
@@ -47,12 +48,12 @@
 - [ ] check on invites for summer 2023
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
-- [~] course advertising
-- [ ] organize canvas pages and assignments
-- [ ] review reproducibility materials
-- [ ] review grant materials
-- [ ] revise reproducibility materials
-- [ ] write/revise grant materials
+- [x] course advertising
+- [x] organize canvas pages
+- [x] organize reproducibility hw and discussion
+- [ ] organize grants hw and discussion
+- [ ] revise reproducibility slides
+- [ ] revise grant slides
 
 ### Misc
 - [ ] UF Core Values Letter
@@ -83,6 +84,8 @@
 - [ ] cover sheet (auto-created by system)
 - [ ] completed packet
 	- [x] effort percentage table
+	- [x] teaching summary
+	- [x] teaching evals
 	- [ ] annual evaluation letter for each year
 	- [ ] T&P Criteria
 	- [ ] Chair's letter
