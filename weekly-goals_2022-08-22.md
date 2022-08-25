@@ -20,7 +20,7 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] summary table of roles and properties
+- [x] summary table of roles and properties
 
 ### OA Committee
 - [x] finalize OA panel invitees
@@ -77,7 +77,7 @@
 - [ ] draft outline for materials
 
 ### Faculty Mentoring
-- [ ] organize Teams files for new crop
+- [x] organize Teams files for new cohort
 - [ ] prepare zoom breakout tutorial
 
 ### Midterm T&P Packet
