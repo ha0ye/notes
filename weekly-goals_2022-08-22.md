@@ -123,8 +123,7 @@
 - [ ] Research Integrity / RCR libguide
 
 ### MLA Data Caucus
-- [ ] set agenda
-	- [ ] MLA history thing
+- [x] set agenda
 
 ## Long-term
 
