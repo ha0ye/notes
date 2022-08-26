@@ -143,7 +143,7 @@
 - [ ] exit assessment for hipergator program
 
 ### Ally Skills
-- [ ] message check-in
+- [x] message check-in
 
 ### DEI team
 - [ ] look into trainings on activism or institutional change
