@@ -59,6 +59,9 @@
 - [ ] UF Core Values Letter
 - [~] delegate response to privilege wheel
 - [ ] code review sections
+	- [x] DRY
+	- [ ] SPOT
+	- [ ] unit tests
 
 ### Liaison Stuff
 - [x] workshop email to liaisons
