@@ -11,7 +11,7 @@
 
 ### Open Grants
 - [x] revise IRB and resubmit
-- [ ] schedule September meeting
+- [x] schedule September meeting
 - [ ] review draft
 - [ ] work on note synthesis
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -20,7 +20,7 @@
 - [ ] final revisions?
 
 ### OA Committee
-- [ ] OA panel reminders
+- [x] OA panel reminders
 - [ ] OA panel new invites
 
 ### T32 Rigor & Reproducibility Seminar Series
