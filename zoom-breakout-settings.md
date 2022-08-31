@@ -10,7 +10,8 @@ Online Profile:
 * Meetings -> CHECK "Allow participants to rename themselves" (in case you are asking folks to include pronouns or indicate which room to be assigned into)
 * Meetings -> CHECK "Breakout room"
 * Meetings -> CHECK "Allow host to assign participants to breakout rooms when scheduling"
-* Meetings -> Check "Allow host to broadcast message to participants"
+* Meetings -> CHECK "Allow host to broadcast message to participants"
+* Meetings -> CHECK "Allow the host to add co-hosts. Co-hosts have the same in-meeting controls as the host." (to let co-hosts manage breakout rooms)
 
 ## Instructions
 
