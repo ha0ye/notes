@@ -3,10 +3,11 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] wrangle honoraria funding from RDAP
+- [x] wrangle honoraria funding from RDAP
 - [ ] setup October meetings
 - [ ] use RDAP google drive hosting and connect to OSF (check next week)
 - [ ] migrate items to google drive
+- [ ] setup survey for how to receive RDAP honoraria
 - [ ] read through policy
 
 ### Open Grants
@@ -22,6 +23,7 @@
 ### OA Committee
 - [x] OA panel reminders
 - [x] OA panel new invites
+- [ ] wrangle invites and coordinate details
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
