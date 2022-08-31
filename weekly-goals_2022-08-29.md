@@ -21,7 +21,7 @@
 
 ### OA Committee
 - [x] OA panel reminders
-- [ ] OA panel new invites
+- [x] OA panel new invites
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
@@ -74,6 +74,7 @@
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
 - [ ] completed packet
+	- [ ] grad committees table
 	- [ ] annual evaluation letter for each year
 	- [ ] T&P Criteria
 	- [ ] Chair's letter
