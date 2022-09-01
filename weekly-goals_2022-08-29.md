@@ -10,7 +10,8 @@
 - [x] migrate items to google drive
 - [x] setup survey for how to receive RDAP honoraria
 - [ ] read through policy
-- [ ] meeting on searchable table
+- [ ] setup example DMS plans
+- [ ] meeting on example DMS plans
 
 ### Open Grants
 - [x] revise IRB and resubmit
