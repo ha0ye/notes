@@ -9,6 +9,7 @@
 - [ ] migrate items to google drive
 - [ ] setup survey for how to receive RDAP honoraria
 - [ ] read through policy
+- [ ] meeting on searchable table
 
 ### Open Grants
 - [x] revise IRB and resubmit

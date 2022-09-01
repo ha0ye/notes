@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zoom-breakout-settings.md",
+            "file": "weekly-goals_2022-08-29.md",
             "mode": "source",
             "source": true
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zoom-breakout-settings.md"
+                "file": "weekly-goals_2022-08-29.md"
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zoom-breakout-settings.md",
+                "file": "weekly-goals_2022-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zoom-breakout-settings.md"
+                "file": "weekly-goals_2022-08-29.md"
               }
             }
           }
@@ -110,6 +110,7 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "zoom-breakout-settings.md",
     "zoom breakout settings.md",
     "weekly-goals_2022-08-29.md",
     "weekly-goals_2022-08-22.md",
@@ -118,7 +119,6 @@
     "weekly-goals_2022-05-23.md",
     "weekly-goals_2022-05-16.md",
     "weekly-goals_2022-08-15.md",
-    "UF ReproducibiliTea Planning.md",
-    "chart.md"
+    "UF ReproducibiliTea Planning.md"
   ]
 }
