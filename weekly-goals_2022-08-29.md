@@ -5,9 +5,10 @@
 ### NIH DMSP working group
 - [x] wrangle honoraria funding from RDAP
 - [ ] setup October meetings
-- [ ] use RDAP google drive hosting and connect to OSF (check next week)
-- [ ] migrate items to google drive
-- [ ] setup survey for how to receive RDAP honoraria
+- [x] use RDAP google drive hosting
+- [ ] connect to OSF?
+- [x] migrate items to google drive
+- [x] setup survey for how to receive RDAP honoraria
 - [ ] read through policy
 - [ ] meeting on searchable table
 
