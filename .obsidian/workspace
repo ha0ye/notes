@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-08-29.md",
+            "file": "DMSP notes.md",
             "mode": "source",
             "source": true
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-08-29.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-08-29.md",
+                "file": "DMSP notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-08-29.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -110,9 +110,9 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "weekly-goals_2022-08-29.md",
     "zoom-breakout-settings.md",
     "zoom breakout settings.md",
-    "weekly-goals_2022-08-29.md",
     "weekly-goals_2022-08-22.md",
     "DMSP notes.md",
     "informational-interview-USGS.md",
