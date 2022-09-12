@@ -17,7 +17,7 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] final revisions?
+- [ ] revision pass after Friday
 
 ### OA Committee
 - [x] OA panel reminders
