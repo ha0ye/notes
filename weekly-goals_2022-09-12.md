@@ -20,7 +20,7 @@
 - [ ] final revisions?
 
 ### OA Committee
-- [ ] OA panel reminders
+- [x] OA panel reminders
 - [ ] wrangle invites and coordinate details
 
 ### T32 Rigor & Reproducibility Seminar Series
@@ -48,6 +48,9 @@
 
 ### Misc
 - [ ] UF Core Values Letter
+- [x] minutes for Sept 09
+- [x] check on Borland trip
+- [x] bike lane complaint
 - [x] delegate response to privilege wheel
 - [ ] code review sections
 	- [x] DRY
