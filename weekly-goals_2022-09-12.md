@@ -11,7 +11,7 @@
 - [ ] meeting on example DMS plans
 
 ### Open Grants
-- [ ] IRB international fixes
+- [ ] IRB international fixes and re-submit
 - [ ] review draft
 - [ ] work on note synthesis
 - [ ] reach out to contacts for HBCU, MSI, TCU
