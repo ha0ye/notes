@@ -3,25 +3,32 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] setup October meetings
 - [ ] connect to OSF?
-- [ ] reminder of survey on receiving RDAP honoraria
+- [x] reminder of survey on receiving RDAP honoraria
+- [ ] followup email to this week's meeting
+- [ ] setup October meetings
 - [ ] read through policy
-- [ ] setup example DMS plans
-- [ ] meeting on example DMS plans
+- [x] setup example DMS plans
+- [x] meeting on example DMS plans
 
 ### Open Grants
-- [ ] IRB international fixes and re-submit
+- [x] IRB international fixes and re-submit
 - [ ] review draft
 - [ ] work on note synthesis
 - [ ] reach out to contacts for HBCU, MSI, TCU
+- [x] start scheduling interviews
+- [x] add blogpost to website about advisory group meeting
+- [ ] add post to website about interviews
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] revision pass after Friday
+- [ ] merge in edits from Cass
 
 ### OA Committee
 - [x] OA panel reminders
 - [ ] wrangle invites and coordinate details
+- [ ] write IEP report for past year
+- [ ] write IEP actions for next year
+- [ ] submit IEP report and IEP actions
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
@@ -44,7 +51,9 @@
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
 - [x] complete reproducibility slides
-- [ ] revise grant slides
+- [x] revise grant slides
+- [x] teach classes
+- [ ] set up quiz questions
 
 ### Misc
 - [ ] UF Core Values Letter
@@ -58,7 +67,7 @@
 	- [ ] unit tests
 
 ### Liaison Stuff
-- [ ] intro slides for biostats faculty meeting Sept 16
+- [x] intro slides for biostats faculty meeting Sept 16
 - [ ] intro slides for HOBI faculty meeting Oct 12
 
 ### ReproducibiliTea
@@ -71,7 +80,9 @@
 - [ ] draft outline for materials
 
 ### Faculty Mentoring
-- [ ] prepare zoom breakout tutorial
+- [x] prepare zoom breakout tutorial
+- [ ] discuss TODOs for DEI session
+- [ ] 
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
@@ -116,7 +127,10 @@
 ## Long-term
 
 ### MLA Data Caucus
-- [ ] host Fall meeting
+- [x] host Fall meeting
+- [ ] midyear executive summary
+- [ ] email Ariel and Erin about history
+- [ ] email caucus about vision for 2048
 
 ### FAIR Biomed Teaching
 
@@ -135,6 +149,7 @@
 
 ### Ally Skills
 - [x] message check-in
+- [ ] discussion of TREC workshop
 
 ### DEI team
 - [ ] look into trainings on activism or institutional change
@@ -151,4 +166,6 @@
 - [x] write decision
 
 ### MEE community interactions paper
+- [ ] read revisions
+- [ ] decide on revised submission
 
