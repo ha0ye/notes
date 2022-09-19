@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-09-12.md",
+            "file": "weekly-goals_2022-09-19.md",
             "mode": "source",
             "source": true
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-09-12.md"
+                "file": "weekly-goals_2022-09-19.md"
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-09-12.md",
+                "file": "weekly-goals_2022-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-09-12.md"
+                "file": "weekly-goals_2022-09-19.md"
               }
             }
           }
@@ -110,6 +110,7 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "weekly-goals_2022-09-12.md",
     "weekly-goals_2022-08-29.md",
     "DMSP notes.md",
     "zoom-breakout-settings.md",
@@ -118,7 +119,6 @@
     "informational-interview-USGS.md",
     "weekly-goals_2022-05-23.md",
     "weekly-goals_2022-05-16.md",
-    "weekly-goals_2022-08-15.md",
-    "UF ReproducibiliTea Planning.md"
+    "weekly-goals_2022-08-15.md"
   ]
 }
