@@ -50,6 +50,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
+- [x] postdoc week event email
 - [ ] minutes for Sept 16
 - [ ] list of biostats journals
 - [~] delegate response to privilege wheel
@@ -71,8 +72,10 @@
 - [ ] draft outline for materials
 
 ### Faculty Mentoring
-- [ ] review DEI session materials
-- [ ] discuss TODOs for DEI session
+- [x] review DEI session materials
+- [x] discuss TODOs for DEI session
+- [ ] revise slides
+- [ ] next check-in
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
