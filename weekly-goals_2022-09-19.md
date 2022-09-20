@@ -4,8 +4,8 @@
 
 ### NIH DMSP working group
 - [ ] connect to OSF?
-- [ ] followup email to this week's meeting
-- [ ] setup October meetings
+- [x] followup email to last meeting
+- [ ] setup October meetings (yes for 6 and 20)
 - [ ] read through policy
 
 ### Open Grants
@@ -16,7 +16,8 @@
 - [ ] add post to website about interviews
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] merge in edits from Cass
+- [x] merge in edits from Cass
+- [ ] discussion on Friday
 
 ### OA Committee
 - [x] OA panel reminders
@@ -51,8 +52,8 @@
 ### Misc
 - [ ] UF Core Values Letter
 - [x] postdoc week event email
-- [ ] minutes for Sept 16
-- [ ] list of biostats journals
+- [x] minutes for Sept 16
+- [x] list of biostats journals
 - [~] delegate response to privilege wheel
 - [ ] code review sections
 	- [x] DRY
@@ -121,8 +122,8 @@
 
 ### MLA Data Caucus
 - [ ] midyear executive summary
-- [ ] email Ariel and Erin about history
-- [ ] email caucus about vision for 2048
+- [x] email Ariel and Erin about history
+- [x] email caucus about vision for 2048
 
 ### FAIR Biomed Teaching
 
