@@ -46,7 +46,7 @@
 - [ ] check on invites for summer 2023
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
-- [ ] set up quiz questions
+- [x] set up quiz questions
 - [ ] grade HW and discussion
 
 ### Misc
