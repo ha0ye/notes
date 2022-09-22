@@ -124,6 +124,7 @@
 - [ ] midyear executive summary
 - [x] email Ariel and Erin about history
 - [x] email caucus about vision for 2048
+- [ ] check on history responses
 
 ### FAIR Biomed Teaching
 
