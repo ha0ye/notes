@@ -154,6 +154,6 @@
 ### MEE time series distance metrics
 
 ### MEE community interactions paper
-- [ ] read revision
-- [ ] decide on revised submission
+- [x] read revision
+- [x] decide on revised submission
 
