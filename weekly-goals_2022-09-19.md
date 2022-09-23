@@ -10,7 +10,7 @@
 
 ### Open Grants
 - [ ] review draft
-- [ ] review C&RL submission
+- [x] edits for C&RL submission
 - [ ] work on note synthesis
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] add post to website about interviews
