@@ -4,7 +4,8 @@
 
 ### NIH DMSP working group
 - [x] followup email to last meeting
-- [ ] followup on honoraria survey and forward info
+- [x] followup on honoraria survey
+- [ ] forward info on honoraria
 - [ ] reminders about completing peer review
 - [ ] setup October meetings (yes for 6 and 20)
 - [ ] read through policy
