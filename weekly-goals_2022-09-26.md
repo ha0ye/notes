@@ -59,7 +59,7 @@
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] materials prep for 
+- [ ] materials prep for R package workshop Oct 3
 - [~] delegate response to privilege wheel
 - [ ] search renal cancer predictors
 - [ ] library orientation recording for BMS grads
