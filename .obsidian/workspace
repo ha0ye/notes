@@ -7,8 +7,12 @@
         "id": "029f697c958a331c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "weekly-goals_2022-09-26.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -50,7 +54,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "weekly-goals_2022-09-26.md"
+              }
             }
           }
         ]
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "weekly-goals_2022-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "weekly-goals_2022-09-26.md"
+              }
             }
           }
         ],
@@ -99,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a487e06e8f109d53",
+  "active": "029f697c958a331c",
   "lastOpenFiles": [
     "weekly-goals_2022-09-19.md",
     "weekly-goals_2022-09-12.md",
