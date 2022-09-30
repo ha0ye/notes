@@ -5,10 +5,11 @@
 ### NIH DMSP working group
 - [x] followup email to last meeting
 - [x] followup on honoraria survey
-- [ ] forward info on honoraria
-- [ ] reminders about completing peer review
-- [ ] setup October meetings (yes for 6 and 20)
+- [x] forward info on honoraria
+- [x] reminders about completing peer review
+- [x] setup October meetings (yes for 6 and 20)
 - [ ] read through policy
+- [ ] followup message for this week's meeting
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -61,7 +62,7 @@
 - [ ] UF Core Values Letter
 - [ ] materials prep for R package workshop Oct 3
 - [~] delegate response to privilege wheel
-- [ ] search renal cancer predictors
+- [x] search renal cancer predictors
 - [ ] library orientation recording for BMS grads
 - [ ] code review sections
 	- [x] DRY
@@ -83,6 +84,12 @@
 ### Faculty Mentoring
 - [ ] revise slides
 - [ ] next check-in
+
+### Ally Skills
+- [ ] discussion of TREC workshop
+
+### AI sessions
+- [x] ethical framework slides
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
@@ -146,9 +153,6 @@
 (Borui will lead)
 - [ ] info for hipergator student program
 - [ ] exit assessment for hipergator program
-
-### Ally Skills
-- [ ] discussion of TREC workshop
 
 ### DEI team
 - [ ] look into trainings on activism or institutional change
