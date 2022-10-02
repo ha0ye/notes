@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly-goals_2022-09-26.md",
+            "file": "interview-NCSU.md",
             "mode": "source",
             "source": true
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-09-26.md"
+                "file": "interview-NCSU.md"
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-09-26.md",
+                "file": "interview-NCSU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-09-26.md"
+                "file": "interview-NCSU.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
-    "Renata.md",
-    "weekly-goals_2022-09-26.md",
-    "weekly-goals_2022-09-19.md",
-    "weekly-goals_2022-09-12.md",
-    "weekly-goals_2022-08-29.md",
+    "letter-Renata_2022-10-17.md",
+    "notes-UF-DMSP-help.md",
+    "interview-NCSU.md",
+    "behavioral nudge teachone.md",
+    "Carpentries Teaching Demo.md",
+    "Carpentries Teaching Demo - etherpad template.md",
+    "chart.md",
     "DMSP notes.md",
-    "zoom-breakout-settings.md",
-    "zoom breakout settings.md",
-    "weekly-goals_2022-08-22.md",
-    "informational-interview-USGS.md"
+    "weekly-goals_2022-09-26.md",
+    "weekly-goals_2022-09-19.md"
   ]
 }
