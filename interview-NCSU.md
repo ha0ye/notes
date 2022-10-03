@@ -18,7 +18,19 @@ In terms of this position:
 
 3. The University is committed to inclusion and fostering a diverse and equitable educational environment and workplace. Can you talk about what this means to you? Or any examples of efforts you have taken to further your knowledge or engagement in these areas?
 
-
+* supporting everyone who is interested and capable of doing the work (not gatekeeping based on background, and providing training and resources where needed and appropriate)
+* guided by universal design for learning - empathic listening for what works and not just "it has always been done this way"
+* training
+  - understanding of implicit bias (and other cognitive biases) from graduate studies in psychology
+  - bystander intervention training and code of conduct response training
+  - ally skills and ally skills train-the-trainer (Sheila Addison / Frame Shift Consulting)
+* systemic structures
+  - privilege in being in workplace environments that are generally inclusive
+  - code of conduct creation / HSCL mission statement & values
+  - enforcement mechanisms (emphasize cultivating environment; only call campus police if there is an immediate safety issue)
+  - equity conversations (JMLA chief editor call)
+  - inclusion rider for invitations
+  - budgeting for honoraria where possible
 
 
 4. Please briefly describe a specific example of a time when you worked collaboratively with multiple partners and stakeholders across departmental or institutional boundaries. What strategies did you use to build an effective collaboration with them?
