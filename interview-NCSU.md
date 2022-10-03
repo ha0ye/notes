@@ -35,6 +35,12 @@ In terms of this position:
 
 4. Please briefly describe a specific example of a time when you worked collaboratively with multiple partners and stakeholders across departmental or institutional boundaries. What strategies did you use to build an effective collaboration with them?
 
+* DMSP working group
+* over 2 dozen contributors, mostly different institutions (some overlap when multiple people from the same institution)
+* focus on value - working together on a common problem (shared burden, and collaborative) - work to get funding from NNLM and RDAP for honoraria
+* make it EASY to contribute - dedicated facilitator roles, tracking documents, calendar invites, allow self-organization
+* weekly calls alternating times
+  - roll call at beginning, establish that the calls are participatory, not just listening in
 
 
 
@@ -76,8 +82,14 @@ In terms of this position:
 
 8. What do you feel are some emerging research technologies that you would be interested in exploring in this role?
 
+
+
+
+
+
 9. What questions do you have for us?
 * organizational structure / career development (currently TT faculty)
 * future growth of department
   - in my role, we have some operations in this way, but it usually is on me and my colleagues to reach out to set up meetings and introduce how to work together, not as collabo
 * remote/hybrid work
+* hiring timeline
