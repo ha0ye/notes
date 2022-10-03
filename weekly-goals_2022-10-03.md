@@ -1,31 +1,23 @@
-# Goals 2022-09-26
+# Goals 2022-10-03
 
 ## weekly
 
 ### NIH DMSP working group
-- [x] followup email to last meeting
-- [x] followup on honoraria survey
-- [x] forward info on honoraria
-- [x] reminders about completing peer review
-- [x] setup October meetings (yes for 6 and 20)
 - [ ] read through policy
-- [ ] followup message for this week's meeting
+- [x] followup message for this week's meeting
+- [ ] coordinate guide to resources
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] social media post
 - [ ] email list blast
-- [ ] slides for September check-in
-- [x] edits for C&RL submission
+- [x] slides for September check-in
 - [ ] review draft
 - [ ] work on note synthesis
-- [x] add post to website about interviews
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [x] merge in edits from Cass
-- [x] discussion on Friday
-- [x] final edits
-- [x] final check-in
+- [x] submission
+- [ ] read reviews
 
 ### OA Committee
 - [x] OA panel reminders
@@ -56,13 +48,12 @@
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
 - [x] set up quiz questions
 - [ ] grade HW and discussion
-- [ ] grade quiz
+- [x] grade quiz
 
 ### Misc
 - [ ] UF Core Values Letter
 - [ ] materials prep for R package workshop Oct 3
 - [~] delegate response to privilege wheel
-- [x] search renal cancer predictors
 - [ ] library orientation recording for BMS grads
 - [ ] code review sections
 	- [x] DRY
@@ -135,8 +126,6 @@
 
 ### MLA Data Caucus
 - [ ] midyear executive summary
-- [x] email Ariel and Erin about history
-- [x] email caucus about vision for 2048
 - [ ] check on history responses
 
 ### FAIR Biomed Teaching
