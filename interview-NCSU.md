@@ -118,6 +118,10 @@ Automation is (maybe not emerging), but feels underused
 [https://doi.org/10.1111/2041-210X.13982](https://doi.org/10.1111/2041-210X.13982)
 [https://doi.org/10.1371/journal.pbio.3000125](https://doi.org/10.1371/journal.pbio.3000125)
 
+Workflow specifications
+* nothing new (e.g. make)
+* newer versions in python (snakemake), R (targets), bioinformatics (CWL & nextflow)
+
 (more on research end)
 incremental publishing of artefacts (data, code, protocols, etc.)
 * show history and progression of work
