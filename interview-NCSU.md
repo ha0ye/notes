@@ -120,7 +120,7 @@ Automation is (maybe not emerging), but feels underused
 
 Workflow specifications
 * nothing new (e.g. make)
-* newer versions in python (snakemake), R (targets), bioinformatics (CWL & nextflow)
+* newer versions in python (snakemake), R (targets), bioinformatics (CWL & nextfloweams)
 
 (more on research end)
 incremental publishing of artefacts (data, code, protocols, etc.)
