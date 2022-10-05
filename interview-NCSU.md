@@ -1,4 +1,7 @@
-1. Please tell us about your interest in this position and how it aligns with your career objectives.
+## 1. Please tell us about your interest in this position and how it aligns with your career objectives.
+
+Values -> core motivation
+* bring openness to research, and making it more inclusive and equitable
 
 I view myself as primarily a problem solver
 * leverage my experience and training to solve meaningful problems
@@ -11,7 +14,9 @@ In terms of this position:
   - enjoy teaching and creating resources, but open source software is something I enjoy, and I am stretching to figure out how to incorporate more of that type of work in my responsibilities
 * work at the intersection of various campus resources (IT, libraries, research integrity)
 
-2. Please describe a time when you facilitated highly technical and research-specific consultations or meetings. What strategies did you use to communicate effectively with people with different levels of technical expertise? What challenges did you face?
+## 2. Please describe a time when you facilitated highly technical and research-specific consultations or meetings. What strategies did you use to communicate effectively with people with different levels of technical expertise? What challenges did you face?
+
+https://www.ogrants.org/about.html
 
 Open Grants discussion of metadata schema
 * some folks are very familiar with data, data management, metadata, and what is a "schema"
@@ -28,7 +33,7 @@ How to get good feedback on a very technical document?
 * communicate value of feedback (contributors need to have a value proposition - doesn't have to be compensation - but shared purpose or knowing their input will be used can be huge!)
 * focus on the purpose of the interaction - we don't need everything to become an expert on the technical aspects or the user experience - figure out how to establish communications that we want in order to serve a purpose
 
-3. The University is committed to inclusion and fostering a diverse and equitable educational environment and workplace. Can you talk about what this means to you? Or any examples of efforts you have taken to further your knowledge or engagement in these areas?
+## 3. The University is committed to inclusion and fostering a diverse and equitable educational environment and workplace. Can you talk about what this means to you? Or any examples of efforts you have taken to further your knowledge or engagement in these areas?
 
 * supporting everyone who is interested and capable of doing the work (not gatekeeping based on background, and providing training and resources where needed and appropriate)
 * guided by universal design for learning - empathic listening for what works and not just "it has always been done this way"
@@ -44,8 +49,11 @@ How to get good feedback on a very technical document?
   - inclusion rider for invitations
   - budgeting for honoraria where possible
 
+http://www.natsca.org/article/2681
 
-4. Please briefly describe a specific example of a time when you worked collaboratively with multiple partners and stakeholders across departmental or institutional boundaries. What strategies did you use to build an effective collaboration with them?
+## 4. Please briefly describe a specific example of a time when you worked collaboratively with multiple partners and stakeholders across departmental or institutional boundaries. What strategies did you use to build an effective collaboration with them?
+
+https://docs.google.com/document/d/1YCo2H1mGnr0PnREwVqTCNnD9uzGcdRELGqU5PWh8CI0/edit?usp=sharing
 
 * DMSP working group
 * over 2 dozen contributors, mostly different institutions (some overlap when multiple people from the same institution)
@@ -54,11 +62,21 @@ How to get good feedback on a very technical document?
 * weekly calls alternating times
   - roll call at beginning, establish that the calls are participatory, not just listening in
 
-5. Please share an experience of a project you contributed to that you eventually transitioned to someone else for long-term support. Can you tell us about any development techniques or tools and design considerations you may have used to ensure a smooth and sustainable handoff?
+## 5. Please share an experience of a project you contributed to that you eventually transitioned to someone else for long-term support. Can you tell us about any development techniques or tools and design considerations you may have used to ensure a smooth and sustainable handoff?
 
 Two experiences, 1 successful, 1 not.
 
-I created an R package during my PhD - nearly all solo-development. After I had left the lab, the PI pressured me to transfer ownership and CRAN maintainer status. We did not have any discussion about governance or maintaining backwards compatibility for the user community. The code base ended up being rewritten entirely, with some functional changes, and many minor contributors who I had acknowledged previously were dropped from the author list. It was not a pleasant experience.
+https://github.com/SugiharaLab/rEDM/
+I created an R package during my PhD
+* nearly all solo-development
+* After I had left the lab, the PI pressured me to transfer ownership and CRAN maintainer status
+* no discussion about governance or backwards compatibility for users
+* code base was rewritten entirely
+  - some functionality & interface changes
+  - previous authors contributors were not all acknowledged
+* not pleasant!
+
+https://www.uf-carpentries.org/
 
 ~ late 2017, the UF Carpentries Club 
 * initial board to formalize and handle responsibility from Matthew Collins (former sole organizer/coordinator)
@@ -70,7 +88,7 @@ I created an R package during my PhD - nearly all solo-development. After I had 
   - governance doc: procedures, elections, etc.
 * I moved on after a few years on the board, and some practices have changed (especially with COVID), but having some other board members stay on, and documents already in place, keeps things running smoothly
 
-6. Please describe a difficult or complex technical problem you've had to solve. What specific tools and/or approaches did you use in resolving it?
+## 6. Please describe a difficult or complex technical problem you've had to solve. What specific tools and/or approaches did you use in resolving it?
 
 Recently, setting up a publicly-visible & searchable webpage of data management plans - https://example-dms-plans.github.io/examples/
 
@@ -89,7 +107,7 @@ Recently, setting up a publicly-visible & searchable webpage of data management 
   - using an encrypted access token
   - able to make all the code public and shareable, but only the automation service has the key to decrypt the token for access
 
-7. This position could involve coordinating with different units on campus with their own unique expectations and timelines. How do you stay on top of competing priorities?
+## 7. This position could involve coordinating with different units on campus with their own unique expectations and timelines. How do you stay on top of competing priorities?
 
 2 parts:
 * communications and document project progress asynchronously through shared information
@@ -110,7 +128,7 @@ Recently, setting up a publicly-visible & searchable webpage of data management 
     > for they are already enduring it.
   - conflict is scary, and avoiding it is an understandable response - impatient for progress, so that motivates me to be more transparent and direct when needed
 
-8. What do you feel are some emerging research technologies that you would be interested in exploring in this role?
+## 8. What do you feel are some emerging research technologies that you would be interested in exploring in this role?
 
 Automation is (maybe not emerging), but feels underused
 * leverage what computers are good at (repetition) for quality control
@@ -129,7 +147,7 @@ incremental publishing of artefacts (data, code, protocols, etc.)
 * combines with automation
 * (more personally) that it breaks the stranglehold of journal publishers on manuscripts as the primary marker of output and prestige
 
-9. What questions do you have for us?
+## 9. What questions do you have for us?
 * organizational structure / career development (currently TT faculty)
 * future growth of department
   - in my role, we have some operations in this way, but it usually is on me and my colleagues to reach out to set up meetings and introduce how to work together, not as collabo
