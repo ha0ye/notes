@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "interview-NCSU.md",
+            "file": "weekly-goals_2022-10-03.md",
             "mode": "source",
             "source": true
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview-NCSU.md"
+                "file": "weekly-goals_2022-10-03.md"
               }
             }
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview-NCSU.md",
+                "file": "weekly-goals_2022-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview-NCSU.md"
+                "file": "weekly-goals_2022-10-03.md"
               }
             }
           }
@@ -110,9 +110,9 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "interview-NCSU.md",
     "weekly-goals_2022-10-03.md",
     "weekly-goals_2022-09-26.md",
-    "interview-NCSU.md",
     "letter-Renata_2022-10-17.md",
     "notes-UF-DMSP-help.md",
     "behavioral nudge teachone.md",

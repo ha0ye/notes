@@ -22,16 +22,16 @@
 ### OA Committee
 - [x] OA panel reminders
 - [x] write IEP report for past year
-- [ ] write IEP actions for next year
-- [ ] wrangle invites and coordinate details
-- [ ] submit IEP report and IEP actions
+- [x] write IEP actions for next year
+- [x] submit IEP report and IEP actions
+- [ ] wrangle OA panel invites and coordinate details
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
-  - [ ] scheduling check (beginning of October)
-  - [ ] speaker bio on webpage
-  - [ ] confirm date and time
-  - [ ] setup libcal event
+  - [x] scheduling check (beginning of October)
+  - [x] speaker bio on webpage
+  - [x] confirm date and time
+  - [x] setup libcal event
   - [ ] reminder email
   - [ ] advertising
   - [ ] setup google docs
@@ -47,12 +47,12 @@
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
 - [x] set up quiz questions
-- [ ] grade HW and discussion
+- [x] grade HW and discussion
 - [x] grade quiz
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] materials prep for R package workshop Oct 3
+- [x] materials prep for R package workshop Oct 3
 - [~] delegate response to privilege wheel
 - [ ] library orientation recording for BMS grads
 - [ ] code review sections
@@ -61,7 +61,7 @@
 	- [ ] unit tests
 
 ### Liaison Stuff
-- [ ] intro slides for HOBI faculty meeting Oct 12
+- [ ] intro slides for HOBI faculty meeting Oct 12 (cancel because of conference)
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -125,15 +125,10 @@
 ## Long-term
 
 ### MLA Data Caucus
-- [ ] midyear executive summary
+- [x] midyear executive summary
 - [ ] check on history responses
 
 ### FAIR Biomed Teaching
-
-### Library Carpentry Workshop
-- [ ] draft plan and distribute for Joint Chairs & UF Carpentries Club input
-- [ ] distribute plan to UF Carpentries Club
-- [ ] pass to Natya?
 
 ### Modular, Reproducible Data Analysis for the Rest of Us
 - [ ] set up meeting for scoping discussion/chat
@@ -150,6 +145,9 @@
 - [ ] examples and template language for journal policy
 
 ### Milk Metabolomics Searching
+
+### Metabolomics Software Reproducibility Review
+- [x] feedback on table 1 categorization
 
 ### MEE time series distance metrics
 
