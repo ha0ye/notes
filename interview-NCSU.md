@@ -149,7 +149,46 @@ incremental publishing of artefacts (data, code, protocols, etc.)
 
 ## 9. What questions do you have for us?
 * organizational structure / career development (currently TT faculty)
+  - research facilitation service
+  - located inthe librariaes
+  - part of the team is located in OIT
+  - we all work for the service itself
+  - RFS is really new, and just getting started, pilot phase with college of sciecnes, learning community, phased rollout to other parts of cmapius
+  - identifying needs and staffing, model support for campus
+  - potential for growth based on personal service, and develop alongside emerging needs on campus
+  - work with research computing, thinking about professionalization and career arcs
+  - libraries are supportive of career development, professional development (e.g. cloud computing platforms)
 * future growth of department
-  - in my role, we have some operations in this way, but it usually is on me and my colleagues to reach out to set up meetings and introduce how to work together, not as collabo
+  - in my role, we have some operations in this way, but it usually is on me and my colleagues to reach out to set up meetings and introduce how to work together, not as collarators
+* what does success look like in this position
+  - example milestones or achievements
+  - still figuring out metrics to keep about the service, what is valuable to audiences (reporting to administration and colleagues)
+  - success for this position - how we're going to scope and define work 
+  - personal workflows and project management
+  - defining, from start to finish, what a facilitation project looks like, how we contribute as a group, and documenting workflows
+  - some metrics: leading a project from start to finish with a research group or request
+  - expect transition as group grows
+  - internally facing, interacitng with researchers and project teams
+  - building relationships with researchers and departments
+  - stage is developing the service and serving the community
+  - contributing both to growth and maturity of the service and meeting the needs of the research community as they come
+* service
+  - within the team, opportunity for service, and growth professionally
+  - involved with community at university, and nationally
+  - self-select based on capacity and interest
+  - it would depend on individual
+  - libraries committees
+	+ to be engaged in the field
+  - university committees
+  - support and initiatives
 * remote/hybrid work
+  - we value flexibility
+  - working 1-2 days on campus
+  - expectation to be able to come to campus
+  - flexibility
+  - prioritize meeting researchers in person
 * hiring timeline
+  - interviewing right now
+  - expect to hear fairly soon, rolling basis for applications
+  - next anticipated stage: full interviews
+  - start date is flexible
