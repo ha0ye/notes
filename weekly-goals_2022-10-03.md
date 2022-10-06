@@ -14,6 +14,7 @@
 - [x] slides for September check-in
 - [ ] review draft
 - [ ] work on note synthesis
+- [ ] slides for DLF forum
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [x] submission
