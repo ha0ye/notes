@@ -47,13 +47,10 @@
 - [ ] check on invites for summer 2023
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
-- [x] set up quiz questions
-- [x] grade HW and discussion
-- [x] grade quiz
+- [ ] post course debrief
 
 ### Misc
 - [ ] UF Core Values Letter
-- [x] materials prep for R package workshop Oct 3
 - [~] delegate response to privilege wheel
 - [ ] library orientation recording for BMS grads
 - [ ] code review sections
@@ -62,7 +59,11 @@
 	- [ ] unit tests
 
 ### Liaison Stuff
-- [ ] intro slides for HOBI faculty meeting Oct 12 (cancel because of conference)
+- [ ] intro slides for HOBI faculty meeting Nov 9
+
+### Seminar for Laboratory of Systems Medicine
+- [ ] send title and abstract
+- [ ] outline of talk
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -81,7 +82,9 @@
 - [ ] discussion of TREC workshop
 
 ### AI sessions
-- [x] ethical framework slides
+- [ ] discuss ethical framework content
+- [ ] work on case studies
+- [ ] intro slides
 
 ### Midterm T&P Packet
 - [ ] cover sheet (auto-created by system)
@@ -148,7 +151,7 @@
 ### Milk Metabolomics Searching
 
 ### Metabolomics Software Reproducibility Review
-- [x] feedback on table 1 categorization
+- [ ] resubmission
 
 ### MEE time series distance metrics
 
