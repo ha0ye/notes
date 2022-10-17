@@ -11,7 +11,6 @@ https://pad.carpentries.org/pad-of-pads
 Please see the Checkout Procedures page for full instructions. 
 https://carpentries.github.io/instructor-training/checkout/index.html
 
-
 A few things to keep in mind:
 1. Remember to prepare a full lesson; your Trainer will tell you which episode to teach from when you arrive.
 2. Remember that this is not a high stakes test! You will meet great people and give and receive feedback on the teaching process. 
