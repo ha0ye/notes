@@ -43,7 +43,7 @@ Please provide your name, your institution, your email, and a link to the websit
 5. Concluding
 
 ## 1. Welcome and Signins
-NAME / Institution / Email / URL for teaching demo
+NAME / Institution / Email
 - 
 - 
 - 
