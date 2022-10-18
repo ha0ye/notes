@@ -7,6 +7,7 @@
 - [ ] coordinate guide to resources
 - [ ] mechanism applying license information to all output documents
 - [ ] adding contributors to OSF sub-component
+- [ ] continuation - points of contact, governance?
 - [ ] standardize appearance?
 
 ### Open Grants
@@ -15,8 +16,13 @@
 - [ ] email list blast
 - [ ] work on note synthesis
 - [ ] status update for metadata schema
+- [ ] send draft metadata to advisory group for feedback
+- [ ] work on report
+- [ ] extension
+- [ ] send draft paper to advisory group for feedback
 
 ### OA Committee
+- [ ] rubric appearance
 - [ ] OA panel final reminders
 - [ ] OA panel coordination
   + room reservation
@@ -46,8 +52,11 @@
 
 ### Misc
 - [ ] UF Core Values Letter
+- [ ] letter for Renata
 - [~] delegate response to privilege wheel
-- [ ] library orientation recording for BMS grads
+- [ ] marketing messages for this week
+- [ ] minutes for 10/14
+- [ ] library orientation recording for BMS grads 10/28
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
@@ -56,7 +65,7 @@
 ### Liaison Stuff
 - [ ] intro slides for HOBI faculty meeting Nov 9
 
-### Seminar for Laboratory of Systems Medicine
+### Seminar for Laboratory of Systems Medicine Nov 29
 - [ ] send title and abstract
 - [ ] outline of talk
 
@@ -70,11 +79,19 @@
 - [ ] draft outline for materials
 
 ### Faculty Mentoring
-- [ ] revise slides
-- [ ] next check-in
+- [x] revise slides
+- [x] next check-in
+- [x] message about session pre-work
+- [ ] reminder about session pre-work
+- [ ] session
 
 ### Ally Skills
 - [ ] discussion of TREC workshop
+
+### Carpentries Instructor Training for USDA
+- [ ] review materials
+- [ ] logistics check
+- [ ] pre-create etherpads
 
 ### AI sessions
 - [ ] discuss ethical framework content
@@ -128,7 +145,7 @@
 
 ### MLA Data Caucus
 - [x] midyear executive summary
-- [ ] check on history responses
+- [ ] check and submit history responses
 
 ### FAIR Biomed Teaching
 
@@ -149,7 +166,7 @@
 ### Milk Metabolomics Searching
 
 ### Metabolomics Software Reproducibility Review
-- [ ] resubmission
+- [x] resubmission
 
 ### MEE time series distance metrics
 
