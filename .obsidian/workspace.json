@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2022-10-17.md",
+                "file": "abstract.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-10-17.md"
+                "file": "abstract.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-10-17.md",
+                "file": "abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-10-17.md"
+                "file": "abstract.md"
               }
             }
           }
@@ -121,6 +121,7 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "weekly-goals_2022-10-17.md",
     "weekly-goals_2022-10-10.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
@@ -129,7 +130,6 @@
     "interview-NCSU.md",
     "weekly-goals_2022-09-26.md",
     "letter-Renata_2022-10-17.md",
-    "notes-UF-DMSP-help.md",
-    "behavioral nudge teachone.md"
+    "notes-UF-DMSP-help.md"
   ]
 }
