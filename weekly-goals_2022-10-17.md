@@ -15,11 +15,6 @@
 - [ ] email list blast
 - [ ] work on note synthesis
 - [ ] status update for metadata schema
-- [x] proposal submission to C&RL
-- [x] slides for DLF forum
-
-### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] read reviews
 
 ### OA Committee
 - [ ] OA panel final reminders
@@ -127,6 +122,9 @@
 - [ ] Research Integrity / RCR libguide
 
 ## Long-term
+
+### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
+- [ ] read reviews
 
 ### MLA Data Caucus
 - [x] midyear executive summary
