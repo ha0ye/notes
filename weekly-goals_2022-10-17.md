@@ -5,8 +5,8 @@
 ### NIH DMSP working group
 - [ ] read through policy
 - [ ] coordinate guide to resources
-- [ ] mechanism applying license information to all output documents
-- [ ] adding contributors to OSF sub-component
+- [x] mechanism applying license information to all output documents
+- [x] adding contributors to OSF sub-component
 - [ ] continuation - points of contact, governance?
 - [ ] standardize appearance?
 
@@ -24,13 +24,13 @@
 ### OA Committee
 - [ ] rubric appearance
 - [ ] OA panel final reminders
-- [ ] OA panel coordination
-  + room reservation
-  + promo materials
-  + promo materials to Barbara
-  + promo materials to Lily Lewis
-  + promotion via HSCL social media
-  + promotion via invited faculty (and other faculty)
+- [x] OA panel coordination
+  [x] room reservation
+  [x] promo materials
+  [x] promo materials to Barbara
+  [x] promo materials to Lily Lewis
+  [x] promotion via HSCL social media
+  [x] promotion via invited faculty (and other faculty)
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
@@ -52,11 +52,11 @@
 
 ### Misc
 - [ ] UF Core Values Letter
-- [ ] letter for Renata
+- [x] letter for Renata
 - [~] delegate response to privilege wheel
-- [ ] marketing messages for this week
+- [x] marketing messages for this week
 - [ ] minutes for 10/14
-- [ ] library orientation recording for BMS grads 10/28
+- [ ] minutes for 10/21
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
@@ -64,6 +64,7 @@
 
 ### Liaison Stuff
 - [ ] intro slides for HOBI faculty meeting Nov 9
+- [ ] library orientation recording for BMS grads 10/28
 
 ### Seminar for Laboratory of Systems Medicine Nov 29
 - [ ] send title and abstract
@@ -145,7 +146,7 @@
 
 ### MLA Data Caucus
 - [x] midyear executive summary
-- [ ] check and submit history responses
+- [x] check and submit history responses
 
 ### FAIR Biomed Teaching
 

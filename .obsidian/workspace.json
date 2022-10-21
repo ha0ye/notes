@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes-UF-DMSP-help.md",
+                "file": "weekly-goals_2022-10-17.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes-UF-DMSP-help.md"
+                "file": "weekly-goals_2022-10-17.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-UF-DMSP-help.md",
+                "file": "weekly-goals_2022-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes-UF-DMSP-help.md"
+                "file": "weekly-goals_2022-10-17.md"
               }
             }
           }
@@ -121,6 +121,7 @@
   },
   "active": "029f697c958a331c",
   "lastOpenFiles": [
+    "notes-UF-DMSP-help.md",
     "abstract.md",
     "weekly-goals_2022-10-17.md",
     "weekly-goals_2022-10-10.md",
@@ -129,7 +130,6 @@
     "Civic Data workshop - DLF Forum - October 11.md",
     "weekly-goals_2022-10-03.md",
     "interview-NCSU.md",
-    "weekly-goals_2022-09-26.md",
-    "letter-Renata_2022-10-17.md"
+    "weekly-goals_2022-09-26.md"
   ]
 }
