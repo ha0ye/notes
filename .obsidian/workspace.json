@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e8e03e31d0efe4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2022-10-24.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-10-17.md"
+                "file": "weekly-goals_2022-10-24.md"
               }
             }
           }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-10-17.md",
+                "file": "weekly-goals_2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-10-17.md"
+                "file": "weekly-goals_2022-10-24.md"
               }
             }
           }
@@ -119,11 +132,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "029f697c958a331c",
+  "active": "e8e03e31d0efe4ed",
   "lastOpenFiles": [
+    "weekly-goals_2022-10-17.md",
     "notes-UF-DMSP-help.md",
     "abstract.md",
-    "weekly-goals_2022-10-17.md",
     "weekly-goals_2022-10-10.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
