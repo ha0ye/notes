@@ -7,8 +7,8 @@
 - [ ] coordinate guide to resources
 - [ ] continuation - points of contact, governance?
 - [ ] standardize appearance?
-- [ ] request DOI redirect
-- [ ] setup November meeting invites
+- [x] request DOI redirect
+- [x] setup November meeting invites
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -23,13 +23,13 @@
 
 ### OA Committee
 - [ ] rubric appearance
-- [ ] OA panel final reminders
-- [ ] OA panel room prep
+- [x] OA panel final reminders
+- [x] OA panel room prep
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
-  - [ ] reminder email
-  - [ ] advertising
+  - [x] reminder email
+  - [ ] advertising (COM list?)
   - [ ] setup google docs
 - Spring 2023
   - [ ] scheduling check (beginning of January)
@@ -49,6 +49,7 @@
 - [~] delegate response to privilege wheel
 - [ ] minutes for 10/14
 - [ ] minutes for 10/21
+- [ ] minutes for 10/28
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
