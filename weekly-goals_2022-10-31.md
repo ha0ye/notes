@@ -71,12 +71,11 @@
 
 ### Data Management for Intro Data Science class Nov 1
 - [x] draft outline for materials
-- [ ] update slides and content
-- [ ] 
+- [x] update slides and content
 
 ### Faculty Mentoring
 - [x] reminder about session pre-work
-- [ ] session
+- [x] session
 
 ### Ally Skills
 - [ ] planning/coordination of TREC workshop
