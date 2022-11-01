@@ -22,6 +22,7 @@
 - [ ] send draft paper to advisory group for feedback
 
 ### OA Committee
+- [ ] set agenda for Nov meeting
 - [ ] rubric appearance
 - [x] OA panel final reminders
 - [x] OA panel room prep
