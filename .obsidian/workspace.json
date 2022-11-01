@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f1645968eeadff2",
+        "id": "5bad2cb1dade315f",
         "type": "tabs",
         "children": [
           {
-            "id": "029f697c958a331c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2022-10-24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1b53d3a043a31ae6",
+            "id": "9895b44a686162d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,9 +116,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b53d3a043a31ae6",
+  "active": "9895b44a686162d0",
   "lastOpenFiles": [
     "weekly-goals_2022-10-24.md",
+    "weekly-goals_2022-10-31.md",
     "weekly-goals_2022-10-17.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "notes-UF-DMSP-help.md",
@@ -139,7 +127,6 @@
     "weekly-goals_2022-10-10.md",
     "Carpentries Teaching Demo.md",
     "Civic Data workshop - DLF Forum - October 11.md",
-    "weekly-goals_2022-10-03.md",
-    "interview-NCSU.md"
+    "weekly-goals_2022-10-03.md"
   ]
 }

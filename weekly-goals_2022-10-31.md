@@ -29,8 +29,8 @@
 ### T32 Rigor & Reproducibility Seminar Series
 - Fall 2022
   - [x] reminder email
-  - [ ] advertising (COM list?)
-  - [ ] setup google docs
+  - [x] advertising
+  - [x] setup google docs
 - Spring 2023
   - [ ] scheduling check (beginning of January)
   - [ ] speaker bio on webpage
