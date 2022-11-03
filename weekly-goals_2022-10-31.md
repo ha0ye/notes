@@ -7,6 +7,7 @@
 - [ ] coordinate guide to resources
 - [ ] continuation - points of contact, governance?
 - [ ] standardize appearance?
+- [ ] funding ack in materials
 - [ ] extended guide work
 
 ### Open Grants
