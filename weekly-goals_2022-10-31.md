@@ -23,8 +23,8 @@
 - [ ] send draft paper to advisory group for feedback
 
 ### OA Committee
-- [ ] set agenda for Nov meeting
-- [ ] rubric appearance
+- [x] set agenda for Nov meeting
+- [x] rubric appearance
 - [x] OA panel final reminders
 - [x] OA panel room prep
 
@@ -157,9 +157,6 @@
 
 ### DEI team
 - [ ] look into trainings on activism or institutional change
-
-### FORCE11 data-ethics WG
-- [ ] examples and template language for journal policy
 
 ### Milk Metabolomics Searching
 
