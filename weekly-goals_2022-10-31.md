@@ -59,7 +59,7 @@
 
 ### Liaison Stuff
 - [ ] intro slides for HOBI faculty meeting Nov 9
-- [ ] library orientation recording for BMS grads 10/28
+- [x] library orientation recording for BMS grads 10/28
 
 ### Seminar for Laboratory of Systems Medicine Nov 29
 - [ ] send title and abstract
