@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emily McElroy meeting.md",
+                "file": "chart.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a2426ff7fef52235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2022-11-07.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emily McElroy meeting.md"
+                "file": "weekly-goals_2022-11-07.md"
               }
             }
           }
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emily McElroy meeting.md",
+                "file": "weekly-goals_2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emily McElroy meeting.md"
+                "file": "weekly-goals_2022-11-07.md"
               }
             }
           }
@@ -129,8 +141,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0a2f27f8700e07f",
+  "active": "a2426ff7fef52235",
   "lastOpenFiles": [
+    "chart.md",
+    "Emily McElroy meeting.md",
     "weekly-goals_2022-10-31.md",
     "weekly-goals_2022-10-24.md",
     "weekly-goals_2022-10-17.md",
@@ -138,8 +152,6 @@
     "notes-UF-DMSP-help.md",
     "abstract.md",
     "weekly-goals_2022-10-10.md",
-    "Carpentries Teaching Demo.md",
-    "Civic Data workshop - DLF Forum - October 11.md",
-    "weekly-goals_2022-10-03.md"
+    "Carpentries Teaching Demo.md"
   ]
 }

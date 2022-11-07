@@ -33,6 +33,13 @@ I struggle with having too many projects and commitments. It would be good if th
 * knowledge management (content and processes) in the libraries could be improved - e.g. how to get things done - I have a handbook for HSCL, but there is much that isn't included
 	* the pathway to updating written documentation seems awful - in between random word docs, TEAMS file storage, libguides, library websites, information stored in people's memory and/or email threads
 
+For ARCS, cohesive strategy for operations:
+* consulting services + advertising
+* liaison responsibilities, if any?
+* group / team projects
+* integration of affiliates
+* clarification of responsibilities (esp. around data/stats)
+
 6.  What is your communication preference – email, meetings (zoom or in-person), drop-by conversations?
 
 depends entirely on the purpose:
