@@ -1,7 +1,5 @@
 meeting date: 2022-11-08
 
-### Prompts
-
 1. One thing you really want me to know about you
 
 I don't care about this job, I care about the work and the people.
