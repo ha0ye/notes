@@ -52,13 +52,14 @@
 - [ ] minutes for 10/14
 - [ ] minutes for 10/21
 - [ ] minutes for 10/28
+- [ ] minutes for 11/04
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
 
 ### Liaison Stuff
-- [ ] intro slides for HOBI faculty meeting Nov 9
+- [ ] intro slides for HOBI faculty meeting Dec 7
 - [x] library orientation recording for BMS grads 10/28
 
 ### Seminar for Laboratory of Systems Medicine Nov 29
