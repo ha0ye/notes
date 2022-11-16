@@ -1,6 +1,4 @@
 
-# 
-
 
 # Elements of an NIH DMSP
 
