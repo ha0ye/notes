@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2022-11-14.md",
+                "file": "notes-UF-DMSP-help.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-11-14.md"
+                "file": "notes-UF-DMSP-help.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-11-14.md",
+                "file": "notes-UF-DMSP-help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-11-14.md"
+                "file": "notes-UF-DMSP-help.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "e515d5d6b992a8cc",
   "lastOpenFiles": [
+    "weekly-goals_2022-11-14.md",
     "weekly-goals_2022-11-07.md",
     "DMSP notes.md",
     "notes-UF-DMSP-help.md",
@@ -139,7 +140,6 @@
     "Hao Ye - Emily McElroy meeting.md",
     "weekly-goals_2022-10-24.md",
     "weekly-goals_2022-10-17.md",
-    "Carpentries Teaching Demo - etherpad template.md",
-    "abstract.md"
+    "Carpentries Teaching Demo - etherpad template.md"
   ]
 }
