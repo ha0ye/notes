@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes-UF-DMSP-help.md",
+                "file": "NCSU-screening.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7ac47919bba65c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCSU-02-general-session.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "06fd67f1d1e804e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCSU-screening.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "20065d98de0356eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCSU-02-general-session.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes-UF-DMSP-help.md"
+                "file": "NCSU-02-general-session.md"
               }
             }
           }
@@ -100,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-UF-DMSP-help.md",
+                "file": "NCSU-02-general-session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes-UF-DMSP-help.md"
+                "file": "NCSU-02-general-session.md"
               }
             }
           }
@@ -129,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e515d5d6b992a8cc",
+  "active": "20065d98de0356eb",
   "lastOpenFiles": [
+    "NCSU-01-nominating-committee.md",
+    "NCSU-03-research-computing-data-providers.md",
+    "NCSU-screening.md",
+    "NCSU-02-general-session.md",
+    "informational-interview-USGS.md",
+    "notes-UF-DMSP-help.md",
     "weekly-goals_2022-11-14.md",
     "weekly-goals_2022-11-07.md",
     "DMSP notes.md",
-    "notes-UF-DMSP-help.md",
-    "weekly-goals_2022-10-31.md",
-    "chart.md",
-    "Hao Ye - Emily McElroy meeting.md",
-    "weekly-goals_2022-10-24.md",
-    "weekly-goals_2022-10-17.md",
-    "Carpentries Teaching Demo - etherpad template.md"
+    "weekly-goals_2022-10-31.md"
   ]
 }
