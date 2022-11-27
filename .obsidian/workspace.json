@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCSU-02-general-session.md",
+                "file": "NCSU-03-research-computing-data-providers.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCSU-02-general-session.md"
+                "file": "NCSU-03-research-computing-data-providers.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCSU-02-general-session.md",
+                "file": "NCSU-03-research-computing-data-providers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCSU-02-general-session.md"
+                "file": "NCSU-03-research-computing-data-providers.md"
               }
             }
           }
@@ -167,10 +167,10 @@
   },
   "active": "20065d98de0356eb",
   "lastOpenFiles": [
+    "NCSU-02-general-session.md",
     "NCSU-01-nominating-committee.md",
     "NCSU-03-research-computing-data-providers.md",
     "NCSU-screening.md",
-    "NCSU-02-general-session.md",
     "informational-interview-USGS.md",
     "notes-UF-DMSP-help.md",
     "weekly-goals_2022-11-14.md",
