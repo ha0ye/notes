@@ -121,6 +121,18 @@ Practices
 ### 6. What questions do you have for us?
 
 * any examples of facilitation so far?
+  - couple of conversations with researchers - grant proposal stage
+    + data management questions
+    + build a data repository for secondayr data set 
+    + metadata schema and reuse considerations
+  - coordination with core facilities to optimize data workflow
+    + data coming off of a seqeuncer
+    + customers on-campus for gene sequencers
+    + difficulties in moving the data around, and share end results with customers
+    + data from device -> HPC -> customers (not optimized, constrained storage)
+  - researchers have developed a local solution
+    + come for suggestions/recommendations about modernize workflows 
+    + NC State resources, to mitigate concerns about security (scaling?)
 * challenges and needs?
 * student mentoring?
 

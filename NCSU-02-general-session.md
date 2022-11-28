@@ -77,7 +77,8 @@ How to get good feedback on a very technical document?
   - make it EASY to contribute
   - dedicated facilitator roles, tracking documents, calendar invites, allow self-organization for independent working
 
-### 5. What are one or two emerging areas of research computing and data support that you think could significantly improve the way academic institutions serve researchers in the next 2-3 years? How do you stay on top of these emerging trends?
+### 5. What are one or two emerging areas of research computing and data support that you think could significantly improve the way academic institutions serve researchers in the next 2-3 years?
+### How do you stay on top of these emerging trends?
 
 Automation is (maybe not emerging), but feels underused
 * leverage what computers are good at (repetition) for quality control
@@ -106,5 +107,18 @@ New funding program, involved in review and feedback on processes:
 ### 7. What questions do you have for us?
 
 * One exciting or pleasing development in last few years, and one thing you would like to change or see improved (can't pick travel reimbursement)?
-* 
+  - containerizing software development
+	  - do development, and how to deploy
+	  - continuous integration
+  - NCSU is a big campus
+    - don't know who is doing what
+    - why the RFS group was started, filling in gaps
+    - landscape is becoming clear
+  - hiring in data and visualization services
+    - think about what service areas; capacity
+    - complementary
+* exciting technologies
+  - meet very basic needs of researchers (storage, data transfer)
+  - what we can offer graduate student researcher
+  - 
 
