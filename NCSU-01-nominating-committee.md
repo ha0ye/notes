@@ -5,6 +5,7 @@
 * conversations with different groups (library units, office of research and innovation, research computing, grad student & postdoc associations)
   - learn about what they do 
   - what areas they have interacted with, what areas they would like to reach out to or think are underserved
+  - what services are commonly used, what services are underutilized
 * write some intro blurbs about my and RFS expertise and service areas
   - provide context and salient information
   - have this be on a website, to be referred to or updated later
@@ -16,9 +17,13 @@
 ### 2. Please describe your experience identifying, developing, and/or implementing novel technologies or services that address evolving needs of a university research community. 
 
 Identifying
+* many mailing lists
 * on twitter while it still exists
 * many slack communities around training, open science, open source (esp. in research)
-* many mailing lists
+  - research software engineering
+  - reproducibility networks
+  - open science groups
+  - methods and technologists
 
 Implementation
 * one of the primary means is through library workshop instruction
@@ -55,7 +60,7 @@ I participated in several ways:
 * developing downstream data analysis for end-users to access the data and produce formatted data suitable for analysis
 * review and debugging of QA/QC scripts
 
-More generally, I usually provide guidance at the stage of data archiving or sharing.
+In my consultations, I usually provide guidance at the stage of data archiving or sharing.
 * repository selection
   - funder requirements
   - ease of use
