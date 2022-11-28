@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCSU-03-research-computing-data-providers.md",
+                "file": "NCSU-02-general-session.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCSU-03-research-computing-data-providers.md"
+                "file": "NCSU-02-general-session.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCSU-03-research-computing-data-providers.md",
+                "file": "NCSU-02-general-session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCSU-03-research-computing-data-providers.md"
+                "file": "NCSU-02-general-session.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "20065d98de0356eb",
   "lastOpenFiles": [
-    "NCSU-02-general-session.md",
     "NCSU-01-nominating-committee.md",
+    "NCSU-02-general-session.md",
     "NCSU-03-research-computing-data-providers.md",
     "NCSU-screening.md",
     "informational-interview-USGS.md",

@@ -21,6 +21,10 @@ This position provides opportunity:
 
 ### 2. This position will involve a breadth and diversity of technology and research subjects. Please give us some examples from your past experience where you have had to work across several different subject areas or disciplines.
 
+
+
+
+
 ### 3. Please tell us about a project in which you had to bridge the gap between technical and non-technical roles. What strategies did you use to communicate effectively with people with different levels of technical expertise? What challenges did you face?
 
 https://www.ogrants.org/about.html
@@ -75,9 +79,20 @@ Tooling for specifying workflow
 
 ### 6. Please share an example of a time you designed or changed a service to be more inclusive or more accessible.
 
+https://eventfund.codeforscience.org/
+Code for Science & Society Event Fund
+* Fall 2020 to Spring 2022
+* funding for events to build inclusive data science communities
+* 3 rounds: 37 events (27 countries, 6 continents)
+* focus on how the event will bring in and support a diverse and underserved community - NOT another data science meetup group
+* dedicated component for outreach and support (translation, transportation, telecommunications hardware, internet access, child care, stipends, etc.)
 
+New funding program, involved in review and feedback on processes:
+* revising application to more directly line up with evaluation rubric
+* providing guidance on applications, informational seminars (recorded), pre-application sessions
 
 ### 7. What questions do you have for us?
+
 
 
 
