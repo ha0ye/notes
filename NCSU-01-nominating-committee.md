@@ -2,24 +2,41 @@
 
 (personal perspective)
 
-* conversations with different groups (library units, office of research and innovation, research computing)
+* conversations with different groups (library units, office of research and innovation, research computing, grad student & postdoc associations)
   - learn about what they do 
   - what areas they have interacted with, what areas they would like to reach out to or think are underserved
-* write some intro blurbs about expertise and service areas
+* write some intro blurbs about my and RFS expertise and service areas
   - provide context and salient information
   - have this be on a website, to be referred to or updated later
-* read any available reports 
-
-
-
+* read summary reports about activities and research operations
+  - highlights
+  - new funding areas
+  - grants, publications, data and computing needs
 
 ### 2. Please describe your experience identifying, developing, and/or implementing novel technologies or services that address evolving needs of a university research community. 
 
+Identifying
+* on twitter while it still exists
+* many slack communities around training, open science, open source (esp. in research)
+* many mailing lists
 
+Implementation
+* one of the primary means is through library workshop instruction
+  - pay attention to attendance and engagement
+  - adjust frequency or content as needed
+* marketing and announcements
+  - chair of Open Access committee
+  - publish-and-read agreements with several publishers - want to let researchers know
+  - various official newsletters have been effective - people do not always remember details, but are aware and ask about what APC waivers they can use
 
-
-
-
+ONE major challenge is communicating to a very busy audience:
+* when under cognitive load, locked into a set way of doing things
+* trying a new service can feel risky and vulnerable
+* trust is important
+* having specific examples of tasks
+  - publishing data
+  - creating a DMP
+  - accessing resources
 
 ### 3. Can you tell us about a time you had to think about or establish a data lifecycle, either for your own research or in facilitating someone else's research? What things did you take into consideration?
 
@@ -97,3 +114,10 @@ Practices
 
 
 ### 6. What questions do you have for us?
+
+* any examples of facilitation so far?
+* challenges and needs?
+* student mentoring?
+
+
+

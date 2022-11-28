@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9895b44a686162d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2022-11-07.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e515d5d6b992a8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCSU-screening.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7ac47919bba65c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NCSU-02-general-session.md",
+                "file": "NCSU-01-nominating-committee.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCSU-01-nominating-committee.md",
+                "file": "NCSU-02-general-session.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "73b130510d57b757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCSU-03-research-computing-data-providers.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,16 +140,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20065d98de0356eb",
+  "active": "e515d5d6b992a8cc",
   "lastOpenFiles": [
-    "NCSU-02-general-session.md",
-    "NCSU-screening.md",
-    "NCSU-01-nominating-committee.md",
+    "weekly-goals_2022-11-07.md",
     "NCSU-03-research-computing-data-providers.md",
+    "NCSU-01-nominating-committee.md",
+    "NCSU-screening.md",
+    "NCSU-02-general-session.md",
     "informational-interview-USGS.md",
     "notes-UF-DMSP-help.md",
     "weekly-goals_2022-11-14.md",
-    "weekly-goals_2022-11-07.md",
     "DMSP notes.md",
     "weekly-goals_2022-10-31.md"
   ]

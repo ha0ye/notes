@@ -21,8 +21,20 @@ This position provides opportunity:
 
 ### 2. This position will involve a breadth and diversity of technology and research subjects. Please give us some examples from your past experience where you have had to work across several different subject areas or disciplines.
 
+I teach broadly across disciplines and computing comfort levels:
+* Carpentries instructor and instructor trainer
+  - have taught computing across domains (social sciences, libraries, STEM)
+* reproducibility has many facets, and can engage in different ways
+  - replication of pre-clinical studies can be motivating from a cost-effectiveness perspective
+  - issues with meeting data or reporting standards can motivate for research integrity
+  - data sharing, secondary analysis, writing software can motivate from wanting to be part of a broader community
+  - research degrees of freedom and documentation can motivate from wanting to be rigorous and precise
+* guest instruction for biomedical engineering, latin american studies, college of medicine, genomics, office of research
+* IMLS-funded open grants research project is inherently seeking perspectives from different research fields and stakeholders from different sectors (administrators, researchers, educators, students, funders, technologists, etc.)
 
-
+active listening is important to understand individual needs, and what they are asking
+  - sometimes terminology can differ
+  - sometimes different fields have specific norms about practices like data sharing, or open access
 
 
 ### 3. Please tell us about a project in which you had to bridge the gap between technical and non-technical roles. What strategies did you use to communicate effectively with people with different levels of technical expertise? What challenges did you face?
@@ -93,5 +105,6 @@ New funding program, involved in review and feedback on processes:
 
 ### 7. What questions do you have for us?
 
-
+* One exciting or pleasing development in last few years, and one thing you would like to change or see improved (can't pick travel reimbursement)?
+* 
 
