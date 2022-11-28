@@ -8,8 +8,7 @@
 * write some intro blurbs about expertise and service areas
   - provide context and salient information
   - have this be on a website, to be referred to or updated later
-* read any available reports on 
-
+* read any available reports 
 
 
 
@@ -21,19 +20,59 @@
 
 
 
+
 ### 3. Can you tell us about a time you had to think about or establish a data lifecycle, either for your own research or in facilitating someone else's research? What things did you take into consideration?
 
 https://doi.org/10.1371/journal.pbio.3000125
-* postdoctoral lab - Portal project
-* experimental 
+* postdoctoral lab
+* Portal project - experimental rodent community in the Chihuahua desert
+* existing data workflow
+  - data collection in the field
+  - human entry of data sheets
+  - initial verification via Excel data validation
+  - pull request into data repository, additional QA/QC checks
+  - release and archiving of new version
 
+I participated in several ways:
+* data collection in the field (rodent trapping)
+* developing downstream data analysis for end-users to access the data and produce formatted data suitable for analysis
+* review and debugging of QA/QC scripts
 
+More generally, I usually provide guidance at the stage of data archiving or sharing.
+* repository selection
+  - funder requirements
+  - ease of use
+  - target audience
+* formatting and metadata
+  - README and license information for re-use and acknowledgements
+  - data dictionary
+  - keywords to facilitate findability
+* look to examples shared by other authors
+  - community standards (de facto)
 
 
 ### 4. Tell us about an idea you’ve had that was met with some resistance. How did you handle it and what was the outcome?
 
+* ARCS AI team
+* develop new trainings on AI for library staff to demystify (in conjunction with UF AI initiative)
+* one of the sessions, created by someone else, was on AI ethics
+* Another member and I had concerns about how it was structured
+  - too much focus on cases of training data -> harmful outcomes 
+    (racist or sexist predictions from a computer model)
+* rather than try and rewrite someone else's lesson, we proposed to work on our own version, to be offered at a later time
+* approach:
+  - acknowledge other perspective, work, motivation
+  - understand limitations:
+    + changing someone's stance or opinion can be a lot of work - it is not always necessary!
+    + we can create our own content - more focus on ethical frameworks and ethical conflicts in creating and using technology
 
+**S**takeholders
+**F**acts
+**N**orms
+**O**ptions
 
+- why I like to identify common values, motivations as a common ground
+- identify differences in opinions or prioities that influence choices
 
 ### 5. Please share your approach to managing your time, especially when you are faced with competing priorities. How do you approach managing multiple, complex, high-profile projects?
 
