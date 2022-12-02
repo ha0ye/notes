@@ -23,7 +23,7 @@
 
 ### OA Committee
 - [ ] writeup evaluation for programming historian
-- [ ] Dec agenda
+- [x] Dec agenda
 - [ ] Dec meeting
 - [ ] scheduling for Spring 2023
 
@@ -45,16 +45,17 @@
 - [ ] UF Core Values Letter
 - [~] delegate response to privilege wheel
 - [ ] marketing
-- [ ] letter for Renata
-- [ ] OLS intro R open source community
+- [ ] review ARCS new employee orientation slides
+- [x] letter for Renata
+- [x] OLS intro R open source community
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
 
 ### Seminar for Laboratory of Systems Medicine Nov 29
-- [ ] send title and abstract
-- [ ] outline of talk
+- [x] send title and abstract
+- [x] outline of talk
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -69,9 +70,10 @@
 - [ ] planning/coordination of TREC workshop
 
 ### AI sessions
-- [ ] discuss ethical framework content
+- [x] discuss ethical framework content
 - [ ] work on case studies
 - [ ] intro slides
+- [ ] summary slides
 
 ### Midterm T&P Packet
 - [ ] revise based on feedback
