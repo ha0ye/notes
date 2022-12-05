@@ -24,6 +24,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
+  - [ ] check
   - [ ] scheduling check (beginning of January)
   - [ ] speaker bio on webpage
   - [ ] confirm date and time
@@ -46,6 +47,7 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
+- [ ] review draft on ecological forecasting class - https://docs.google.com/document/d/1DbWE8legQKKkJ7uaGBwhEq42Bl458NDLQ1buAQhIVbY/edit
 
 ### ReproducibiliTea
 - [ ] document comms channels
