@@ -22,6 +22,10 @@
 - [ ] Dec meeting
 - [ ] scheduling for Spring 2023
 
+### DEI Senior Director Search
+- [ ] PVA distribution
+
+
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
   - [ ] check
