@@ -25,7 +25,6 @@
 ### DEI Senior Director Search
 - [ ] PVA distribution
 
-
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
   - [ ] check
@@ -44,9 +43,9 @@
 ### Misc
 - [ ] UF Core Values Letter
 - [~] delegate response to privilege wheel
-- [ ] marketing
+- [x] marketing
 - [x] review ARCS new employee orientation slides
-- [ ] letter for Renata
+- [x] letter for Renata
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
