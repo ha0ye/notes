@@ -19,8 +19,8 @@
 
 ### OA Committee
 - [ ] writeup evaluation for programming historian
-- [ ] Dec meeting
-- [ ] scheduling for Spring 2023
+- [x] Dec meeting
+- [x] scheduling for Spring 2023
 
 ### DEI Senior Director Search
 - [ ] PVA distribution

@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "2310c43b2623a0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2022-12-05.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-12-05.md"
+                "file": "weekly-goals_2022-11-28.md"
               }
             }
           }
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-12-05.md",
+                "file": "weekly-goals_2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-12-05.md"
+                "file": "weekly-goals_2022-11-28.md"
               }
             }
           }
@@ -129,8 +116,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2310c43b2623a0ff",
+  "active": "9e6a7aa81ea33b96",
   "lastOpenFiles": [
+    "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-11-28.md",
     "DMSP notes.md",
     "weekly-goals_2022-11-14.md",
@@ -139,7 +127,6 @@
     "NCSU-03-research-computing-data-providers.md",
     "NCSU-04-wrapup.md",
     "NCSU-screening.md",
-    "weekly-goals_2022-11-07.md",
-    "informational-interview-USGS.md"
+    "weekly-goals_2022-11-07.md"
   ]
 }
