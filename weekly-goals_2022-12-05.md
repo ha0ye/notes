@@ -59,15 +59,18 @@
 - [ ] develop initial reading list
 
 ### Faculty Mentoring
-- [ ] post series 2 debrief
+- [x] post series 2 debrief
+- [ ] write up onboarding/offboarding guide
+- [ ] write up operations guide with timeline
+- [ ] review feedback
 
 ### Ally Skills
 - [ ] planning/coordination of TREC workshop
 
 ### AI sessions
 - [ ] work on case studies
-- [ ] intro slides
-- [ ] summary slides
+- [x] intro slides
+- [x] summary slides
 
 ### Midterm T&P Packet
 - [ ] revise based on feedback
