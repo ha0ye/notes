@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2022-12-12.md",
+                "file": "DMSP notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-12-12.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-12-12.md",
+                "file": "DMSP notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-12-12.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "94dd4f447dd0b80a",
   "lastOpenFiles": [
+    "notes-UF-DMSP-help.md",
+    "weekly-goals_2022-12-12.md",
     "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-11-28.md",
     "DMSP notes.md",
@@ -138,8 +140,6 @@
     "NCSU-01-nominating-committee.md",
     "NCSU-02-general-session.md",
     "NCSU-03-research-computing-data-providers.md",
-    "NCSU-04-wrapup.md",
-    "NCSU-screening.md",
-    "weekly-goals_2022-11-07.md"
+    "NCSU-04-wrapup.md"
   ]
 }
