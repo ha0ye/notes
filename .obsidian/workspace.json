@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMSP notes.md",
+                "file": "weekly-goals_2022-12-12.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMSP notes.md"
+                "file": "weekly-goals_2022-12-12.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMSP notes.md",
+                "file": "weekly-goals_2022-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMSP notes.md"
+                "file": "weekly-goals_2022-12-12.md"
               }
             }
           }
@@ -131,11 +131,11 @@
   },
   "active": "94dd4f447dd0b80a",
   "lastOpenFiles": [
+    "DMSP notes.md",
     "notes-UF-DMSP-help.md",
     "weekly-goals_2022-12-12.md",
     "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-11-28.md",
-    "DMSP notes.md",
     "weekly-goals_2022-11-14.md",
     "NCSU-01-nominating-committee.md",
     "NCSU-02-general-session.md",

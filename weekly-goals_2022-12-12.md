@@ -21,7 +21,7 @@
 - [ ] update and publish rubric on OSF
 
 ### DEI Senior Director Search
-- [ ] PVA distribution
+- [x] PVA distribution
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
