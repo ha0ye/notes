@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b628aa595c83f385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2022-12-19.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-12-12.md"
+                "file": "weekly-goals_2022-12-19.md"
               }
             }
           }
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2022-12-12.md",
+                "file": "weekly-goals_2022-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2022-12-12.md"
+                "file": "weekly-goals_2022-12-19.md"
               }
             }
           }
@@ -129,11 +141,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94dd4f447dd0b80a",
+  "active": "b628aa595c83f385",
   "lastOpenFiles": [
+    "weekly-goals_2022-12-12.md",
     "DMSP notes.md",
     "notes-UF-DMSP-help.md",
-    "weekly-goals_2022-12-12.md",
     "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-11-28.md",
     "weekly-goals_2022-11-14.md",
