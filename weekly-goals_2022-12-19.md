@@ -66,7 +66,8 @@
 - [ ] planning/coordination of TREC workshop
 
 ### AI sessions
-- [ ] writeup feedback and TODO list
+- [x] writeup feedback
+- [ ] identify TODOs and assign
 
 ### Midterm T&P Packet
 - [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps
