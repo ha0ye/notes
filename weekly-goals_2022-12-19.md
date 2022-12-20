@@ -6,7 +6,7 @@
 - [x] set up poll for March meeting
 - [x] set up email lists
 - [x] send followup email
-- [ ] check-in with style guide application
+- [x] check-in with style guide application
 - [ ] extended guide work
 
 ### Open Grants
