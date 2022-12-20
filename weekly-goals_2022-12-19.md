@@ -3,9 +3,9 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] set up poll for March meeting
-- [ ] set up email lists
-- [ ] send followup email
+- [x] set up poll for March meeting
+- [x] set up email lists
+- [x] send followup email
 - [ ] check-in with style guide application
 - [ ] extended guide work
 
@@ -25,6 +25,7 @@
 
 ### DEI Senior Director Search
 - [x] PVA distribution
+- [ ] committee meeting to evaluate candidates
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
