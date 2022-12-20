@@ -20,7 +20,7 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] writeup evaluation for programming historian
+- [x] wrapup evaluation for programming historian
 - [x] update and publish rubric on OSF
 
 ### DEI Senior Director Search
