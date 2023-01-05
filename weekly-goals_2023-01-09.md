@@ -3,7 +3,7 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] reminder for poll for March meeting
+- [x] reminder for poll for March meeting
 - [x] extended guide work
 - [ ] extended guide review meeting (Jan 19)
 
@@ -58,6 +58,8 @@
 	- [x] SPOT
 	- [ ] unit tests
 - [ ] review draft on ecological forecasting class - https://docs.google.com/document/d/1DbWE8legQKKkJ7uaGBwhEq42Bl458NDLQ1buAQhIVbY/edit
+- [x] forward workshop announcements to liaisons
+- [x] transfer biostats libguide to Natya
 
 ### AI sessions
 - [ ] identify TODOs and assign
