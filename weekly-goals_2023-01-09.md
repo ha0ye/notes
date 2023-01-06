@@ -18,7 +18,7 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] setup January agenda
+- [x] setup January agenda
 - [ ] review OA evaluations
 
 ### DEI Senior Director Search
