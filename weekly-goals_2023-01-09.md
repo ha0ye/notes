@@ -57,7 +57,7 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] review draft on ecological forecasting class - https://docs.google.com/document/d/1DbWE8legQKKkJ7uaGBwhEq42Bl458NDLQ1buAQhIVbY/edit
+- [x] review draft on ecological forecasting class - https://docs.google.com/document/d/1DbWE8legQKKkJ7uaGBwhEq42Bl458NDLQ1buAQhIVbY/edit
 - [x] forward workshop announcements to liaisons
 - [x] transfer biostats libguide to Natya
 
@@ -94,7 +94,6 @@
 ### LibGuides
 - [ ] redo pubmed searching guide
 - [ ] review resources for HOBI
-- [ ] review resources for biostats
 - [ ] review resources for IDP
 - [ ] clean up bookmarks and propagate to reproducibility libguide
 	https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
