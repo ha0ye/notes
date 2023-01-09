@@ -30,6 +30,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bb1551d7b24700e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-01-09.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -140,15 +152,15 @@
   },
   "active": "acb60d71973c17be",
   "lastOpenFiles": [
-    "Carpentries Teaching Demo.md",
     "weekly-goals_2023-01-09.md",
-    "archive/weekly-goals_2022-06-06.md",
+    "weekly-goals_2023-01-05.md",
     "Carpentries Teaching Demo - etherpad template.md",
+    "Carpentries Teaching Demo.md",
+    "archive/weekly-goals_2022-06-06.md",
     "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-12-12.md",
     "NCSU-02-general-session.md",
     "Penn-screening.md",
-    "NCSU-01-nominating-committee.md",
-    "Hao Ye - Emily McElroy meeting.md"
+    "NCSU-01-nominating-committee.md"
   ]
 }
