@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9c1da10a28bb25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/weekly-goals_2022-06-06.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "acb60d71973c17be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "bb1551d7b24700e3",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md"
+                "file": "weekly-goals_2023-01-09.md"
               }
             }
           }
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "file": "weekly-goals_2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md"
+                "file": "weekly-goals_2023-01-09.md"
               }
             }
           }
@@ -150,13 +125,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "acb60d71973c17be",
+  "active": "bb1551d7b24700e3",
   "lastOpenFiles": [
+    "archive/weekly-goals_2022-06-06.md",
+    "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-01-09.md",
     "weekly-goals_2023-01-05.md",
-    "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
-    "archive/weekly-goals_2022-06-06.md",
     "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-12-12.md",
     "NCSU-02-general-session.md",
