@@ -3,8 +3,6 @@
 ## weekly
 
 ### NIH DMSP working group
-- [x] reminder for poll for March meeting
-- [x] extended guide work
 - [ ] extended guide review meeting (Jan 19)
 
 ### Open Grants
@@ -18,8 +16,9 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [x] setup January agenda
 - [ ] review OA evaluations
+- [ ] slides for February Town Hall
+- [ ] content for February 
 
 ### DEI Senior Director Search
 - [ ] committee meeting to evaluate candidates
