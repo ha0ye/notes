@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f2503d3fb170bf15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-01-16.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-01-09.md"
+                "file": "weekly-goals_2023-01-16.md"
               }
             }
           }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-01-09.md",
+                "file": "weekly-goals_2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-01-09.md"
+                "file": "weekly-goals_2023-01-16.md"
               }
             }
           }
@@ -125,17 +138,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bb1551d7b24700e3",
+  "active": "f2503d3fb170bf15",
   "lastOpenFiles": [
+    "archive/NCSU-01-nominating-committee.md",
+    "weekly-goals_2023-01-16.md",
+    "weekly-goals_2023-01-09.md",
     "archive/weekly-goals_2022-06-06.md",
     "Carpentries Teaching Demo - etherpad template.md",
-    "weekly-goals_2023-01-09.md",
     "weekly-goals_2023-01-05.md",
     "Carpentries Teaching Demo.md",
     "weekly-goals_2022-12-05.md",
     "weekly-goals_2022-12-12.md",
-    "NCSU-02-general-session.md",
-    "Penn-screening.md",
-    "NCSU-01-nominating-committee.md"
+    "archive/NCSU-02-general-session.md"
   ]
 }
