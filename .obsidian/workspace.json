@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-01-16.md",
+                "file": "DMSP notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-01-16.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-01-16.md",
+                "file": "DMSP notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-01-16.md"
+                "file": "DMSP notes.md"
               }
             }
           }
@@ -140,8 +140,8 @@
   },
   "active": "f2503d3fb170bf15",
   "lastOpenFiles": [
-    "archive/NCSU-01-nominating-committee.md",
     "weekly-goals_2023-01-16.md",
+    "archive/NCSU-01-nominating-committee.md",
     "weekly-goals_2023-01-09.md",
     "archive/weekly-goals_2022-06-06.md",
     "Carpentries Teaching Demo - etherpad template.md",
