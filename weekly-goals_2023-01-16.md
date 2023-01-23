@@ -3,7 +3,7 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] extended guide review meeting (Jan 19)
+- [x] extended guide review meeting (Jan 19)
 - [ ] follow-ups from DEC meetings
 
 ### Open Grants
@@ -18,11 +18,11 @@
 
 ### OA Committee
 - [ ] review OA evaluations
-- [ ] slides for February Town Hall
+- [x] slides for February Town Hall
 - [ ] content for February 
 
 ### DEI Senior Director Search
-- [ ] committee meeting to evaluate candidates
+- [x] committee meeting to evaluate candidates
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -61,7 +61,10 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] minutes for Jan 13
+- [x] minutes for Jan 13
+- [x] minutes for Jan 20
+- [x] professional development and travel request
+- [x] Sloan OSPO initial summary
 
 ### AI sessions
 - [ ] identify TODOs and assign

@@ -3,7 +3,6 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] extended guide review meeting (Jan 19)
 - [ ] follow-ups from DEC meetings
 
 ### Open Grants
@@ -18,11 +17,11 @@
 
 ### OA Committee
 - [ ] review OA evaluations
-- [ ] slides for February Town Hall
-- [ ] content for February 
+- [ ] review slides for February Town Hall
+- [ ] agenda for February 
 
 ### DEI Senior Director Search
-- [ ] committee meeting to evaluate candidates
+- [ ] review phone interview questions
 
 ### ReproducibiliTea
 - [ ] document comms channels
@@ -61,10 +60,13 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] minutes for Jan 13
+- [ ] minutes for Jan 27
 
 ### AI sessions
-- [ ] identify TODOs and assign
+- [ ] schedule session
+- [ ] add bios
+- [ ] assign revisions for AI ethics session
+- [ ] carryout revisions for AI ethics session
 
 ### Midterm T&P Packet
 - [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps

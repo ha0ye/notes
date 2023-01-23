@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-01-09.md",
+                "file": "weekly-goals_2023-01-23.md",
                 "mode": "source",
                 "source": true
               }
@@ -30,21 +30,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "03f08ad5a73be46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2023-01-23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,17 +137,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "03f08ad5a73be46b",
+  "active": "bb1551d7b24700e3",
   "lastOpenFiles": [
+    "weekly-goals_2023-01-09.md",
     "weekly-goals_2023-01-16.md",
+    "weekly-goals_2023-01-23.md",
     "DMSP notes.md",
     "archive/NCSU-01-nominating-committee.md",
-    "weekly-goals_2023-01-09.md",
     "archive/weekly-goals_2022-06-06.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-01-05.md",
     "Carpentries Teaching Demo.md",
-    "weekly-goals_2022-12-05.md",
-    "weekly-goals_2022-12-12.md"
+    "weekly-goals_2022-12-05.md"
   ]
 }
