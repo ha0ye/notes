@@ -61,6 +61,7 @@
 	- [x] SPOT
 	- [ ] unit tests
 - [ ] minutes for Jan 27
+- [x] UBC letter for Renata
 
 ### AI sessions
 - [ ] schedule session
