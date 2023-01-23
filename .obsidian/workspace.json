@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMSP notes.md",
+                "file": "weekly-goals_2023-01-16.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "03f08ad5a73be46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-01-23.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMSP notes.md"
+                "file": "weekly-goals_2023-01-23.md"
               }
             }
           }
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMSP notes.md",
+                "file": "weekly-goals_2023-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMSP notes.md"
+                "file": "weekly-goals_2023-01-23.md"
               }
             }
           }
@@ -138,9 +150,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2503d3fb170bf15",
+  "active": "03f08ad5a73be46b",
   "lastOpenFiles": [
     "weekly-goals_2023-01-16.md",
+    "DMSP notes.md",
     "archive/NCSU-01-nominating-committee.md",
     "weekly-goals_2023-01-09.md",
     "archive/weekly-goals_2022-06-06.md",
@@ -148,7 +161,6 @@
     "weekly-goals_2023-01-05.md",
     "Carpentries Teaching Demo.md",
     "weekly-goals_2022-12-05.md",
-    "weekly-goals_2022-12-12.md",
-    "archive/NCSU-02-general-session.md"
+    "weekly-goals_2022-12-12.md"
   ]
 }
