@@ -3,7 +3,9 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] follow-ups from DEC meetings
+- [ ] formatted extended reference guide for checklist
+- [ ] check on repository finder
+- [ ] webpage conversion of docs
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
