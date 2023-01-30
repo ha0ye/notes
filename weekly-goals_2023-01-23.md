@@ -20,7 +20,7 @@
 ### OA Committee
 - [ ] review OA evaluations
 - [ ] review slides for February Town Hall
-- [ ] agenda for February 
+- [x] agenda for February 
 
 ### DEI Senior Director Search
 - [ ] review phone interview questions
