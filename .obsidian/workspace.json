@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-01-23.md",
+                "file": "archive/NCSU-01-nominating-committee.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-01-23.md"
+                "file": "archive/NCSU-01-nominating-committee.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-01-23.md",
+                "file": "archive/NCSU-01-nominating-committee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-01-23.md"
+                "file": "archive/NCSU-01-nominating-committee.md"
               }
             }
           }
@@ -127,9 +127,9 @@
   },
   "active": "bb1551d7b24700e3",
   "lastOpenFiles": [
+    "weekly-goals_2023-01-23.md",
     "weekly-goals_2023-01-09.md",
     "weekly-goals_2023-01-16.md",
-    "weekly-goals_2023-01-23.md",
     "DMSP notes.md",
     "archive/NCSU-01-nominating-committee.md",
     "archive/weekly-goals_2022-06-06.md",
