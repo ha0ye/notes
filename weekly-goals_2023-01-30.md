@@ -47,11 +47,11 @@
 - [ ] post course debrief
 
 ### Course-integrated Instruction
-- [ ] revise materials for CURE bioinformatics class
-- [ ] deliver session for CURE bioinformatics class
-- [ ] revise materials for BME github class
-- [ ] deliver session for BME github class
-- [ ] revise materials for intro repro class (SHARC T32)
+- [x] revise materials for CURE bioinformatics class
+- [x] deliver session for CURE bioinformatics class
+- [x] revise materials for BME github class
+- [x] deliver session for BME github class
+- [x] revise materials for intro repro class (SHARC T32)
 - [ ] deliver session for intro repro class (SHARC T32)
 
 ### Misc
@@ -61,7 +61,7 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] minutes for Jan 27
+- [x] minutes for Jan 27
 - [x] UBC letter for Renata
 
 ### AI sessions
@@ -71,6 +71,7 @@
 - [ ] carryout revisions for AI ethics session
 
 ### Midterm T&P Packet
+- [ ] meeting with T&P committee
 - [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps
 
 ### Activity Reporter
