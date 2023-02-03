@@ -37,10 +37,10 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
-  - [ ] scheduling check (beginning of January)
+  - [x] scheduling check (beginning of January)
   - [ ] reminder email
   - [ ] advertising
-  - [ ] setup google docs
+  - [x] setup google docs
 - [ ] check on invites for summer 2023
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
