@@ -13,15 +13,15 @@
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] work on note synthesis
 - [ ] review community convo work
-- [ ] status update for metadata schema
+- [x] status update for metadata schema
 - [ ] send draft metadata to advisory group for feedback
 - [ ] revisions on paper for C&RL
 - [ ] year-end summary
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] review OA evaluations
-- [ ] review slides for February Town Hall
+- [x] review OA evaluations -> send Programming Historian eval
+- [x] review slides for February Town Hall
 
 ### DEI Senior Director Search
 - [x] review phone interview questions
@@ -54,8 +54,9 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] minutes for Feb 03
-- [ ] transition plan for Hao projects
+- [x] minutes for Feb 03
+- [x] transition plan for Hao projects
+- [x] marketing messages
 
 ### AI sessions
 - [x] schedule session
