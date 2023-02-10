@@ -5,9 +5,9 @@
 ### NIH DMSP working group
 - [x] poll for March check-in
 - [ ] schedule March check-in
-- [ ] check status of repository finder
+- [x] check status of repository finder
 - [ ] webpage conversion of docs?
-- [ ] stats update for Feb
+- [x] stats update for Feb
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -22,10 +22,11 @@
 ### OA Committee
 - [x] review OA evaluations -> send Programming Historian eval
 - [x] review slides for February Town Hall
+- [ ] marketing for spring
 
 ### DEI Senior Director Search
 - [x] review phone interview questions
-- [ ] schedule phone interviews
+- [x] schedule phone interviews
 - [ ] FAQ responses about the position
 
 ### Faculty Mentoring
