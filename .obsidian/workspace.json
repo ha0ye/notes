@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "file": "DEI-interview_2023-02-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md"
+                "file": "DEI-interview_2023-02-13.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "file": "DEI-interview_2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md"
+                "file": "DEI-interview_2023-02-13.md"
               }
             }
           }
@@ -127,6 +127,8 @@
   },
   "active": "7fa07da749c204d4",
   "lastOpenFiles": [
+    "Carpentries Teaching Demo - etherpad template.md",
+    "DEI-interview_2023-02-13.md",
     "weekly-goals_2023-02-06.md",
     "weekly-goals_2023-01-30.md",
     "weekly-goals_2023-01-23.md",
@@ -134,8 +136,6 @@
     "weekly-goals_2023-01-09.md",
     "weekly-goals_2023-01-16.md",
     "DMSP notes.md",
-    "archive/weekly-goals_2022-06-06.md",
-    "Carpentries Teaching Demo - etherpad template.md",
-    "weekly-goals_2023-01-05.md"
+    "archive/weekly-goals_2022-06-06.md"
   ]
 }
