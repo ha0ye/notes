@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b05c4ea972eaf5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEI-interview_2023-02-14.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEI-interview_2023-02-13.md"
+                "file": "DEI-interview_2023-02-14.md"
               }
             }
           }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEI-interview_2023-02-13.md",
+                "file": "DEI-interview_2023-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEI-interview_2023-02-13.md"
+                "file": "DEI-interview_2023-02-14.md"
               }
             }
           }
@@ -125,10 +138,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7fa07da749c204d4",
+  "active": "b05c4ea972eaf5a0",
   "lastOpenFiles": [
-    "Carpentries Teaching Demo - etherpad template.md",
     "DEI-interview_2023-02-13.md",
+    "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-02-06.md",
     "weekly-goals_2023-01-30.md",
     "weekly-goals_2023-01-23.md",
