@@ -3,7 +3,7 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] schedule March check-in
+- [x] schedule March check-in
 - [ ] webpage conversion of docs?
 
 ### Open Grants
