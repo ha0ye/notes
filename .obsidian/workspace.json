@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce520039ce1a087",
+        "id": "e07615fd0cf60699",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa07da749c204d4",
+            "id": "9a91e76a86ddd799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEI-interview_2023-02-13.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b05c4ea972eaf5a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEI-interview_2023-02-14.md",
+                "file": "weekly-goals_2023-02-13.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEI-interview_2023-02-14.md"
+                "file": "weekly-goals_2023-02-13.md"
               }
             }
           }
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEI-interview_2023-02-14.md",
+                "file": "weekly-goals_2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEI-interview_2023-02-14.md"
+                "file": "weekly-goals_2023-02-13.md"
               }
             }
           }
@@ -138,17 +125,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b05c4ea972eaf5a0",
+  "active": "9a91e76a86ddd799",
   "lastOpenFiles": [
-    "DEI-interview_2023-02-13.md",
-    "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-02-06.md",
+    "DEI-interview_2023-02-13.md",
+    "DEI-interview_2023-02-14.md",
+    "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-01-30.md",
     "weekly-goals_2023-01-23.md",
     "archive/NCSU-01-nominating-committee.md",
     "weekly-goals_2023-01-09.md",
     "weekly-goals_2023-01-16.md",
-    "DMSP notes.md",
-    "archive/weekly-goals_2022-06-06.md"
+    "DMSP notes.md"
   ]
 }
