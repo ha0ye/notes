@@ -4,7 +4,7 @@
 
 ### NIH DMSP working group
 - [x] schedule March check-in
-- [ ] agenda for March
+- [x] agenda for March
 - [ ] webpage conversion of docs?
 
 ### Open Grants
@@ -32,8 +32,8 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
-  - [ ] check mediasite upload
-  - [ ] update website links
+  - [x] check mediasite upload
+  - [x] update website links
 - [ ] send invites for summer 2023
 
 ### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
@@ -46,16 +46,12 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] reproducibility PVA edits/comments
-- [ ] Natalia Knauss essay feedback
+- [x] reproducibility PVA edits/comments
+- [x] Natalia Knauss essay feedback
 
 ### AI sessions
 - [ ] assign revisions for AI ethics session
 - [ ] carryout revisions for AI ethics session
-
-### Midterm T&P Packet
-- [ ] meeting with T&P committee
-- [ ] Faculty member and Chair/Supervisor discuss potential evaluators for tenure and promotion as exercise to assess strengths and gaps
 
 ### Activity Reporter
 - [ ] setup better workflow for updating data from remote sources
