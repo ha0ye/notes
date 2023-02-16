@@ -4,6 +4,7 @@
 
 ### NIH DMSP working group
 - [x] schedule March check-in
+- [ ] agenda for March
 - [ ] webpage conversion of docs?
 
 ### Open Grants
@@ -16,11 +17,11 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] presentation for town hall
+- [x] presentation for town hall
 - [ ] marketing for spring
 
 ### DEI Senior Director Search
-- [ ] FAQ responses about the position
+- [x] FAQ responses about the position
 - [x] phone interviews
 - [ ] discuss candidates
 
