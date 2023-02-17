@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-02-13.md",
+                "file": "DEI-interview_2023-02-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-02-13.md"
+                "file": "DEI-interview_2023-02-14.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-02-13.md",
+                "file": "DEI-interview_2023-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-02-13.md"
+                "file": "DEI-interview_2023-02-14.md"
               }
             }
           }
@@ -127,15 +127,15 @@
   },
   "active": "9a91e76a86ddd799",
   "lastOpenFiles": [
-    "weekly-goals_2023-02-06.md",
     "DEI-interview_2023-02-13.md",
+    "weekly-goals_2023-02-13.md",
+    "weekly-goals_2023-02-06.md",
     "DEI-interview_2023-02-14.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-01-30.md",
     "weekly-goals_2023-01-23.md",
     "archive/NCSU-01-nominating-committee.md",
     "weekly-goals_2023-01-09.md",
-    "weekly-goals_2023-01-16.md",
-    "DMSP notes.md"
+    "weekly-goals_2023-01-16.md"
   ]
 }
