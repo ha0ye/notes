@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "129a98eba0b1876e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-02-20.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-02-13.md"
+                "file": "weekly-goals_2023-02-20.md"
               }
             }
           }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-02-13.md",
+                "file": "weekly-goals_2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-02-13.md"
+                "file": "weekly-goals_2023-02-20.md"
               }
             }
           }
@@ -125,11 +138,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9a91e76a86ddd799",
+  "active": "129a98eba0b1876e",
   "lastOpenFiles": [
+    "weekly-goals_2023-02-13.md",
     "DEI-interview_2023-02-14.md",
     "DEI-interview_2023-02-13.md",
-    "weekly-goals_2023-02-13.md",
     "weekly-goals_2023-02-06.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-01-30.md",
