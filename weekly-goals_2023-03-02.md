@@ -19,9 +19,9 @@
 - [ ] marketing for spring
 
 ### DEI Senior Director Search
-- [x] discuss candidates
-- [ ] phone interview
-- [ ] meeting to discuss onsite recommendation letter
+- [ ] CAF preparation
+- [ ] onsite interview questions
+- [ ] onsite recommendation letter
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
@@ -30,7 +30,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Spring 2023
-  - [ ] invoice for honorarium
+  - [x] invoice for honorarium
 - Summer 2023
   - [ ] coordinate invites
 
@@ -44,11 +44,19 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] reading for Replication Games
+
+### Toronto Replication Games
+- [x] pre-meeting
+- [x] reading for Replication Games
+- [x] day-of check-in
+- [x] work on replication code
+- [x] day-of reporting
+- [ ] wrap-up meeting
 
 ### AI sessions
-- [ ] assign revisions for AI ethics session
+- [x] assign revisions for AI ethics session
 - [ ] carryout revisions for AI ethics session
+- [ ] lead AI ethics session (March 16)
 
 ### Activity Reporter
 - [ ] setup better workflow for updating data from remote sources
@@ -72,12 +80,10 @@
 - [ ] request changes for intake form (Aida)
 
 ### LibGuides
-- [ ] redo pubmed searching guide
 - [ ] review resources for HOBI
 - [ ] review resources for IDP
 - [ ] clean up bookmarks and propagate to reproducibility libguide
 	https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
-- [ ] Research Integrity / RCR libguide
 
 ## Long-term
 
@@ -85,16 +91,18 @@
 - [ ] read reviews
 
 ### Ally Skills
-- [ ] planning/coordination of TREC workshop
+- [ ] ~~planning/coordination of TREC workshop~~
 
 ### MLA Data Caucus
-- [ ] setup Spring meeting
+- [x] recruit nominations
+- [ ] election slate
+- [ ] poll to schedule Spring meeting
 
 ### FAIR Biomed Teaching
 - [ ] wrapup meetings
 
 ### Modular, Reproducible Data Analysis for the Rest of Us
-- [ ] set up meeting for scoping discussion/chat
+- [ ] ~~set up meeting for scoping discussion/chat~~
 
 ### ARCS webpage
 (Borui will lead)
@@ -109,9 +117,5 @@
 ### Metabolomics Software Reproducibility Review
 
 ### MEE time series distance metrics
-
-### ReproducibiliTea
-- [ ] document comms channels
-- [ ] develop advertising plan
-- [ ] carry out advertising
-- [ ] update initial reading list
+- [x] read revision
+- [x] make decision on revision
