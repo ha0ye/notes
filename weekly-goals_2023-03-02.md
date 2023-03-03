@@ -16,7 +16,8 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] marketing for spring
+- [x] marketing for spring
+- [x] setup March agenda
 
 ### DEI Senior Director Search
 - [ ] CAF preparation
@@ -34,12 +35,8 @@
 - Summer 2023
   - [ ] coordinate invites
 
-### GMS 5909 - "Finding Biomedical Research Information and Communicating Science"
-- [ ] post course debrief
-
 ### Misc
-- [ ] UF Core Values Letter
-- [~] delegate response to privilege wheel
+- [ ] response to privilege wheel
 - [ ] code review sections
 	- [x] DRY
 	- [x] SPOT
@@ -51,7 +48,10 @@
 - [x] day-of check-in
 - [x] work on replication code
 - [x] day-of reporting
-- [ ] wrap-up meeting
+- [x] wrap-up meeting
+- [ ] remainder of appendix tables and figures
+- [ ] Tex conversion
+- [ ] written sections
 
 ### AI sessions
 - [x] assign revisions for AI ethics session
