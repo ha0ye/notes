@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7aaa93ee5aa77c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-03-06.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-03-02.md"
+                "file": "weekly-goals_2023-03-06.md"
               }
             }
           }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-03-02.md",
+                "file": "weekly-goals_2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-03-02.md"
+                "file": "weekly-goals_2023-03-06.md"
               }
             }
           }
@@ -125,10 +138,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fc4fb35ba4e92adf",
+  "active": "7aaa93ee5aa77c3f",
   "lastOpenFiles": [
-    "weekly-goals_2023-02-20.md",
+    "archive/UF ReproducibiliTea Planning.md",
+    "notes-UF-DMSP-help.md",
+    "archive/Penn-screening.md",
+    "informational-interview-USGS.md",
+    "Hao Ye - Emily McElroy meeting.md",
+    "archive/DEI-interview_2023-02-13.md",
+    "archive/Civic Data workshop - DLF Forum - October 11.md",
+    "archive/weekly-goals_2022-09-12.md",
+    "weekly-goals_2023-03-06.md",
     "weekly-goals_2023-03-02.md",
+    "weekly-goals_2023-02-20.md",
     "weekly-goals_2023-02-13.md",
     "archive/weekly-goals_2022-05-23.md",
     "archive/weekly-goals_2022-05-02.md",
@@ -137,7 +159,6 @@
     "archive/weekly-goals_2021-10-18.md",
     "archive/weekly-goals_2021-08-23.md",
     "archive/weekly-goals_2021-07-12.md",
-    "weekly-goals_2022-09-12.md",
-    "DEI-interview_2023-02-14.md"
+    "archive/DEI-interview_2023-02-14.md"
   ]
 }
