@@ -4,7 +4,7 @@
 
 ### NIH DMSP working group
 - [ ] March meeting
-- [ ] March stats update
+- [x] March stats update
 
 ### Open Grants
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -16,8 +16,7 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [x] marketing for spring
-- [x] setup March agenda
+- [ ] March meeting
 
 ### DEI Senior Director Search
 - [ ] CAF preparation
@@ -30,8 +29,6 @@
 - [ ] review feedback
 
 ### T32 Rigor & Reproducibility Seminar Series
-- Spring 2023
-  - [x] invoice for honorarium
 - Summer 2023
   - [ ] coordinate invites
 
