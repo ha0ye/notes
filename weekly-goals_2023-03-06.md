@@ -3,20 +3,25 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] March meeting
+- [x] March meeting
 - [x] March stats update
+- [ ] March meeting action items
+- [ ] poll for June meeting
+
 
 ### Open Grants
+- [ ] community conversation expert outreach
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] work on note synthesis
-- [ ] review community convo work
 - [ ] send draft metadata to advisory group for feedback
 - [ ] revisions on paper for C&RL
 - [ ] year-end summary
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] March meeting
+- [x] March meeting
+- [ ] upload slides to OSF
+- [ ] distribute marketing materials for Spring 2023
 
 ### DEI Senior Director Search
 - [ ] CAF preparation
