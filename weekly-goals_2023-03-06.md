@@ -8,7 +8,6 @@
 - [ ] March meeting action items
 - [ ] poll for June meeting
 
-
 ### Open Grants
 - [ ] community conversation expert outreach
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -26,7 +25,14 @@
 ### DEI Senior Director Search
 - [ ] CAF preparation
 - [ ] onsite interview questions
-- [ ] onsite recommendation letter
+- [x] onsite recommendation letter
+
+### Metascience Conference
+- [x] registration
+- [x] hotel booking
+- [x] flight booking
+- [ ] Falafel care booking
+- [ ] 
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
