@@ -57,7 +57,7 @@
 - [x] work on replication code
 - [x] day-of reporting
 - [x] wrap-up meeting
-- [ ] remainder of appendix tables and figures
+- [x] remainder of appendix tables and figures
 - [ ] Tex conversion
 - [ ] written sections
 
