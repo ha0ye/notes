@@ -77,21 +77,11 @@
 - [ ] create test document
 
 ### Library HiPerGator/ResVault Sponsored Use Program
-- [ ] review program description and processes
-- [ ] start spreadsheet for active user information
-- [ ] Research Computing slack - get information and prep to share
-- [ ] develop internal docs for workflow
-  + including need for a UF faculty advisor to sign off on research project
-  + standardized checks for IRB
-  + check-in frequency with library consultant
-- [ ] feedback for Research Computing on website info for pathways to access HPG
-- [ ] request changes for intake form (Aida)
-
-### LibGuides
-- [ ] review resources for HOBI
-- [ ] review resources for IDP
-- [ ] clean up bookmarks and propagate to reproducibility libguide
-	https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series
+- [ ] ~~review program description and processes~~ (Aida?)
+- [x] start spreadsheet for active user information
+- [ ] Omkar Mulekar check-in for Spring 2023
+- [ ] hand-off for Omkar Mulekar
+- [ ] hand-off of HPG account approval
 
 ## Long-term
 
@@ -106,16 +96,11 @@
 - [ ] election slate
 - [ ] poll to schedule Spring meeting
 
-### FAIR Biomed Teaching
+### FAIR AI/ML Teaching
 - [ ] wrapup meetings
 
 ### Modular, Reproducible Data Analysis for the Rest of Us
 - [ ] ~~set up meeting for scoping discussion/chat~~
-
-### ARCS webpage
-(Borui will lead)
-- [ ] info for hipergator student program
-- [ ] exit assessment for hipergator program
 
 ### DEI team
 - [ ] look into trainings on activism or institutional change
