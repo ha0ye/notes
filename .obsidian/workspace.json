@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc4fb35ba4e92adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2023-03-02.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7aaa93ee5aa77c3f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,6 +127,8 @@
   },
   "active": "7aaa93ee5aa77c3f",
   "lastOpenFiles": [
+    "weekly-goals_2023-03-02.md",
+    "weekly-goals_2023-03-06.md",
     "archive/UF ReproducibiliTea Planning.md",
     "notes-UF-DMSP-help.md",
     "archive/Penn-screening.md",
@@ -148,8 +137,6 @@
     "archive/DEI-interview_2023-02-13.md",
     "archive/Civic Data workshop - DLF Forum - October 11.md",
     "archive/weekly-goals_2022-09-12.md",
-    "weekly-goals_2023-03-06.md",
-    "weekly-goals_2023-03-02.md",
     "weekly-goals_2023-02-20.md",
     "weekly-goals_2023-02-13.md",
     "archive/weekly-goals_2022-05-23.md",
