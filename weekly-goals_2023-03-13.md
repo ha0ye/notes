@@ -1,11 +1,8 @@
-# Goals 2023-03-06
+# Goals 2023-03-13
 
 ## weekly
 
 ### NIH DMSP working group
-- [x] March meeting
-- [x] March stats update
-- [x] March meeting action items
 - [ ] poll for June meeting
 
 ### Open Grants
@@ -18,19 +15,14 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [x] March meeting
 - [ ] upload slides to OSF
 - [ ] distribute marketing materials for Spring 2023
 
 ### DEI Senior Director Search
 - [ ] CAF preparation
 - [ ] onsite interview questions
-- [x] onsite recommendation letter
 
 ### Metascience Conference
-- [x] registration
-- [x] hotel booking
-- [x] flight booking
 - [ ] Falafel care booking
 - [ ] 
 
@@ -51,19 +43,10 @@
 	- [ ] unit tests
 
 ### Toronto Replication Games
-- [x] pre-meeting
-- [x] reading for Replication Games
-- [x] day-of check-in
-- [x] work on replication code
-- [x] day-of reporting
-- [x] wrap-up meeting
-- [x] remainder of appendix tables and figures
-- [ ] Tex conversion
+- [ ] Tex conversion of tables and figures
 - [ ] written sections
 
 ### AI sessions
-- [x] assign revisions for AI ethics session
-- [x] carryout revisions for AI ethics session
 - [ ] lead AI ethics session (March 16)
 
 ### Activity Reporter
@@ -78,7 +61,6 @@
 
 ### Library HiPerGator/ResVault Sponsored Use Program
 - [ ] ~~review program description and processes~~ (Aida?)
-- [x] start spreadsheet for active user information
 - [ ] Omkar Mulekar check-in for Spring 2023
 - [ ] hand-off for Omkar Mulekar
 - [ ] hand-off of HPG account approval
@@ -89,10 +71,9 @@
 - [ ] read reviews
 
 ### Ally Skills
-- [ ] ~~planning/coordination of TREC workshop~~
+- [ ] announcement of Hao leaving
 
 ### MLA Data Caucus
-- [x] recruit nominations
 - [ ] election slate
 - [ ] poll to schedule Spring meeting
 
@@ -108,7 +89,3 @@
 ### Milk Metabolomics Searching
 
 ### Metabolomics Software Reproducibility Review
-
-### MEE time series distance metrics
-- [x] read revision
-- [x] make decision on revision

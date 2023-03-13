@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7aaa93ee5aa77c3f",
+            "id": "29f2d75c33bb21a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-03-06.md",
+                "file": "weekly-goals_2023-03-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-03-06.md"
+                "file": "weekly-goals_2023-03-13.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-03-06.md",
+                "file": "weekly-goals_2023-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-03-06.md"
+                "file": "weekly-goals_2023-03-13.md"
               }
             }
           }
@@ -125,10 +125,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7aaa93ee5aa77c3f",
+  "active": "29f2d75c33bb21a4",
   "lastOpenFiles": [
-    "weekly-goals_2023-03-02.md",
     "weekly-goals_2023-03-06.md",
+    "weekly-goals_2023-03-13.md",
+    "Carpentries Teaching Demo - etherpad template.md",
+    "weekly-goals_2023-03-02.md",
     "archive/UF ReproducibiliTea Planning.md",
     "notes-UF-DMSP-help.md",
     "archive/Penn-screening.md",
