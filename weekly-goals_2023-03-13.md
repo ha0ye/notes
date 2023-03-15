@@ -6,6 +6,9 @@
 - [ ] poll for June meeting
 
 ### Open Grants
+- [x] transition paperwork for Hao
+- [ ] who will approve Natalia's time after Hao leaves?
+- [ ] Hao to code one transcript
 - [ ] community conversation expert outreach
 - [ ] reach out to contacts for HBCU, MSI, TCU
 - [ ] work on note synthesis
@@ -15,8 +18,8 @@
 - [ ] schedule 2023 check-ins
 
 ### OA Committee
-- [ ] upload slides to OSF
-- [ ] distribute marketing materials for Spring 2023
+- [x] upload slides to OSF
+- [x] distribute marketing materials for Spring 2023
 
 ### DEI Senior Director Search
 - [ ] CAF preparation
@@ -33,7 +36,15 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2023
-  - [ ] coordinate invites
+  - [ ] confirm date and time
+  - [ ] scheduling check (April / May)
+  - [ ] speaker bio on webpage
+  - [ ] setup libcal event
+  - [ ] reminder email
+  - [ ] advertising
+  - [ ] setup google docs
+  - [ ] check in (1 month before)
+- [ ] document workflow
 
 ### Misc
 - [ ] response to privilege wheel
@@ -65,13 +76,13 @@
 - [ ] hand-off for Omkar Mulekar
 - [ ] hand-off of HPG account approval
 
-## Long-term
-
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] read reviews
 
+## Long-term
+
 ### Ally Skills
-- [ ] announcement of Hao leaving
+- [x] announcement of Hao leaving
 
 ### MLA Data Caucus
 - [ ] election slate
