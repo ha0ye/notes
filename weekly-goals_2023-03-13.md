@@ -4,11 +4,20 @@
 
 ### NIH DMSP working group
 - [ ] poll for June meeting
+- [ ] April stats update
+
+### Transition Items
+- [ ] form for Joe to change supervisor / time approval for Natalia --> Hannah Norton
+- [ ] IRB request to change PI to Perry Collins
+- [ ] transfer of UF Mediasite videos
+- [ ] backup / transfer Google Drive files
+- [ ] backup / transfer OneDrive files
+- [ ] github access (can do after departure)
 
 ### Open Grants
 - [x] transition paperwork for Hao
 - [x] FORCE11 bio and photo
-- [ ] who will approve Natalia's time after Hao leaves?
+- [x] who will approve Natalia's time after Hao leaves?
 - [ ] Hao to code one transcript
 - [ ] community conversation expert outreach
 - [ ] reach out to contacts for HBCU, MSI, TCU
@@ -25,6 +34,10 @@
 ### DEI Senior Director Search
 - [ ] CAF preparation
 - [ ] onsite interview questions
+
+### GMS 7877 RCR Course
+- [ ] review readings and RAT questions
+- [ ] do session
 
 ### Metascience Conference
 - [ ] Falafel care booking
