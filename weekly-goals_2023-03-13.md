@@ -7,6 +7,7 @@
 
 ### Open Grants
 - [x] transition paperwork for Hao
+- [x] FORCE11 bio and photo
 - [ ] who will approve Natalia's time after Hao leaves?
 - [ ] Hao to code one transcript
 - [ ] community conversation expert outreach
