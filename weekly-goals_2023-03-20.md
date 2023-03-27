@@ -67,8 +67,12 @@
 - [ ] Tex conversion of tables and figures
 - [ ] written sections
 
+### MLA Data Caucus
+- [ ] election slate
+- [ ] poll to schedule Spring meeting
+
 ### AI sessions
-- [ ] lead AI ethics session (March 16)
+- [x] lead AI ethics session (March 16)
 
 ### Activity Reporter
 - [ ] setup better workflow for updating data from remote sources
@@ -90,16 +94,6 @@
 - [ ] read reviews
 
 ## Long-term
-
-### Ally Skills
-- [x] announcement of Hao leaving
-
-### MLA Data Caucus
-- [ ] election slate
-- [ ] poll to schedule Spring meeting
-
-### FAIR AI/ML Teaching
-- [ ] wrapup meetings
 
 ### Modular, Reproducible Data Analysis for the Rest of Us
 - [ ] ~~set up meeting for scoping discussion/chat~~
