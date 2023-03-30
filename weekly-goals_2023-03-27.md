@@ -36,7 +36,6 @@
 
 ### Metascience Conference
 - [ ] Falafel care booking
-- [ ] 
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
@@ -61,9 +60,10 @@
 	- [x] DRY
 	- [x] SPOT
 	- [ ] unit tests
-- [ ] lit searches
-- [ ] minutes for 03-24
-- [ ] 
+- [x] lit searches for Angela and Nicole
+- [ ] lit search meeting with Angela and Nicole
+- [x] minutes for 03-24
+- [ ] lit search meeting with Allison
 
 ### Toronto Replication Games
 - [x] Tex conversion of tables and figures
