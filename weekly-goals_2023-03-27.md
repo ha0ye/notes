@@ -31,7 +31,7 @@
 - [ ] onsite interview questions
 
 ### GMS 7877 RCR Course
-- [ ] review readings and RAT questions
+- [x] review readings and RAT questions
 - [ ] do session
 
 ### Metascience Conference
@@ -61,17 +61,20 @@
 	- [x] SPOT
 	- [ ] unit tests
 - [x] lit searches for Angela and Nicole
-- [ ] lit search meeting with Angela and Nicole
+- [x] lit search meeting with Angela and Nicole
 - [x] minutes for 03-24
-- [ ] lit search meeting with Allison
+- [x] lit search meeting with Allison
 
 ### Toronto Replication Games
 - [x] Tex conversion of tables and figures
-- [ ] written sections
+- [x] written sections
+- [ ] final review
 
 ### MLA Data Caucus
-- [ ] election slate
+- [~] election slate (domain hub delegate fixed)
 - [ ] poll to schedule Spring meeting
+- [ ] annual report
+- [ ] 
 
 ### Activity Reporter
 - [ ] setup better workflow for updating data from remote sources
@@ -90,16 +93,10 @@
 - [ ] hand-off of HPG account approval
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] read reviews
-
-## Long-term
-
-### Modular, Reproducible Data Analysis for the Rest of Us
-- [ ] ~~set up meeting for scoping discussion/chat~~
+- [x] read reviews
+- [ ] revisions
 
 ### DEI team
-- [ ] look into trainings on activism or institutional change
-
-### Milk Metabolomics Searching
-
-### Metabolomics Software Reproducibility Review
+- [ ] script for harmful/offensive search results
+- [ ] slides for harmful/offensive search results
+- [ ] review of libguide links
