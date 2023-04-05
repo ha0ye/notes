@@ -57,6 +57,8 @@
 - [x] document workflow
 
 ### Misc
+- [ ] IRB training renewal
+- [ ] UFGo training
 
 ### Toronto Replication Games
 - [ ] final review
