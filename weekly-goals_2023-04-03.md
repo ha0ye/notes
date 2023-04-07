@@ -34,7 +34,7 @@
 
 ### GMS 7877 RCR Course
 - [x] review readings and RAT questions
-- [ ] do session
+- [x] do session
 
 ### Metascience Conference
 - [ ] Falafel care booking
@@ -67,7 +67,7 @@
 - [~] election slate (domain hub delegate fixed)
 - [x] poll to schedule Spring meeting
 - [x] annual report
-- [ ] 
+- [ ] Spring meeting
 
 ### Activity Reporter
 - [ ] setup better workflow for updating data from remote sources
@@ -80,9 +80,9 @@
 - [ ] create test document
 
 	### Library HiPerGator/ResVault Sponsored Use Program
-- [ ] Omkar Mulekar check-in for Spring 2023
-- [ ] hand-off for Omkar Mulekar
-- [ ] hand-off of HPG account approval
+- [x] Omkar Mulekar check-in for Spring 2023
+- [x] hand-off for Omkar Mulekar
+- [x] hand-off of HPG account approval
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [x] read reviews

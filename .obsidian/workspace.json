@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d0403a598167b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2023-03-27.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a0d9814026864c4c",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
