@@ -24,6 +24,9 @@
 - [ ] year-end summary
 - [ ] schedule 2023 check-ins
 
+### Ecology Data Paper
+- [ ] contact other editors for meeting
+
 ### OA Committee
 - [x] April agenda and meeting
 - [ ] message about APC discount venues
@@ -66,6 +69,7 @@
 ### MLA Data Caucus
 - [~] election slate (domain hub delegate fixed)
 - [x] poll to schedule Spring meeting
+	- [x] reminder
 - [x] annual report
 - [ ] Spring meeting
 
