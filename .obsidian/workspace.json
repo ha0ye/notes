@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "80a9f6ee704c29f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-04-10.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-04-03.md"
+                "file": "weekly-goals_2023-04-10.md"
               }
             }
           }
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-04-03.md",
+                "file": "weekly-goals_2023-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-04-03.md"
+                "file": "weekly-goals_2023-04-10.md"
               }
             }
           }
@@ -125,10 +138,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a0d9814026864c4c",
+  "active": "80a9f6ee704c29f1",
   "lastOpenFiles": [
-    "weekly-goals_2023-03-27.md",
     "weekly-goals_2023-04-03.md",
+    "weekly-goals_2023-04-10.md",
+    "weekly-goals_2023-03-27.md",
     "weekly-goals_2023-03-20.md",
     "weekly-goals_2023-03-13.md",
     "weekly-goals_2023-01-05.md",
@@ -151,7 +165,6 @@
     "archive/weekly-goals_2022-01-10.md",
     "archive/weekly-goals_2021-10-18.md",
     "archive/weekly-goals_2021-08-23.md",
-    "archive/weekly-goals_2021-07-12.md",
-    "archive/DEI-interview_2023-02-14.md"
+    "archive/weekly-goals_2021-07-12.md"
   ]
 }
