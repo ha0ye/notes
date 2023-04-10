@@ -83,7 +83,7 @@
 - [ ] create test suite
 - [ ] create test document
 
-	### Library HiPerGator/ResVault Sponsored Use Program
+### Library HiPerGator/ResVault Sponsored Use Program
 - [x] Omkar Mulekar check-in for Spring 2023
 - [x] hand-off for Omkar Mulekar
 - [x] hand-off of HPG account approval
