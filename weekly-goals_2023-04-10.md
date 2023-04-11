@@ -6,12 +6,16 @@
 - [ ] poll for June meeting
 - [ ] May stats update
 
-### Transition Items
+### Transition Items (pre)
 - [ ] form for Joe to change supervisor / time approval for Natalia --> Hannah Norton
 - [ ] IRB request to change PI to Perry Collins
 - [ ] backup / transfer Google Drive files
 - [ ] backup / transfer OneDrive files
 - [ ] document lesson template workflow
+
+### Transition Items (post)
+- [ ] email Tina with new mailing address - tlitchfield@uflib.ufl.edu
+- [ ] email Tina for W-2 if not received by Feb 15, 2024 - tlitchfield@uflib.ufl.edu
 
 ### Open Grants
 - [ ] community conversation expert outreach
