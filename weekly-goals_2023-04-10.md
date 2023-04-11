@@ -27,17 +27,17 @@
 - [ ] schedule 2023 check-ins
 
 ### Ecology Data Paper
-- [ ] contact other editors for meeting
+- [x] contact other editors for meeting
 
 ### OA Committee
 - [ ] message about APC discount venues
 
 ### DEI Senior Director Search
-- [ ] CAF preparation
-- [ ] onsite interview questions
+- [x] CAF preparation
+- [x] onsite interview questions
 
 ### Metascience Conference
-- [ ] Falafel care booking
+- [x] Falafel care booking
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
