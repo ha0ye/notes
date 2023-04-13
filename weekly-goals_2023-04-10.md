@@ -63,7 +63,8 @@
 - [ ] final review
 
 ### MLA Data Caucus
-- [ ] Spring meeting
+- [x] Spring meeting scheduling
+- [ ] hold Spring meeting
 
 ### Activity Reporter
 - [ ] setup better workflow for updating data from remote sources
