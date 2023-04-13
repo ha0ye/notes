@@ -54,7 +54,7 @@
   - [ ] advertising
   - [ ] setup google docs
   - [ ] check in (1 month before)
-- [ ] review workflow with Borui
+- [x] review workflow with Borui
 - [ ] transfer of UF Mediasite videos
 
 ### Misc
