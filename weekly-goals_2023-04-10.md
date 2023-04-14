@@ -28,6 +28,8 @@
 
 ### Ecology Data Paper
 - [x] contact other editors for meeting
+- [ ] schedule meeting with other editors
+- [ ] special session pre tasks
 
 ### OA Committee
 - [ ] message about APC discount venues
