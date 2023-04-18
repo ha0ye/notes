@@ -14,13 +14,12 @@
 - [ ] document lesson template workflow
 
 ### Open Grants
-- [ ] community conversation expert outreach
-- [ ] reach out to contacts for HBCU, MSI, TCU
-- [ ] work on note synthesis
-- [ ] send draft metadata to advisory group for feedback
+- [ ] community conversation expert recruitment
+	- [ ] reach out to contacts for HBCU, MSI, TCU
+- [ ] check process for revising metadata
 - [ ] revisions on paper for C&RL
-- [ ] year-end summary
-- [ ] schedule 2023 check-ins
+- [x] schedule 2023 check-ins
+- [x] distribute slides
 
 ### Ecology Data Paper
 - [ ] schedule meeting with other editors
