@@ -14,7 +14,7 @@
 - [ ] document lesson template workflow
 
 ### Open Grants
-- [~] community conversation expert recruitment
+- [x] community conversation expert recruitment
 	- [x] reach out to contacts for HBCU, MSI, TCU
 - [ ] check process for revising metadata
 - [ ] revisions on paper for C&RL
