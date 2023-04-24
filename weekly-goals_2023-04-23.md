@@ -10,7 +10,7 @@
 - [ ] May stats update
 
 ### Transition Items (pre)
-- [ ] form for Joe to change supervisor / time approval for Natalia --> Hannah Norton
+- [ ] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
 - [ ] IRB request to change PI to Perry Collins
 - [ ] backup / transfer Google Drive files
 - [ ] backup / transfer OneDrive files
