@@ -3,7 +3,7 @@
 ## weekly
 
 ### MLA
-- [ ] draft slides for HSCL mission statement lightning talk
+- [x] draft slides for HSCL mission statement lightning talk
 
 ### NIH DMSP working group
 - [ ] poll for June meeting
