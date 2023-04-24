@@ -25,7 +25,7 @@
 - [x] distribute slides
 
 ### Ecology Data Paper
-- [ ] schedule meeting with other editors
+- [x] schedule meeting with other editors
 - [ ] special session pre tasks
 
 ### OA Committee
