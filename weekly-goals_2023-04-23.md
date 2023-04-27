@@ -7,7 +7,7 @@
 
 ### NIH DMSP working group
 - [x] poll for June meeting
-- [ ] schedule June meeting
+- [x] schedule June meeting
 - [ ] May stats update
 
 ### Transition Items (pre)
@@ -18,7 +18,8 @@
 - [ ] document lesson template workflow
 
 ### Open Grants
-- [ ] coordinate community conversation expert recruitment
+- [x] coordinate community conversation expert recruitment
+- [ ] resend 
 - [ ] check process for revising metadata
 - [ ] revisions on paper for C&RL
 
