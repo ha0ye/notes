@@ -6,7 +6,8 @@
 - [x] draft slides for HSCL mission statement lightning talk
 
 ### NIH DMSP working group
-- [ ] poll for June meeting
+- [x] poll for June meeting
+- [ ] schedule June meeting
 - [ ] May stats update
 
 ### Transition Items (pre)
