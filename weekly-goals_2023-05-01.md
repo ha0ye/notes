@@ -3,8 +3,6 @@
 ## weekly
 
 ### NIH DMSP working group
-- [x] poll for June meeting
-- [x] schedule June meeting
 - [ ] May stats update
 
 ### Transition Items (pre)
@@ -15,8 +13,7 @@
 - [ ] document lesson template workflow
 
 ### Open Grants
-- [x] coordinate community conversation expert recruitment
-- [ ] resend 
+- [ ] resend expert recruitment emails
 - [ ] check process for revising metadata
 - [ ] revisions on paper for C&RL
 
@@ -51,7 +48,7 @@
 ### Misc
 
 ### MLA Data Caucus
-- [ ] hold Spring meeting
+- [x] hold Spring meeting
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] revisions
@@ -59,13 +56,11 @@
 ## Holding for Updates
 
 ### Toronto Replication Games
-- [ ] final review
+- [x] final review
 
 ### Transition Items (post)
 - [ ] email Tina with new mailing address - tlitchfield@uflib.ufl.edu
 - [ ] email Tina for W-2 if not received by Feb 15, 2024 - tlitchfield@uflib.ufl.edu
-
-### DEI Senior Director Search
 
 ### DEI team
 - [ ] slides for harmful/offensive search results
