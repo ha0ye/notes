@@ -3,7 +3,8 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] May stats update
+- [x] May stats update
+- [ ] June stats update
 
 ### Transition Items (pre)
 - [ ] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
@@ -13,12 +14,13 @@
 - [ ] document lesson template workflow
 
 ### Open Grants
-- [ ] resend expert recruitment emails
+- [x] resend expert recruitment emails
 - [ ] check process for revising metadata
 - [ ] revisions on paper for C&RL
 
 ### Ecology Data Paper
-- [ ] meeting with other editors
+- [x] meeting with other editors
+- [ ] meeting follow-up email
 - [ ] special session pre tasks
 
 ### OA Committee
@@ -46,6 +48,8 @@
 - [ ] transfer of UF Mediasite videos
 
 ### Misc
+- [ ] remote work agreement
+- [ ] faculty assignment form
 
 ### MLA Data Caucus
 - [x] hold Spring meeting
