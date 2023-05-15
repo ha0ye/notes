@@ -39,8 +39,10 @@
 - [ ] review workflow with Borui
 
 ### Misc
+- [ ] merge minutes into master minutes file
 
 ### MLA Data Caucus
+- [x] reminder of events
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
 - [ ] revisions
