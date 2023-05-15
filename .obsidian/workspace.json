@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-05-08.md",
+                "file": "weekly-goals_2023-05-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-05-08.md"
+                "file": "weekly-goals_2023-05-15.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-05-08.md",
+                "file": "weekly-goals_2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-05-08.md"
+                "file": "weekly-goals_2023-05-15.md"
               }
             }
           }
@@ -135,8 +135,9 @@
   },
   "active": "309f5bb34229f8f8",
   "lastOpenFiles": [
-    "weekly-goals_2023-05-01.md",
     "weekly-goals_2023-05-08.md",
+    "weekly-goals_2023-05-15.md",
+    "weekly-goals_2023-05-01.md",
     "weekly-goals_2023-04-23.md",
     "weekly-goals_2023-04-17.md",
     "archive/weekly-goals_2022-09-12.md",
@@ -159,7 +160,6 @@
     "archive/DEI-interview_2023-02-13.md",
     "archive/Civic Data workshop - DLF Forum - October 11.md",
     "weekly-goals_2023-02-20.md",
-    "weekly-goals_2023-02-13.md",
-    "archive/weekly-goals_2022-05-23.md"
+    "weekly-goals_2023-02-13.md"
   ]
 }

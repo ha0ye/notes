@@ -1,4 +1,4 @@
-# Goals 2023-05-08
+# Goals 2023-05-15
 
 ## weekly
 
@@ -15,17 +15,15 @@
 ### Open Grants
 - [ ] check process for revising metadata
 - [ ] revisions on paper for C&RL
+- [ ] interview data analysis and write-up
 
 ### Ecology Data Paper
 - [ ] meeting follow-up email
 - [ ] special session pre tasks
+- [ ] chat with Rich Wallace
 
 ### OA Committee
 - [ ] message about APC discount venues
-- [x] digital onboarding for Courtney Pyche
-
-### Metascience Conference
-- [x] prepare schedule
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
@@ -34,20 +32,13 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2023
-  - [x] confirm date and time
-  - [x] scheduling check (April / May)
-  - [x] speaker bio on webpage
-  - [x] setup libcal event
-  - [ ] reminder email
-  - [ ] advertising
+  - [ ] advertising email (week of May 22)
+  - [ ] advertising email (week of June 5)
+  - [ ] reminder email to Anita
   - [ ] setup google docs
-  - [x] check in (1 month before)
 - [ ] review workflow with Borui
-- [x] transfer of UF Mediasite videos
 
 ### Misc
-- [x] remote work agreement
-- [x] faculty assignment form
 
 ### MLA Data Caucus
 
