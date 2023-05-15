@@ -25,7 +25,7 @@
 - [x] digital onboarding for Courtney Pyche
 
 ### Metascience Conference
-- [ ] prepare schedule
+- [x] prepare schedule
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
@@ -34,16 +34,16 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2023
-  - [ ] confirm date and time
-  - [ ] scheduling check (April / May)
-  - [ ] speaker bio on webpage
-  - [ ] setup libcal event
+  - [x] confirm date and time
+  - [x] scheduling check (April / May)
+  - [x] speaker bio on webpage
+  - [x] setup libcal event
   - [ ] reminder email
   - [ ] advertising
   - [ ] setup google docs
-  - [ ] check in (1 month before)
+  - [x] check in (1 month before)
 - [ ] review workflow with Borui
-- [ ] transfer of UF Mediasite videos
+- [x] transfer of UF Mediasite videos
 
 ### Misc
 - [ ] remote work agreement
