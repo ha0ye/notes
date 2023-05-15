@@ -14,7 +14,7 @@
 
 ### Open Grants
 - [ ] check process for revising metadata
-- [ ] revisions on paper for C&RL
+- [x] revisions on paper for C&RL
 - [ ] interview data analysis and write-up
 
 ### Ecology Data Paper
