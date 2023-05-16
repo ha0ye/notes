@@ -23,7 +23,7 @@
 - [ ] chat with Rich Wallace
 
 ### OA Committee
-- [ ] message about APC discount venues
+- [x] message about APC discount venues
 
 ### Faculty Mentoring
 - [ ] write up onboarding/offboarding guide
