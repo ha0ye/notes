@@ -34,6 +34,7 @@
 - Summer 2023
   - [ ] advertising email (week of May 22)
   - [ ] advertising email (week of June 5)
+  - [x] details to marketing
   - [ ] reminder email to Anita
   - [ ] setup google docs
 - [ ] review workflow with Borui
