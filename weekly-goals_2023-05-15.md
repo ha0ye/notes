@@ -40,7 +40,7 @@
 - [ ] review workflow with Borui
 
 ### Misc
-- [ ] merge minutes into master minutes file
+- [x] merge minutes into master minutes file
 
 ### MLA Data Caucus
 - [x] reminder of events
