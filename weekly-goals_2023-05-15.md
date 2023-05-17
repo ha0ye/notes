@@ -7,7 +7,6 @@
 
 ### Transition Items (pre)
 - [ ] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
-- [ ] IRB request to change PI to Perry Collins
 - [ ] backup / transfer Google Drive files
 - [ ] backup / transfer OneDrive files
 - [ ] document lesson template workflow
@@ -19,6 +18,7 @@
 - [ ] work on introduction to interview manuscript
 - [x] revisions on paper for C&RL
 - [ ] cancel meetings after May 24
+- [x] IRB request to change PI to Perry Collins
 
 ### Ecology Data Paper
 - [ ] meeting follow-up email
