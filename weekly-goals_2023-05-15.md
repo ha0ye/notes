@@ -13,9 +13,12 @@
 - [ ] document lesson template workflow
 
 ### Open Grants
-- [ ] check process for revising metadata
+- [x] check process for revising metadata
+- [ ] metadata schema MVP annotation
+- [ ] follow up with Joe Piazza re: Natalia's hours
+- [ ] work on introduction to interview manuscript
 - [x] revisions on paper for C&RL
-- [ ] interview data analysis and write-up
+- [ ] cancel meetings after May 24
 
 ### Ecology Data Paper
 - [ ] meeting follow-up email
@@ -41,6 +44,7 @@
 
 ### Misc
 - [x] merge minutes into master minutes file
+- [ ] submit travel documents for Metascience trip
 
 ### MLA Data Caucus
 - [x] reminder of events
