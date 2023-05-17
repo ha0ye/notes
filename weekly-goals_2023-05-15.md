@@ -22,6 +22,7 @@
 
 ### Ecology Data Paper
 - [ ] meeting follow-up email
+- [ ] readme comparison
 - [ ] special session pre tasks
 - [ ] chat with Rich Wallace
 
