@@ -11,7 +11,8 @@
 - [ ] backup / transfer OneDrive files
 
 ### Open Grants
-- [ ] metadata schema MVP annotation
+- [x] metadata schema MVP annotation
+- [ ] send out instructions for metadata schema annotation
 - [ ] follow up with Joe Piazza re: Natalia's hours
 - [ ] work on introduction to interview manuscript
 - [ ] recruit community feedback experts
