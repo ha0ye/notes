@@ -9,7 +9,7 @@
 - [ ] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
 - [ ] backup / transfer Google Drive files
 - [ ] backup / transfer OneDrive files
-- [ ] document lesson template workflow
+- [x] document lesson template workflow
 
 ### Open Grants
 - [x] check process for revising metadata
@@ -17,7 +17,7 @@
 - [ ] follow up with Joe Piazza re: Natalia's hours
 - [ ] work on introduction to interview manuscript
 - [x] revisions on paper for C&RL
-- [ ] cancel meetings after May 24
+- [x] cancel meetings after May 24
 - [x] IRB request to change PI to Perry Collins
 
 ### Ecology Data Paper
@@ -41,11 +41,11 @@
   - [x] details to marketing
   - [ ] reminder email to Anita
   - [ ] setup google docs
-- [ ] review workflow with Borui
+- [x] review workflow with Borui
 
 ### Misc
 - [x] merge minutes into master minutes file
-- [ ] submit travel documents for Metascience trip
+- [x] submit travel documents for Metascience trip
 
 ### MLA Data Caucus
 - [x] reminder of events

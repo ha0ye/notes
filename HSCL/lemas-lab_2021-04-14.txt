@@ -1,0 +1,16 @@
+Lemas Lab Systematic Review Consultation Meeting
+2021-04-14
+
+* Lemas lab: molecular biology - perinatal 
+  - omics data and breastfeeding outcomes
+  - precision health
+  - detailed longitudinal data on individuals
+  - can extend at microbiome
+  - population-level perinatal research climate on campus and in Alachua county
+  - arriving at systematic review
+  - preterm paper on birth (previous systematic review:how individuals are identifying preterm babies) - Magda
+  - draft proposal for systematic review - Sofia
+  - metabolomics research software, reproducible pipelines - Xinsong
+
+* Next Steps
+  - 

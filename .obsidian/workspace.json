@@ -11,8 +11,12 @@
             "id": "2a73aa39a02bbe40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "weekly-goals_2023-05-15.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "weekly-goals_2023-05-15.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "weekly-goals_2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "weekly-goals_2023-05-15.md"
+              }
             }
           }
         ],
@@ -126,6 +135,7 @@
   },
   "active": "2a73aa39a02bbe40",
   "lastOpenFiles": [
+    "zoom-breakout-settings.md",
     "weekly-goals_2023-05-15.md",
     "weekly-goals_2023-05-08.md",
     "weekly-goals_2023-05-01.md",
@@ -150,7 +160,6 @@
     "Hao Ye - Emily McElroy meeting.md",
     "archive/DEI-interview_2023-02-13.md",
     "archive/Civic Data workshop - DLF Forum - October 11.md",
-    "weekly-goals_2023-02-20.md",
-    "weekly-goals_2023-02-13.md"
+    "weekly-goals_2023-02-20.md"
   ]
 }

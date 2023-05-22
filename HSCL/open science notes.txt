@@ -1,0 +1,19 @@
+* open science is not different from traditional science - more transparent and open
+* open science is an umbrella term
+* open science closely related to FAIR
+* myths:
+  - sharing compromises privacy
+  - fears of getting scooped
+  - no credit for sharing
+* open science integration into the research life cycle
+* open science: five schools of thought (book chapter, Fecher and Friesike 2014)
+  - pragmatic (cooperation -> efficient)
+  - democratic (knowledge should be freely available)
+  - public (lay people should have access)
+  - measurement (broader measures of contributions)
+  - infrastructure (sharing tools -> efficiency)
+* data standards
+* open notebooks
+* mining and analyzing existing data
+* data sharing repositories
+  - https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html
