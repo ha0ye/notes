@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-05-15.md",
+                "file": "weekly-goals_2023-05-22.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-05-15.md"
+                "file": "weekly-goals_2023-05-22.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-05-15.md",
+                "file": "weekly-goals_2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-05-15.md"
+                "file": "weekly-goals_2023-05-22.md"
               }
             }
           }
@@ -133,10 +133,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a73aa39a02bbe40",
+  "active": "a487e06e8f109d53",
   "lastOpenFiles": [
-    "zoom-breakout-settings.md",
     "weekly-goals_2023-05-15.md",
+    "weekly-goals_2023-05-22.md",
+    "zoom-breakout-settings.md",
     "weekly-goals_2023-05-08.md",
     "weekly-goals_2023-05-01.md",
     "weekly-goals_2023-04-23.md",
@@ -159,7 +160,6 @@
     "informational-interview-USGS.md",
     "Hao Ye - Emily McElroy meeting.md",
     "archive/DEI-interview_2023-02-13.md",
-    "archive/Civic Data workshop - DLF Forum - October 11.md",
-    "weekly-goals_2023-02-20.md"
+    "archive/Civic Data workshop - DLF Forum - October 11.md"
   ]
 }
