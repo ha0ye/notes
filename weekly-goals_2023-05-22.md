@@ -48,9 +48,6 @@
 - [ ] email Tina with new mailing address - tlitchfield@uflib.ufl.edu
 - [ ] email Tina for W-2 if not received by Feb 15, 2024 - tlitchfield@uflib.ufl.edu
 
-### DEI team
-- [ ] slides for harmful/offensive search results
-
 ## Deprioritize
 
 ### Activity Reporter
