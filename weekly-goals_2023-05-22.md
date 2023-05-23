@@ -31,7 +31,7 @@
   - [ ] advertising email (week of May 22)
   - [ ] advertising email (week of June 5)
   - [ ] reminder email to Anita
-  - [ ] setup google docs
+  - [x] setup google docs
 
 ### Misc
 
