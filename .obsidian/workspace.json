@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e972d815b5f0cf4",
+        "id": "3740e3c97b2a93d4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a73aa39a02bbe40",
+            "id": "4eccd7a7b2651f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2023-05-22.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weekly-goals_2023-05-22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weekly-goals_2023-05-22.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -133,10 +124,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a487e06e8f109d53",
+  "active": "4eccd7a7b2651f3a",
   "lastOpenFiles": [
-    "weekly-goals_2023-05-15.md",
     "weekly-goals_2023-05-22.md",
+    "weekly-goals_2023-05-15.md",
     "zoom-breakout-settings.md",
     "weekly-goals_2023-05-08.md",
     "weekly-goals_2023-05-01.md",
