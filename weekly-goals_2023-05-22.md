@@ -7,7 +7,7 @@
 
 ### Transition Items (pre)
 - [ ] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
-- [ ] backup / transfer Google Drive files
+- [x] backup / transfer Google Drive files
 - [x] backup / transfer OneDrive files
 
 ### Open Grants
@@ -23,8 +23,7 @@
 - [ ] special session pre tasks
 
 ### Faculty Mentoring
-- [ ] write up onboarding/offboarding guide
-- [ ] write up operations guide with timeline
+- [ ] write up facilitators guide
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2023
