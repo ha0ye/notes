@@ -34,6 +34,7 @@
   - [x] setup google docs
 
 ### Misc
+- [ ] check on Metascience travel reimbursement
 
 ### MLA Data Caucus
 
