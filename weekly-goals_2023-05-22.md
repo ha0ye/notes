@@ -6,7 +6,7 @@
 - [ ] June stats update
 
 ### Transition Items (pre)
-- [ ] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
+- [x] form for Joe Piazza to change supervisor / time approval for Natalia --> Hannah Norton
 - [x] backup / transfer Google Drive files
 - [x] backup / transfer OneDrive files
 
