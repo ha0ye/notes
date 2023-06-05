@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-05-22.md",
+                "file": "weekly-goals_2023-06-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-05-22.md"
+                "file": "weekly-goals_2023-06-05.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-05-22.md",
+                "file": "weekly-goals_2023-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-05-22.md"
+                "file": "weekly-goals_2023-06-05.md"
               }
             }
           }
@@ -136,6 +136,7 @@
   "active": "4eccd7a7b2651f3a",
   "lastOpenFiles": [
     "weekly-goals_2023-05-22.md",
+    "weekly-goals_2023-06-05.md",
     "weekly-goals_2023-05-15.md",
     "zoom-breakout-settings.md",
     "weekly-goals_2023-05-08.md",
@@ -159,7 +160,6 @@
     "archive/Penn-screening.md",
     "informational-interview-USGS.md",
     "Hao Ye - Emily McElroy meeting.md",
-    "archive/DEI-interview_2023-02-13.md",
-    "archive/Civic Data workshop - DLF Forum - October 11.md"
+    "archive/DEI-interview_2023-02-13.md"
   ]
 }
