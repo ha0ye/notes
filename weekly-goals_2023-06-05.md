@@ -19,7 +19,7 @@
 
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2023
-  - [ ] advertising email (week of June 5)
+  - [x] advertising email (week of June 5)
   - [ ] reminder email to Anita (week of June 5)
 
 ### Misc
