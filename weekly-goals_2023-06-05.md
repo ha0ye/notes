@@ -5,7 +5,7 @@
 ### NIH DMSP working group
 - [x] June stats update
 - [x] June meeting
-- [ ] manuscript discussion
+- [ ] manuscript notes
 - [x] poll for open letter
 
 ### Open Grants
@@ -14,7 +14,7 @@
 - [ ] recruit community feedback experts
 
 ### Ecology Data Paper
-- [ ] meeting follow-up email
+- [x] meeting follow-up email
 - [x] readme comparison
 - [ ] special session pre tasks
 
@@ -22,7 +22,9 @@
 ### T32 Rigor & Reproducibility Seminar Series
 - Summer 2023
   - [x] advertising email (week of June 5)
-  - [ ] reminder email to Anita (week of June 5)
+  - [x] reminder email to Anita (week of June 5)
+  - [ ] host seminar
+  - [ ] upload recordings and caption
 
 ### Misc
 - [x] check on Metascience travel reimbursement
