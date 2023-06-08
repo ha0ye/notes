@@ -3,8 +3,10 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] June stats update
-- [ ] June meeting
+- [x] June stats update
+- [x] June meeting
+- [ ] manuscript discussion
+- [x] poll for open letter
 
 ### Open Grants
 - [x] follow up with Joe Piazza re: Natalia's hours
@@ -13,7 +15,7 @@
 
 ### Ecology Data Paper
 - [ ] meeting follow-up email
-- [ ] readme comparison
+- [x] readme comparison
 - [ ] special session pre tasks
 
 
@@ -24,9 +26,10 @@
 
 ### Misc
 - [x] check on Metascience travel reimbursement
+- [ ] write up comment to OSTP listening session
 
 ### Team Infrastructure Roles paper for "Consequences of the Scientific Reform Movement"
-- [ ] revisions
+- [x] revisions
 
 ## Holding for Updates
 
