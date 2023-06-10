@@ -11,7 +11,6 @@
 ### Open Grants
 - [x] follow up with Joe Piazza re: Natalia's hours
 - [x] work on introduction to interview manuscript
-- [ ] recruit community feedback experts
 
 ### Ecology Data Paper
 - [x] meeting follow-up email
@@ -23,7 +22,7 @@
 - Summer 2023
   - [x] advertising email (week of June 5)
   - [x] reminder email to Anita (week of June 5)
-  - [ ] host seminar
+  - [x] host seminar
   - [ ] upload recordings and caption
 
 ### Misc
