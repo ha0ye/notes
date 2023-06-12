@@ -23,7 +23,7 @@
   - [x] advertising email (week of June 5)
   - [x] reminder email to Anita (week of June 5)
   - [x] host seminar
-  - [ ] upload recordings and caption
+  - [x] upload recordings and caption
 
 ### Misc
 - [x] check on Metascience travel reimbursement
