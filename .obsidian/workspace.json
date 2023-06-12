@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3740e3c97b2a93d4",
+        "id": "ae5b27f0a06564bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4eccd7a7b2651f3a",
+            "id": "7d5e046988869657",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HSCL/zoom-breakout-settings.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7039bd197aa676c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2023-06-05.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weekly-goals_2023-06-05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "weekly-goals_2023-06-05.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,17 +124,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7039bd197aa676c7",
+  "active": "7d5e046988869657",
   "lastOpenFiles": [
-    "OSTP Listening Session Comment.md",
     "HSCL/zoom-breakout-settings.md",
+    "weekly-goals_2023-06-12.md",
+    "weekly-goals_2023-06-05.md",
+    "OSTP Listening Session Comment.md",
     "Untitled",
     "weekly-goals_2023-04-17.md",
     "chart.md",
     "HSCL/notes-UF-DMSP-help.md",
     "archive/weekly-goals_2023-01-05.md",
     "DMSP notes.md",
-    "weekly-goals_2023-06-05.md",
     "pages/contents.md",
     "weekly-goals_2023-05-22.md",
     "weekly-goals_2023-05-15.md",
@@ -173,7 +152,6 @@
     "archive/weekly-goals_2023-03-13.md",
     "archive/weekly-goals_2023-03-06.md",
     "Carpentries Teaching Demo - etherpad template.md",
-    "archive/weekly-goals_2023-03-02.md",
-    "archive/UF ReproducibiliTea Planning.md"
+    "archive/weekly-goals_2023-03-02.md"
   ]
 }
