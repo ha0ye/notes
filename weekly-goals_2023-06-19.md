@@ -22,6 +22,10 @@
 - [ ] PA car registration
 - [ ] parking ticket
 - [ ] Philadelphia parking permit
+- [ ] change address banking
+- [ ] change address insurance
+- [ ] change address retirement
+- [ ] change address shopping
 
 ### Falafel Tasks
 - [ ] register with Philadelphia
