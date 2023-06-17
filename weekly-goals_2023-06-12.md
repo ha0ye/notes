@@ -12,7 +12,7 @@
 
 
 ### Misc
-- [ ] write up comment to OSTP listening session
+- [x] write up comment to OSTP listening session
 
 ## Holding for Updates
 
