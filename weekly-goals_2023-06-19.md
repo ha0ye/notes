@@ -10,7 +10,7 @@
 - [ ] special session pre tasks
 
 ### Moving Tasks
-- [ ] anchor shelves
+- [x] anchor shelves
 - [ ] unpack clothes
 - [ ] unpack kitchen (as much as possible)
 - [ ] unpack plants and shelf books
