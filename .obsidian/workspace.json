@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPenn Info.md",
+                "file": "weekly-goals_2023-06-19.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UPenn Info.md"
+                "file": "weekly-goals_2023-06-19.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPenn Info.md",
+                "file": "weekly-goals_2023-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UPenn Info.md"
+                "file": "weekly-goals_2023-06-19.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "5179dcd5334ea307",
   "lastOpenFiles": [
-    "weekly-goals_2023-06-19.md",
     "UPenn Info.md",
+    "weekly-goals_2023-06-19.md",
     "weekly-goals_2023-06-12.md",
     "OSTP Listening Session Comment.md",
     "HSCL/zoom-breakout-settings.md",

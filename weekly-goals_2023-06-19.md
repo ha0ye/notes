@@ -18,7 +18,7 @@
 - [ ] wall art
 
 ### Living in Philly Tasks
-- [ ] passport photos
+- [x] passport photos
 - [ ] PA driver's license
 - [ ] PA car registration
 - [x] pay parking ticket
@@ -27,10 +27,11 @@
 - [ ] change address insurance
 - [ ] change address retirement
 - [ ] change address shopping
+- [ ] register bike with Penn Transportation
 
 ### Falafel Tasks
 - [ ] register with Philadelphia
-- [ ] find Vet and set appointment
+- [x] find Vet and set appointment
 
 ## Holding for Updates
 
