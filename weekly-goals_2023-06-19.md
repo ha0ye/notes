@@ -3,7 +3,7 @@
 ## weekly
 
 ### NIH DMSP working group
-- [ ] manuscript notes
+- [x] manuscript notes
 
 
 ### Ecology Data Paper
@@ -11,16 +11,17 @@
 
 ### Moving Tasks
 - [x] anchor shelves
-- [ ] unpack clothes
-- [ ] unpack kitchen (as much as possible)
+- [x] unpack clothes
+- [x] unpack kitchen (as much as possible)
 - [ ] unpack plants and shelf books
-- [ ] set up blackout curtains
+- [x] set up blackout curtains
 - [ ] wall art
 
 ### Living in Philly Tasks
+- [ ] passport photos
 - [ ] PA driver's license
 - [ ] PA car registration
-- [ ] parking ticket
+- [x] pay parking ticket
 - [ ] Philadelphia parking permit
 - [ ] change address banking
 - [ ] change address insurance
@@ -30,7 +31,6 @@
 ### Falafel Tasks
 - [ ] register with Philadelphia
 - [ ] find Vet and set appointment
-
 
 ## Holding for Updates
 
