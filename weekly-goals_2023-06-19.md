@@ -28,10 +28,10 @@
 - [ ] change address insurance
 - [ ] change address retirement
 - [ ] change address shopping
-- [ ] register bike with Penn Transportation
+- [x] register bike with Penn Transportation
 
 ### Falafel Tasks
-- [ ] register with Philadelphia
+- [x] register with Philadelphia
 - [x] find Vet and set appointment
 
 ## Holding for Updates
