@@ -16,6 +16,7 @@
 - [ ] unpack plants and shelf books
 - [x] set up blackout curtains
 - [ ] wall art
+- [ ] grow lights
 
 ### Living in Philly Tasks
 - [x] passport photos
