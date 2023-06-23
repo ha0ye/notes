@@ -4,7 +4,7 @@
 
 ### NIH DMSP working group
 - [x] manuscript notes
-
+- [ ] manuscript review and comments
 
 ### Ecology Data Paper
 - [ ] special session pre tasks
@@ -25,6 +25,8 @@
 - [x] pay parking ticket
 - [ ] Philadelphia parking permit
 - [ ] change address banking
+	- [x] Chase
+	- [ ] 
 - [ ] change address insurance
 - [ ] change address retirement
 - [ ] change address shopping
@@ -36,7 +38,14 @@
 
 ## Holding for Updates
 
+### C&RL paper (Open Grants)
+- [ ] add to ORCID
+
+### CSCCE Accessibility Tip Sheet
+- [ ] add to ORCID
+
 ### Toronto Replication Games
+- [ ] add paper to ORCID
 
 ### Transition Items (post)
 - [ ] email Tina with new mailing address - tlitchfield@uflib.ufl.edu
