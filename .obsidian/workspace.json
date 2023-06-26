@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-06-19.md",
+                "file": "weekly-goals_2023-06-26.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-06-19.md"
+                "file": "weekly-goals_2023-06-26.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-06-19.md",
+                "file": "weekly-goals_2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-06-19.md"
+                "file": "weekly-goals_2023-06-26.md"
               }
             }
           }
@@ -135,8 +135,9 @@
   },
   "active": "5179dcd5334ea307",
   "lastOpenFiles": [
-    "UPenn Info.md",
     "weekly-goals_2023-06-19.md",
+    "weekly-goals_2023-06-26.md",
+    "UPenn Info.md",
     "weekly-goals_2023-06-12.md",
     "OSTP Listening Session Comment.md",
     "HSCL/zoom-breakout-settings.md",
@@ -160,7 +161,6 @@
     "archive/weekly-goals_2023-04-03.md",
     "archive/weekly-goals_2023-03-27.md",
     "archive/weekly-goals_2023-03-20.md",
-    "archive/weekly-goals_2023-03-13.md",
-    "archive/weekly-goals_2023-03-06.md"
+    "archive/weekly-goals_2023-03-13.md"
   ]
 }
