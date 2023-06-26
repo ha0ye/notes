@@ -26,8 +26,9 @@
 - [ ] Philadelphia parking permit
 - [ ] change address banking
 	- [x] Chase
-	- [ ] 
-- [ ] change address insurance
+	- [x] Citi
+	- [ ] Capital One
+- [x] change address insurance
 - [ ] change address retirement
 - [ ] change address shopping
 - [x] register bike with Penn Transportation
