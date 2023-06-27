@@ -18,11 +18,18 @@
 	- [ ] next steps? 
 - [ ] discuss {April's unit} content
 
+### Penn onboarding
+- [x] zoom setup
+- [ ] new employee orientation
+- [ ] set up retirement
+- [ ] 
+
+### 
+
 ### Ecology Data Paper
 - [ ] special session pre tasks
 
 ### Moving Tasks
-- [ ] water plants
 - [ ] wall art
 - [ ] grow lights
 
@@ -33,17 +40,18 @@
 - [ ] Philadelphia parking permit
 - [ ] change address banking
 	- [ ] Capital One
-- [ ] change address retirement
+- [x] change address retirement
 - [ ] change address shopping
 - [ ] pick up bike sticker 4040 Chestnut
 
 ### Falafel Tasks
 - [ ] visit vet
 
-## Holding for Updates
-
 ### C&RL paper (Open Grants)
 - [ ] add to ORCID
+- [ ] revisions (due Aug 1)
+
+## Holding for Updates
 
 ### CSCCE Accessibility Tip Sheet
 - [ ] add to ORCID
