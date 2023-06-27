@@ -6,7 +6,8 @@
 - [ ] manuscript review and comments
 
 ### OSL Governance Committee
-- [ ] initial tasks before meeting
+- [x] initial tasks before meeting
+- [ ] meeting
 
 ### C4R organization
 - [ ] draft README
