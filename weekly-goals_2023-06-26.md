@@ -5,6 +5,19 @@
 ### NIH DMSP working group
 - [ ] manuscript review and comments
 
+### OSL Governance Committee
+- [ ] initial tasks before meeting
+
+### C4R organization
+- [ ] draft README
+- [ ] draft agenda for Friday meeting
+- [ ] review and finalize 1-pager
+
+### C4R curriculum
+- [x] discuss Road to Rigor content
+	- [ ] next steps? 
+- [ ] discuss {April's unit} content
+
 ### Ecology Data Paper
 - [ ] special session pre tasks
 
@@ -19,17 +32,13 @@
 - [x] pay parking ticket
 - [ ] Philadelphia parking permit
 - [ ] change address banking
-	- [x] Chase
-	- [x] Citi
 	- [ ] Capital One
-- [x] change address insurance
 - [ ] change address retirement
 - [ ] change address shopping
-- [x] register bike with Penn Transportation
+- [ ] pick up bike sticker 4040 Chestnut
 
 ### Falafel Tasks
-- [x] register with Philadelphia
-- [x] find Vet and set appointment
+- [ ] visit vet
 
 ## Holding for Updates
 
