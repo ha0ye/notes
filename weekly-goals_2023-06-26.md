@@ -7,22 +7,25 @@
 
 ### OSL Governance Committee
 - [x] initial tasks before meeting
-- [ ] meeting
+- [x] meeting
 
 ### C4R organization
-- [ ] draft README
-- [ ] draft agenda for Friday meeting
+- [x] draft README
+- [x] draft agenda for Friday meeting
 - [ ] review and finalize 1-pager
 
 ### C4R curriculum
 - [x] discuss Road to Rigor content
 	- [ ] next steps? 
 - [ ] discuss {April's unit} content
+- [x] feedback/edits on PICO questions
 
 ### Penn onboarding
 - [x] zoom setup
-- [ ] new employee orientation
-- [ ] set up retirement
+- [x] new employee orientation
+- [x] set up retirement
+	- [ ] can I do supplemental retirement
+- [ ] Penn housing benefits
 - [ ] 
 
 ### 
