@@ -1,34 +1,29 @@
-# Goals 2023-06-26
+# Goals 2023-07-05
 
 ## weekly
 
 ### NIH DMSP working group
-- [x] manuscript review and comments
+- [ ] submission?
 
 ### OSL Governance Committee
-- [x] initial tasks before meeting
-- [x] meeting
+- [ ] ?
 
 ### C4R organization
-- [x] draft README
-- [x] draft agenda for Friday meeting
 - [ ] review and finalize 1-pager
+- [ ] merge and finalize content from Friday meeting
+	- [ ] CENTER leadership info
+	- [ ] CENTER contact info
+	- [ ] mission/vision/values
+	- [ ] operations stuff
+- [ ] job description for community person
 
 ### C4R curriculum
-- [x] discuss Road to Rigor content
-	- [ ] next steps? 
+- [ ] next steps for Road to Rigor content
 - [ ] discuss {April's unit} content
-- [x] feedback/edits on PICO questions
+- [ ] integration into other content development
 
 ### Penn onboarding
-- [x] zoom setup
-- [x] new employee orientation
-- [x] set up retirement
-	- [ ] can I do supplemental retirement
-- [ ] Penn housing benefits
-- [ ] 
-
-### 
+- [ ] set up supplemental retirement
 
 ### Ecology Data Paper
 - [ ] prepare initial agenda for ESA special session
@@ -36,22 +31,23 @@
 - [ ] next steps for README standard
 
 ### Moving Tasks
-- [ ] wall art
+- [x] wall art
 - [ ] grow lights
+- [ ] hook screws for knife storage
+- [ ] utensil storage
 
 ### Living in Philly Tasks
 - [ ] PA driver's license
 - [ ] PA car registration
-- [x] pay parking ticket
 - [ ] Philadelphia parking permit
 - [ ] change address banking
 	- [ ] Capital One
-- [x] change address retirement
 - [ ] change address shopping
 - [ ] pick up bike sticker 4040 Chestnut
 
 ### Falafel Tasks
-- [ ] visit vet
+- [x] visit vet
+- [ ] dental consult - July 28
 
 ### C&RL paper (Open Grants)
 - [ ] add to ORCID
@@ -66,7 +62,6 @@
 - [ ] add paper to ORCID
 
 ### Transition Items (post)
-- [x] email Tina with new mailing address - tlitchfield@uflib.ufl.edu
 - [ ] email Tina for W-2 if not received by Feb 15, 2024 - tlitchfield@uflib.ufl.edu
 
 ## Deprioritize
