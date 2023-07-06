@@ -5,7 +5,7 @@
 ### NIH DMSP working group
 - [ ] submission?
 
-### OSL Governance Committee
+### OLS Governance Committee
 - [ ] ?
 
 ### C4R organization
@@ -15,11 +15,12 @@
 	- [ ] CENTER contact info
 	- [ ] mission/vision/values
 	- [ ] operations stuff
-- [ ] job description for community person
+- [x] job description for community person
+- [ ] shareable draft job description for community person
 
 ### C4R curriculum
 - [ ] next steps for Road to Rigor content
-- [ ] discuss {April's unit} content
+- [x] discuss {April's unit} content
 - [ ] integration into other content development
 
 ### Penn onboarding
@@ -37,7 +38,7 @@
 - [ ] utensil storage
 
 ### Living in Philly Tasks
-- [ ] PA driver's license
+- [x] PA driver's license
 - [ ] PA car registration
 - [ ] Philadelphia parking permit
 - [ ] change address banking
