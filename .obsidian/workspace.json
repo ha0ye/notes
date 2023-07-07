@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "78edd066a9b2819b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESA 2023.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-07-05.md"
+                "file": "ESA 2023.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-07-05.md",
+                "file": "ESA 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-07-05.md"
+                "file": "ESA 2023.md"
               }
             }
           }
@@ -133,17 +146,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5179dcd5334ea307",
+  "active": "78edd066a9b2819b",
   "lastOpenFiles": [
-    "weekly-goals_2023-06-26.md",
     "weekly-goals_2023-07-05.md",
+    "ESA 2023.md",
+    "ESA 2023 planning",
+    "weekly-goals_2023-06-26.md",
     "weekly-goals_2023-06-19.md",
     "UPenn Info.md",
     "weekly-goals_2023-06-12.md",
     "OSTP Listening Session Comment.md",
     "HSCL/zoom-breakout-settings.md",
     "weekly-goals_2023-06-05.md",
-    "Untitled",
     "weekly-goals_2023-04-17.md",
     "chart.md",
     "HSCL/notes-UF-DMSP-help.md",
@@ -160,7 +174,6 @@
     "archive/Brainstorming - Data Curation Paper (2021 April).md",
     "archive/weekly-goals_2023-04-10.md",
     "archive/weekly-goals_2023-04-03.md",
-    "archive/weekly-goals_2023-03-27.md",
-    "archive/weekly-goals_2023-03-20.md"
+    "archive/weekly-goals_2023-03-27.md"
   ]
 }

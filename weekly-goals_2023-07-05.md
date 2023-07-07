@@ -30,6 +30,7 @@
 - [ ] prepare initial agenda for ESA special session
 - [ ] prepare Penn reliance on external IRB application
 - [ ] next steps for README standard
+- [ ] arrange travel
 
 ### Moving Tasks
 - [x] wall art
