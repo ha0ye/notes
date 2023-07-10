@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-07-05.md",
+                "file": "weekly-goals_2023-07-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESA 2023.md"
+                "file": "weekly-goals_2023-07-10.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESA 2023.md",
+                "file": "weekly-goals_2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESA 2023.md"
+                "file": "weekly-goals_2023-07-10.md"
               }
             }
           }
@@ -146,8 +145,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78edd066a9b2819b",
+  "active": "5179dcd5334ea307",
   "lastOpenFiles": [
+    "weekly-goals_2023-07-05 1 1.md",
+    "weekly-goals_2023-07-10.md",
     "weekly-goals_2023-07-05.md",
     "ESA 2023.md",
     "ESA 2023 planning",
@@ -172,8 +173,6 @@
     "archive/weekly-goals_2022-09-12.md",
     "archive/weekly-goals_2022-08-01.md",
     "archive/Brainstorming - Data Curation Paper (2021 April).md",
-    "archive/weekly-goals_2023-04-10.md",
-    "archive/weekly-goals_2023-04-03.md",
-    "archive/weekly-goals_2023-03-27.md"
+    "archive/weekly-goals_2023-04-10.md"
   ]
 }
