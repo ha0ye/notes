@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "78edd066a9b2819b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESA 2023.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESA 2023.md"
+                "file": "weekly-goals_2023-07-10.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESA 2023.md",
+                "file": "weekly-goals_2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESA 2023.md"
+                "file": "weekly-goals_2023-07-10.md"
               }
             }
           }
@@ -146,12 +133,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78edd066a9b2819b",
+  "active": "5179dcd5334ea307",
   "lastOpenFiles": [
+    "ESA 2023.md",
     "weekly-goals_2023-07-10.md",
     "weekly-goals_2023-07-05 1 1.md",
     "weekly-goals_2023-07-05.md",
-    "ESA 2023.md",
     "ESA 2023 planning",
     "weekly-goals_2023-06-26.md",
     "weekly-goals_2023-06-19.md",

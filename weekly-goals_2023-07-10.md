@@ -1,5 +1,12 @@
 # Weekly Goals
 
+### Steele MS Thesis (deadline: Aug 7)
+- [ ] read thesis
+- [ ] compile comments
+- [ ] write up
+- [ ] fill out form
+- [ ] return documents 
+
 ### NIH DMSP working group
 - [ ] submission?
 
