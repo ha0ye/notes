@@ -33,22 +33,25 @@
 - [ ] set up supplemental retirement
 
 ### Ecology Data Paper
-- [ ] prepare initial agenda for ESA special session
+- [x] prepare initial agenda for ESA special session
 - [ ] prepare Penn reliance on external IRB application
 - [ ] next steps for README standard
 - [ ] arrange travel
 
 ### Moving Tasks
 - [ ] grow lights
-- [ ] hook screws for knife storage
+- [x] hook screws for knife storage
 - [ ] utensil storage
 
 ### Living in Philly Tasks
-- [ ] PA car registration
+- [x] PA car registration
 - [ ] Philadelphia parking permit
 - [ ] change address banking
 	- [ ] Capital One
 - [ ] change address shopping
+	- [x] Amazon
+	- [x] tcgplayer
+	- [ ] 
 - [x] pick up bike sticker 4040 Chestnut
 
 ### Falafel Tasks
