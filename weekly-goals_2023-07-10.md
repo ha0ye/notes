@@ -12,14 +12,15 @@
 - [ ] stats update for June
 
 ### OLS Governance Committee
-- [ ] ?
+- [x] initial onboarding tasks, sign up for doc review
+- [ ] do doc review
 
 ### C4R organization
 - [ ] review and finalize 1-pager
 - [ ] merge and finalize content from Friday meeting
 	- [ ] CENTER leadership info
 	- [ ] CENTER contact info
-	- [ ] mission/vision/values
+	- [x] mission/vision/values
 	- [ ] operations stuff
 - [ ] merge feedback on job description for community person
 - [ ] external feedback on job description for community person
