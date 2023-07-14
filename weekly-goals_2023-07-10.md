@@ -8,7 +8,8 @@
 - [ ] return documents 
 
 ### NIH DMSP working group
-- [ ] submission?
+- [ ] paper submission
+- [ ] stats update for June
 
 ### OLS Governance Committee
 - [ ] ?
