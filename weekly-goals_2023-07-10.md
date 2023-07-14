@@ -64,7 +64,7 @@
 ## Holding for Updates
 
 ### CSCCE Accessibility Tip Sheet
-- [ ] add to ORCID
+- [x] add to ORCID
 
 ### Toronto Replication Games
 - [ ] add paper to ORCID
