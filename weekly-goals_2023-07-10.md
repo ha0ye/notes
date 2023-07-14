@@ -22,8 +22,8 @@
 	- [ ] CENTER contact info
 	- [x] mission/vision/values
 	- [ ] operations stuff
-- [ ] merge feedback on job description for community person
-- [ ] external feedback on job description for community person
+- [x] merge feedback on job description for community person
+- [x] external feedback on job description for community person
 
 ### C4R curriculum
 - [ ] next steps for Road to Rigor content
@@ -38,7 +38,7 @@
 - [x] prepare initial agenda for ESA special session
 - [ ] prepare Penn reliance on external IRB application
 - [ ] next steps for README standard
-- [ ] arrange travel
+- [x] arrange travel
 
 ### Moving Tasks
 - [ ] grow lights
