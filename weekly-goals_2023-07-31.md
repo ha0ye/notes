@@ -27,6 +27,7 @@
 ### Ecology Data Paper
 - [ ] prepare Penn reliance on external IRB application
 - [ ] next steps for README standard
+- [ ] onboarding
 
 ### Moving Tasks
 - [ ] grow lights
