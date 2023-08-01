@@ -13,16 +13,8 @@
 ### OLS Governance Committee
 - [ ] do doc review
 
-### C4R organization
-- [ ] merge and finalize content from Friday meeting
-	- [ ] CENTER leadership info - who and what
-- [ ] CENTER operations
-	- [ ] communications and meeting guidelines
-	- [ ] documentation on Notion
-	- [ ] Unit Development Guide
-	- [ ] quality control / roadmap
-	- [ ] github team and repo settings
-- [ ] 
+### C4R
+use task board - https://www.notion.so/fce6aa1ee5624aa49a4aa44a0d1174f9?v=ed9a2b34bd814c958b4421b0a2c10be5&pvs=4 
 
 ### Ecology Data Paper
 - [ ] prepare Penn reliance on external IRB application
