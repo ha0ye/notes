@@ -26,6 +26,7 @@ use task board - https://www.notion.so/fce6aa1ee5624aa49a4aa44a0d1174f9?v=ed9a2b
 
 ### Living in Philly Tasks
 - [ ] car safety inspection
+- [ ] EAP appointment
 - [ ] change address banking
 	- [ ] Capital One
 - [ ] change address shopping
