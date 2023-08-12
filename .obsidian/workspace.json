@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-07-31.md",
+                "file": "UPenn Info.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-07-31.md"
+                "file": "UPenn Info.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-07-31.md",
+                "file": "UPenn Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-07-31.md"
+                "file": "UPenn Info.md"
               }
             }
           }
@@ -135,8 +135,8 @@
   },
   "active": "5179dcd5334ea307",
   "lastOpenFiles": [
-    "weekly-goals_2023-07-24.md",
     "weekly-goals_2023-07-31.md",
+    "weekly-goals_2023-07-24.md",
     "weekly-goals_2023-07-17.md",
     "weekly-goals_2023-07-10.md",
     "ESA 2023.md",
