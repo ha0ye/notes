@@ -51,7 +51,7 @@ use task board - https://www.notion.so/fce6aa1ee5624aa49a4aa44a0d1174f9?v=ed9a2b
 ## Holding for Updates
 
 ### Toronto Replication Games
-- [ ] add paper to ORCID
+- [x] add paper to ORCID
 
 ### Transition Items (post)
 - [ ] email Tina for W-2 if not received by Feb 15, 2024 - tlitchfield@uflib.ufl.edu
