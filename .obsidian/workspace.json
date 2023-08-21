@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly-goals_2023-08-14.md",
+                "file": "weekly-goals_2023-08-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-08-14.md"
+                "file": "weekly-goals_2023-08-28.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly-goals_2023-08-14.md",
+                "file": "weekly-goals_2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly-goals_2023-08-14.md"
+                "file": "weekly-goals_2023-08-28.md"
               }
             }
           }
@@ -135,8 +135,13 @@
   },
   "active": "5179dcd5334ea307",
   "lastOpenFiles": [
-    "weekly-goals_2023-07-31.md",
+    "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
+    "logseq/bak/weekly-goals_2023-05-22",
+    "logseq/bak",
+    "logseq",
     "weekly-goals_2023-08-14.md",
+    "weekly-goals_2023-08-28.md",
+    "weekly-goals_2023-07-31.md",
     "weekly-goals_2023-04-17.md",
     "weekly-goals_2023-04-23.md",
     "UPenn Info.md",
@@ -159,8 +164,6 @@
     "DMSP notes.md",
     "pages/contents.md",
     "weekly-goals_2023-05-22.md",
-    "weekly-goals_2023-05-15.md",
-    "weekly-goals_2023-05-08.md",
-    "weekly-goals_2023-05-01.md"
+    "weekly-goals_2023-05-15.md"
   ]
 }
