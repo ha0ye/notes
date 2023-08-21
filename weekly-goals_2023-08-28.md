@@ -12,18 +12,12 @@ use task board - https://www.notion.so/fce6aa1ee5624aa49a4aa44a0d1174f9?v=ed9a2b
 ### Ecology Data Paper
 - [ ] prepare Penn reliance on external IRB application
 - [ ] next steps for README standard
-- [x] onboarding
-- [x] hold ESA session
 - [ ] analyze notes from ESA session
 
 ### Moving Tasks
 - [ ] grow lights
 
 ### Living in Philly Tasks
-- [x] car safety inspection
-- [x] EAP appointment
-- [ ] change address banking
-	- [x] Capital One
 - [ ] change address shopping
 	- [x] Amazon
 	- [x] tcgplayer
