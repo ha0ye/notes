@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7ddbe89b2849ec73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +144,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5179dcd5334ea307",
+  "active": "7ddbe89b2849ec73",
   "lastOpenFiles": [
     "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
     "logseq/bak/weekly-goals_2023-05-22",
