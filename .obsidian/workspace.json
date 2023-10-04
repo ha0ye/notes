@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carpentries Teaching Demo.md",
+                "file": "Carpentries Teaching Demo - etherpad template.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo.md"
+                "file": "Carpentries Teaching Demo - etherpad template.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carpentries Teaching Demo.md",
+                "file": "Carpentries Teaching Demo - etherpad template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo.md"
+                "file": "Carpentries Teaching Demo - etherpad template.md"
+              }
+            }
+          },
+          {
+            "id": "8adcaf419f88053f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,6 +158,7 @@
   },
   "active": "7ddbe89b2849ec73",
   "lastOpenFiles": [
+    "Untitled.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
     "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
@@ -176,7 +187,6 @@
     "chart.md",
     "HSCL/notes-UF-DMSP-help.md",
     "archive/weekly-goals_2023-01-05.md",
-    "DMSP notes.md",
-    "pages/contents.md"
+    "DMSP notes.md"
   ]
 }

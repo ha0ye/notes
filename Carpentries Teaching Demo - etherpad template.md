@@ -1,4 +1,4 @@
-# The Carpentries Instructor Training DEMO 
+# The Carpentries Instructor Training Teaching Demonstration Sessions
 This pad is hosted by The Carpentries.
 
 Users are expected to follow our code of conduct:
@@ -7,17 +7,14 @@ https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 Looking for another Carpentries etherpad?  Check the pad of pads:
 https://pad.carpentries.org/pad-of-pads
 
-## Information for Trainees 
-Please see the Checkout Procedures page for full instructions. 
-https://carpentries.github.io/instructor-training/checkout/index.html
+## Information for Trainees
+The Teaching Demonstration is a 60-minute session where each trainee will demonstrate teaching for 5-minutes.
+
+Please see the Checkout Procedures page for full details: [https://carpentries.github.io/instructor-training/checkout](https://carpentries.github.io/instructor-training/checkout)
 
 A few things to keep in mind:
-1. Remember to prepare a full lesson; your Trainer will tell you which episode to teach from when you arrive.
-2. Remember that this is not a high stakes test! You will meet great people and give and receive feedback on the teaching process. 
-
-----------------------------------------------------------------------------
-
-## The Carpentries Teaching Demos
+- Remember to prepare an episode from a Carpentries Lesson. For recommendations please visit: [https://carpentries.github.io/instructor-training/demo_lessons](https://carpentries.github.io/instructor-training/demo_lessons)
+- Remember that this is not a high stakes test! You will meet great people and give and receive feedback on the teaching process.
 
 ## Event date and time: 
 {{date and time in different time zones}}
@@ -25,10 +22,9 @@ A few things to keep in mind:
 ZOOM LINK: 
 https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09 (participant password: 202020)
 
-Host Name and Email: Hao Ye (haoye@ufl.edu)
+Host Name and Email: Hao Ye (haoye@seas.upenn.edu)
 
-HOST: Please submit this form after the demo session:
-https://forms.gle/ZusNhyhNh4rvCmxH8
+HOST: Please submit this form after the demo session:  [https://forms.gle/ZusNhyhNh4rvCmxH8](https://forms.gle/ZusNhyhNh4rvCmxH8)
 
 Please provide your name, your institution, your email, and a link to the website of your chosen lesson.  Please remember that we will choose the starting point within that lesson at the start of the demo.
 
@@ -44,12 +40,12 @@ Please provide your name, your institution, your email, and a link to the websit
 
 ## 1. Welcome and Signins
 NAME / Institution / Email
-- 
-- 
-- 
-- 
-- 
-- 
+
+
+
+
+
+
 
 #### REMINDER: Users are expected to follow our code of conduct:
 https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
@@ -58,7 +54,7 @@ https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 
 #### Checks:
 - Are signed up participants present?
-- Are participants prepared to teach 5 minutes from any episode within their chosen lessons?
+- Are participants prepared to teach 5 minutes from the selected episode?
 
 #### Procedures:
 __**The order of teaching demos has been randomly determined.**__
@@ -94,34 +90,31 @@ teaching episode: {{URL}}
 **Content**
 
 What worked well:
-  - 
-  - 
-  - 
-  - 
-  - 
+
+
+
+
 
 Areas of improvement / Suggestions:
-  - 
-  - 
-  - 
-  - 
-  - 
+
+
+
+
 
 **Delivery**
 
 What worked well:
-  - 
-  - 
-  - 
-  - 
-  - 
+
+
+
+
+
 
 Areas of improvement / Suggestions:
-  - 
-  - 
-  - 
-  - 
-  - 
+
+
+
+
 
 
 ## 5. Concluding
