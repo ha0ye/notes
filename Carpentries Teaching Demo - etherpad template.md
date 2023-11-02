@@ -60,8 +60,7 @@ https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 __**The order of teaching demos has been randomly determined.**__
 
 On your turn:
-- I will tell you what episode you will be teaching from.
-- You will have time to set up what you need to teach that episode.
+- You will have time to set up what you need to teach your selected episode.
 - You will start screen sharing. (any questions about screen sharing?)
 - I recommend sharing just the application unless you want to be able to show something from a different application.
 - You are welcome to keep any notes/websites open in another window/device for reference, just as though you were teaching.
@@ -79,7 +78,7 @@ On your turn:
 - This is not a high-stakes test! This is a friendly opportunity to give and receive feedback.
 
 Some examples of feedback (note: these are provided for demonstration purposes; it is not intended to be an exhaustive list and they are not all required for a successful teaching demo)
-https://carpentries.github.io/instructor-training/demos_rubric/
+https://carpentries.github.io/instructor-training/demos_rubric
 
 ## 4. Teaching Demos
 
