@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "file": "metadata-template.md.md",
                 "mode": "source",
                 "source": true
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md"
+                "file": "metadata-template.md.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "file": "metadata-template.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md"
+                "file": "metadata-template.md.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "7ddbe89b2849ec73",
   "lastOpenFiles": [
-    "Carpentries Teaching Demo.md",
-    "Untitled.md",
     "Carpentries Teaching Demo - etherpad template.md",
+    "Carpentries Teaching Demo.md",
+    "metadata-template.md.md",
     "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
     "logseq/bak/weekly-goals_2023-05-22",
     "logseq/bak",
