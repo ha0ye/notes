@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b31aa0f35d142afe",
+        "id": "1a7836ba8f5174b3",
         "type": "tabs",
         "children": [
           {
-            "id": "5179dcd5334ea307",
+            "id": "e6e53acc95410116",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly-goals_2023-08-28.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7ddbe89b2849ec73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metadata-template.md.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "metadata-template.md.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metadata-template.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "metadata-template.md.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +134,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7ddbe89b2849ec73",
+  "active": "e6e53acc95410116",
   "lastOpenFiles": [
+    "weekly-goals_2023-08-28.md",
+    "metadata-template.md.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
-    "metadata-template.md.md",
     "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
     "logseq/bak/weekly-goals_2023-05-22",
     "logseq/bak",
     "logseq",
     "weekly-goals_2023-08-14.md",
-    "weekly-goals_2023-08-28.md",
     "weekly-goals_2023-07-31.md",
     "weekly-goals_2023-04-17.md",
     "weekly-goals_2023-04-23.md",
