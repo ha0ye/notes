@@ -11,8 +11,12 @@
             "id": "e6e53acc95410116",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Carpentries Teaching Demo - etherpad template.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Carpentries Teaching Demo - etherpad template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Carpentries Teaching Demo - etherpad template.md"
+              }
             }
           },
           {
@@ -113,7 +122,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
