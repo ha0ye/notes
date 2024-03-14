@@ -7,7 +7,7 @@ https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 Looking for another Carpentries etherpad?  Check the pad of pads:
 https://pad.carpentries.org/pad-of-pads
 
-## Information for Trainees
+### Information for Trainees
 The Teaching Demonstration is a 60-minute session where each trainee will demonstrate teaching for 5-minutes.
 
 Please see the Checkout Procedures page for full details: [https://carpentries.github.io/instructor-training/checkout](https://carpentries.github.io/instructor-training/checkout)
@@ -16,7 +16,7 @@ A few things to keep in mind:
 - Remember to prepare an episode from a Carpentries Lesson. For recommendations please visit: [https://carpentries.github.io/instructor-training/demo_lessons](https://carpentries.github.io/instructor-training/demo_lessons)
 - Remember that this is not a high stakes test! You will meet great people and give and receive feedback on the teaching process.
 
-## Event date and time: 
+### Event date and time: 
 {{date and time in different time zones}}
 
 ZOOM LINK: 
@@ -26,9 +26,7 @@ Host Name and Email: Hao Ye (haoye@seas.upenn.edu)
 
 HOST: Please submit this form after the demo session:  [https://forms.gle/ZusNhyhNh4rvCmxH8](https://forms.gle/ZusNhyhNh4rvCmxH8)
 
-Please provide your name, your institution, your email, and a link to the website of your chosen lesson.  Please remember that we will choose the starting point within that lesson at the start of the demo.
-
-## SIGNUPS
+### SIGNUPS
 
 
 ## Agenda
