@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1b7cf1e988f3d660",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e6e53acc95410116",
+  "active": "1b7cf1e988f3d660",
   "lastOpenFiles": [
     "informational-interview-USGS.md",
     "chart.md",
