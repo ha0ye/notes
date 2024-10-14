@@ -38,9 +38,19 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "f630968d2b196fd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +176,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dec9a4ccedaac3e1",
+  "active": "f630968d2b196fd6",
   "lastOpenFiles": [
     "informational-interview-USGS.md",
     "chart.md",
