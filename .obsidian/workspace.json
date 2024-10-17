@@ -18,39 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "1b7cf1e988f3d660",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "dec9a4ccedaac3e1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "f630968d2b196fd6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,14 +145,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f630968d2b196fd6",
+  "active": "e6e53acc95410116",
   "lastOpenFiles": [
+    "Carpentries Teaching Demo - etherpad template.md",
+    "Carpentries Teaching Demo.md",
     "informational-interview-USGS.md",
     "chart.md",
-    "Carpentries Teaching Demo - etherpad template.md",
     "weekly-goals_2023-08-28.md",
     "metadata-template.md.md",
-    "Carpentries Teaching Demo.md",
     "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
     "logseq/bak/weekly-goals_2023-05-22",
     "logseq/bak",
