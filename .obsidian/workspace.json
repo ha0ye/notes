@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chart.md",
+                "file": "Carpentries Teaching Demo - etherpad template.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Carpentries Teaching Demo - etherpad template"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,8 +69,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chart.md"
-              }
+                "file": "Carpentries Teaching Demo - etherpad template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Carpentries Teaching Demo - etherpad template"
             }
           },
           {
@@ -72,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chart.md",
+                "file": "Carpentries Teaching Demo - etherpad template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Carpentries Teaching Demo - etherpad template"
             }
           },
           {
@@ -112,8 +124,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chart.md"
-              }
+                "file": "Carpentries Teaching Demo - etherpad template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Carpentries Teaching Demo - etherpad template"
             }
           },
           {
@@ -125,7 +139,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -147,10 +163,10 @@
   },
   "active": "e6e53acc95410116",
   "lastOpenFiles": [
+    "chart.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
     "informational-interview-USGS.md",
-    "chart.md",
     "weekly-goals_2023-08-28.md",
     "metadata-template.md.md",
     "logseq/bak/weekly-goals_2023-05-22/2023-08-21T14_08_20.615Z.Desktop.md",
