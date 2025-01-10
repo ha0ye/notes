@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Carpentries Teaching Demo - etherpad template"
             }
+          },
+          {
+            "id": "7aba44b6dfa53a2e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e6e53acc95410116",
+  "active": "7aba44b6dfa53a2e",
   "lastOpenFiles": [
     "chart.md",
     "Carpentries Teaching Demo - etherpad template.md",
