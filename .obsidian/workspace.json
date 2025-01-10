@@ -25,12 +25,14 @@
             "id": "7aba44b6dfa53a2e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "interview_notes.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "interview_notes"
             }
           }
         ],
@@ -176,6 +178,8 @@
   },
   "active": "7aba44b6dfa53a2e",
   "lastOpenFiles": [
+    "interview_notes.md alias",
+    "interview_notes.md",
     "chart.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
@@ -203,8 +207,6 @@
     "weekly-goals_2023-06-12.md",
     "OSTP Listening Session Comment.md",
     "HSCL/zoom-breakout-settings.md",
-    "weekly-goals_2023-06-05.md",
-    "HSCL/notes-UF-DMSP-help.md",
-    "archive/weekly-goals_2023-01-05.md"
+    "weekly-goals_2023-06-05.md"
   ]
 }
