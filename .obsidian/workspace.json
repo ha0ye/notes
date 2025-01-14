@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview_notes.md",
+                "file": "Carpentries Teaching Demo - etherpad template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "interview_notes"
+              "title": "Carpentries Teaching Demo - etherpad template"
             }
           }
         ]
@@ -163,11 +163,11 @@
   },
   "active": "674fdd04ca2b0d89",
   "lastOpenFiles": [
-    "interview_notes.md alias",
+    "Carpentries Teaching Demo.md",
     "interview_notes.md",
+    "interview_notes.md alias",
     "chart.md",
     "Carpentries Teaching Demo - etherpad template.md",
-    "Carpentries Teaching Demo.md",
     "informational-interview-USGS.md",
     "weekly-goals_2023-08-28.md",
     "metadata-template.md.md",
