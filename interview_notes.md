@@ -64,8 +64,67 @@ Processes
 * collaboration with stakeholders
 * technology to facilitate
 
+Handing disagreement - consensus
+* are there decisions / aspects that are "can live with
+* dig into concerns
+* evaluate choices - iterate choices
+* may kick out to smaller group to resolve urgent concerns
+* decision process for prioritizing tradeoffs / proceeding when a decision is required
+
+Managing priorities
+* deadlines
+* commitments - unblock other people and projects
+* time of day and what kinds of work I am capable of
+  - e.g. decision-making meetings in morning, solo work in afternoon
+
+Challenges
+* different communication styles - esp. with remote work
+  - what kind of feedback is desired and when, what serves needs best, other opportunities to give feedback, my role
+  - opinion vs feeling based on experiences vs seeking additional data
+* 
 
 ## Work as Ecology Data Paper Editor
 
 * qualitative research into Data Papers
 * redesign of submission type
+
+# Interview Qs
+
+### About the Role
+interfacing with outside orgs
+	funders, collabs
+help PLOS lead in open science
+project-driven
+
+travel to 5 or 6 conferences a year
+
+goals
+* KPIs - open science indicators - measurables
+  - different areas
+  - preprints, data in repository, code share
+* geographic data
+  - trends across regions
+  - why differences, how does that inform reiteration on strategy
+
+
+Timeline for Interview Steps
+* April or May
+* Hao wants to give 30 day notice
+
+Next Step
+* convo with Iain 9am next Friday
+* panel call with Iain and members of PLOS
+  - short presentation prepared ahead of time
+
+What is remote work culture?
+* everyone is fully remote (US, UK, some in Germany)
+* team-building
+  - team retreat once a year
+  - department retreat also
+  - zoom meetings - trying to interact as much as possible
+* extended effort to do meetings
+* have been fully remote for several years
+* everyone communicates differently
+  - other people want to do emails or zooms
+
+

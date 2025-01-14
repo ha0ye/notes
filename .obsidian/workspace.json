@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6e53acc95410116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Carpentries Teaching Demo - etherpad template"
-            }
-          },
-          {
-            "id": "7aba44b6dfa53a2e",
+            "id": "674fdd04ca2b0d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "interview_notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +161,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7aba44b6dfa53a2e",
+  "active": "674fdd04ca2b0d89",
   "lastOpenFiles": [
     "interview_notes.md alias",
     "interview_notes.md",
