@@ -91,8 +91,20 @@ Challenges
 # Interview Qs (2025-01-17)
 
 What are the big picture goals for open science at PLOS?
+* research and design project (Moore and RW Johnson) - blueprint for future of publishing
 
 What does success look like in the position?
+* team-level objectives (people in this role are contributing to those)
+  - most of the work is through other people - changes in behaviors or shifts
+  - build awareness and capacity in colleagues to contribute to organizational goals
+  - increasing outcomes and impacts of that work
+  - this quarter, working with journal teams to set open science goals that are relevant to those teams, make good impact (augment / supplement the work)
+* is the prevalence of OS practices (OSI) increasing?
+  - experiment, implementation of policy?
+* this role gotten to grips in OS, identify problem and solution
+  - know the problem we want to solve
+
+
 
 
 
