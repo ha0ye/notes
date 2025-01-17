@@ -65,7 +65,7 @@ Processes
 * technology to facilitate
 
 Handing disagreement - consensus
-* are there decisions / aspects that are "can live with
+* are there decisions / aspects that are "can live with"
 * dig into concerns
 * evaluate choices - iterate choices
 * may kick out to smaller group to resolve urgent concerns
@@ -88,7 +88,15 @@ Challenges
 * qualitative research into Data Papers
 * redesign of submission type
 
-# Interview Qs
+# Interview Qs (2025-01-17)
+
+What are the big picture goals for open science at PLOS?
+
+What does success look like in the position?
+
+
+
+# Interview Qs (2025-01-10)
 
 ### About the Role
 interfacing with outside orgs
@@ -108,7 +116,7 @@ goals
 
 
 Timeline for Interview Steps
-* April or May
+* Hao feels good about starting around April or May
 * Hao wants to give 30 day notice
 
 Next Step
