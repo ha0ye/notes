@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4bf089ee7fed02c",
+        "id": "5857a0b90a7bdd7a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea7bccf587551b2",
+            "id": "7894b57d74adb482",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,7 +158,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3ea7bccf587551b2",
+  "active": "7894b57d74adb482",
   "lastOpenFiles": [
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
