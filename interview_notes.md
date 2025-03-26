@@ -108,6 +108,11 @@ Planning for Open Grants project
 IMLS-funded
 https://osf.io/n6svj/
 
+Findable
+Accessible
+Interoperable
+Reusable
+
 grants metadata schema
 * consulted multiple experts on
 * what fields would be useful
@@ -130,9 +135,14 @@ ethical considerations
 
 ### What are the concepts in data management that you feel are most valuable to early career researchers? How would you prepare to instruct them about these concepts?
 
-organizing and documenting data files as they are created or modified
+organizing and documenting data files
+- tidy data - tabular structure
+- naming of files - esp. necessary with generations that grew up on devices that masked file/folder structure
+- metadata on source and methodology
+
+motivations:
 - specific use cases or structuring can change - you can't predict these!
-- having the information you need to be able to adapt the data later saves time OR makes some things possible (if you forget how the data originated later)
+- being able to adapt the data later saves time OR makes some things possible (if you forget how the data originated later)
 
 - I gave a guest lecture for a class once
 	- one of the students came up to me afterwards - 
@@ -140,6 +150,10 @@ organizing and documenting data files as they are created or modified
 	- this suggests:
 		- need to outreach earlier to audience
 		- benefit of having a peer advocate for utility of content
+
+accessible examples of importance
+- tie to audience identity
+- organizing is good research practice == core motivation to be a good researcher
 
 ### How have you supported faculty and graduate students in integrating data management practices into their research workflows?
 
@@ -159,12 +173,6 @@ as Data Paper editor for Ecology
 - engage with audience more directly to assess needs
 - what is the content in grad student boot camps / methods classes / etc. 
 	- update practices or develop custom resources / continuation points for students
-
-
-
-
-
-
 
 ### Do you have any questions for us?
 
