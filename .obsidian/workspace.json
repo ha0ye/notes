@@ -11,10 +11,14 @@
             "id": "7894b57d74adb482",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "interview_notes.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "interview_notes"
             }
           }
         ]
@@ -160,9 +164,11 @@
   },
   "active": "7894b57d74adb482",
   "lastOpenFiles": [
+    "UPenn Info.md",
+    "interview_notes.md",
+    "interview_notes.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
-    "interview_notes.md",
     "interview_notes.md alias",
     "chart.md",
     "informational-interview-USGS.md",
@@ -176,7 +182,6 @@
     "weekly-goals_2023-07-31.md",
     "weekly-goals_2023-04-17.md",
     "weekly-goals_2023-04-23.md",
-    "UPenn Info.md",
     "weekly-goals_2023-07-24.md",
     "weekly-goals_2023-07-17.md",
     "weekly-goals_2023-07-10.md",

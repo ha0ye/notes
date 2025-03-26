@@ -1,150 +1,171 @@
-# PLOS / Gates Foundation 
-3-year funding package
-transition to APC-free publishing
+UNM 
 
-* capture and dissemination of funding metadata
-  - ORFG / Crossref project on DOIs for grants - https://www.orfg.org/news/2023/6/5/orfg-advances-efforts-to-improve-research-output-tracking
-  - post peer reviews alongside preprints
+### Tell us a little about yourself. What interests you about this position?
 
-How Equitable is It
-* evaluation of scholarly communication models
-
-Recognition for contributions beyond the article
-* data, code, methods
-* technical infrastructure
-* social structure - incentives, rewards
-
-Lack of affordability
-* APCs
-
-# About Me
-
-Why am I interested in this position
 * I am motivated as a problem solver
 * skills and experience across a diversity of fields, including technological, social, educational, and cultural
 * improving research (as a broad field) is meaningful to me - I have a depth of domain expertise to contribute
-* scale of changes possible at PLOS, as a leader in open access, is exciting!
 
-Why do I think I'm a good fit
-* depth and breadth of experience with the problems
-  - first-hand empathy with researchers who work on papers, data, code, and methods, and share it
-  - experience training in skills in open science
-  - research experience on the problems of moving the needle in open science
-  - work experience in developing solutions that span the axes of policy, technological, social
+* in my current position, I have had the chance to make impact at a different scale
+  - educational materials for a broad audience
 
-What are things I work on in my current job
-* other educational materials
-  - HR training
-    + pros: mandated
-    + pros: format is very structured and linear
-    + cons: boring, dry, content very focused on rote memorization and avoiding legal liability
-  - Carpentries materials
-    + pros: practical, iterated materials
-    + pros: good pedagogical principles in content and how it is presented
-    + cons: requires dedicated time and effort, focus on practicing skills, benefits from instructor, materials are static and sometimes dry
-  - Duolingo
-    + pros: intuitive interface
-    + pros: reminders and other engagement methods
-    + cons: bad pedagogical principles: no dedicated practice, focus on gamification over teaching
-* what we are trying to do
-  - focus on relevant problems experienced by researchers
-	  - problems that they encounter that are tough and aren't addressed by common, easy training
-  - engaging examples
-  - interactive components to: demonstrate, practice, reflect
-  - general principles
-  - next steps beyond short-format training
-	  - links to resources
-	  - connections to next lessons
-	  - downloadable materials / references / etc.
-	  - re-usable tools
+* what inspires me is meaningfulness in my day-to-day work
+  - missing personal interaction of teaching or engaging with an individual or group on a specific problem
+  - am reminded of this when I occasionally do instructor training for The Carpentries
 
-Processes
-* iterating (many times) - documentation, meetings
-* design of the product
-* collaboration with stakeholders
-* technology to facilitate
+///
+* challenges of a curriculum for a broad audience and meeting stakeholder expectations
+  - different ideas of what is relevant, engaging
+  - domain-specific examples or broad concepts
+///
 
-Handing disagreement - consensus
-* are there decisions / aspects that are "can live with"
-* dig into concerns
-* evaluate choices - iterate choices
-* may kick out to smaller group to resolve urgent concerns
-* decision process for prioritizing tradeoffs / proceeding when a decision is required
+### Please describe your experience with and approaches to working with diverse communities and cultures.
 
-Managing priorities
-* deadlines
-* commitments - unblock other people and projects
-* time of day and what kinds of work I am capable of
-  - e.g. decision-making meetings in morning, solo work in afternoon
+2 experiences
 
-Challenges
-* different communication styles - esp. with remote work
-  - what kind of feedback is desired and when, what serves needs best, other opportunities to give feedback, my role
-  - opinion vs feeling based on experiences vs seeking additional data
-* 
+1. Code for Science & Society Event Fund - https://www.codeforsociety.org/eventfund
+* selection committee from 2020-2022
+* program to fund data science training, with a specific vision of diversifying leadership in under-resourced communities
+* reviewed applications, and also iterated on selection and application process
+* one of the requirements initially was for funded events to consider accessibility needs and have a Code of Conduct
+  - many programs did take this to heart and allocated funding specifically to bring people together if virtual events were challenging, hire translators as needed, or provide credit for internet access or headsets to participate in events
+  - we also ended up broadening our understanding of codes of conduct, because the phrasing is very North American academic coded, and in many cases, what is desired is more accurately described as a Community Participation Guideline
 
-## Work as Ecology Data Paper Editor
+OLS (Open Life Science)
+* governance committee, ally skills trainer, and subject matter expert
+* brings open science training to global audiences, especially Global South
+* community- and people-centered approach 
+* time, resources, competitiveness, and institutional incentives are all barriers to open science
 
-* qualitative research into Data Papers
-* redesign of submission type
+Takeaway == there is no single way to do Open / Rigorous science
+(e.g. pre-registered RCT)
 
-# Interview Qs (2025-01-17)
-
-What are the big picture goals for open science at PLOS?
-* research and design project (Moore and RW Johnson) - blueprint for future of publishing
-
-What does success look like in the position?
-* team-level objectives (people in this role are contributing to those)
-  - most of the work is through other people - changes in behaviors or shifts
-  - build awareness and capacity in colleagues to contribute to organizational goals
-  - increasing outcomes and impacts of that work
-  - this quarter, working with journal teams to set open science goals that are relevant to those teams, make good impact (augment / supplement the work)
-* is the prevalence of OS practices (OSI) increasing?
-  - experiment, implementation of policy?
-* this role gotten to grips in OS, identify problem and solution
-  - know the problem we want to solve
+Approach
+* listen to what someone's context is
+* engage with their needs and constraints, could require drawing them out
+* open to meaning of culturally-specific language (e.g. languages with gendered nouns)
 
 
+### Describe the specific behaviors that you use to create an environment of cooperation and collaboration within a team. Give us a specific example of how you have used these behaviors in the past.
+
+I believe a key ingredient underlying cooperation and collaboration is psychological safety and trust.
+* trust in the work
+  - carrying out tasks
+  - communicating to ask / receive help
+* trust in being recognized as a person
+  - have value beyond their work contributions
+  - individually unique
+  - things going on in their lives outside of work (that they may want to share or want to NOT share)
+
+Actions
+* Code of Conduct where relevant
+* "How to Work with Me" document - https://docs.google.com/document/d/1ZN_Pvqi9E-pVCd6k79UkXvNaU5bPxswlD6hKioN34MU/edit?usp=sharing
+  - communication preferences
+  - feedback
+  - approach to problem solving
+  - frustrations
+* with student workers, expectations document to be discussed
+  - emphasizing care for the work, but not beyond them as individuals
+  - belief in caring for people as the lever, by which good work gets done
+
+### Describe a specific time when you were especially creative in solving a problem.
+
+context: current job designing curriculum to teach research rigor
+problem:
+* piece A - different stakeholders who have expertise and opinions on how to teach a topic
+* piece B - how do you teach a topic like "evaluating statistical claims" in the constraints of ~ 3 hours of practical content for a generic researcher in biomedical science?
+
+further details:
+- outlines were not effective; learning objectives like "define p-values and critically evaluate their use"
+- subject matter experts might go on to draft out materials that missed the mark!
+
+realized that:
+- stakeholders (e.g. funders) were passionate because there were specific problems they wanted to solve
+	- and they asked for a specific solution (e.g. a unit on topic X)
+- exactly like the reference interview -- someone has been dealing with a problem and thought of a solution and approached you about the solution
+	- but the solution may not be what works for them or what is available
+	- NEED to draw out the details of the problem
+
+SOLUTION:
+* expand outline and planning documents to include:
+	* what is the rigor problem that this lesson will solve
+	* how will learning X solve that problem
+	* achieve alignment on this -- much better agreement on what the work should be
+
+### How have you applied FAIR principles in a research setting, and how would you handle data that involves ethical considerations, such as tribal data sovereignty?
+
+Planning for Open Grants project
+IMLS-funded
+https://osf.io/n6svj/
+
+grants metadata schema
+* consulted multiple experts on
+* what fields would be useful
+* consideration of use cases
+  - finding
+  - analysis
+  - cross-compatibility with other data (ORCID, other common identifiers), controlled vocabulary
+
+ethical considerations
+- depends on kind, somewhat
+- if existing policies, refer to, but also be open to creating new or updating
+- sensitive data, could come with requirements by funder or researcher SHOULD have plan already
+	- may need to interface with office of research / IRB / IACUC as relevant
+- tribal data sovereignty
+	- am aware of CARE, but have not applied it myself
+	- would reach out to experts to consult
+		- Angela Okune (from CSS Event fund, now at CSID - Climate Sensitive Infectious Disease, and previously on the Open and Collaborative Science for Development Network team, looked at open science models in the Global South )
+		- Stephanie Russo Carroll at University of Arizona
+
+
+### What are the concepts in data management that you feel are most valuable to early career researchers? How would you prepare to instruct them about these concepts?
+
+organizing and documenting data files as they are created or modified
+- specific use cases or structuring can change - you can't predict these!
+- having the information you need to be able to adapt the data later saves time OR makes some things possible (if you forget how the data originated later)
+
+- I gave a guest lecture for a class once
+	- one of the students came up to me afterwards - 
+		- they had spent a lot of time recently dealing with data management and the instruction would have greatly helped
+	- this suggests:
+		- need to outreach earlier to audience
+		- benefit of having a peer advocate for utility of content
+
+### How have you supported faculty and graduate students in integrating data management practices into their research workflows?
+
+consultation
+- providing resources and answering questions
+
+teaching
+- lessons and materials based on my own perceptions of what is effective
+
+organizing standards among data librarians and research support staff
+- working group with guidance materials for NIH Data Management and Sharing policy
+
+as Data Paper editor for Ecology
+- have done some work to look at README policies across different journals to identify potential to harmonize
+
+**Future**
+- engage with audience more directly to assess needs
+- what is the content in grad student boot camps / methods classes / etc. 
+	- update practices or develop custom resources / continuation points for students
 
 
 
-# Interview Qs (2025-01-10)
-
-### About the Role
-interfacing with outside orgs
-	funders, collabs
-help PLOS lead in open science
-project-driven
-
-travel to 5 or 6 conferences a year
-
-goals
-* KPIs - open science indicators - measurables
-  - different areas
-  - preprints, data in repository, code share
-* geographic data
-  - trends across regions
-  - why differences, how does that inform reiteration on strategy
 
 
-Timeline for Interview Steps
-* Hao feels good about starting around April or May
-* Hao wants to give 30 day notice
 
-Next Step
-* convo with Iain 9am next Friday
-* panel call with Iain and members of PLOS
-  - short presentation prepared ahead of time
 
-What is remote work culture?
-* everyone is fully remote (US, UK, some in Germany)
-* team-building
-  - team retreat once a year
-  - department retreat also
-  - zoom meetings - trying to interact as much as possible
-* extended effort to do meetings
-* have been fully remote for several years
-* everyone communicates differently
-  - other people want to do emails or zooms
+### Do you have any questions for us?
+
+**what does success look like for this position**
+
+**what does success look like for the libraries / CULL**
+
+**hiring timeline**
+
+**location logistics of position**
+
+**research time / sabbatical time**
 
 
