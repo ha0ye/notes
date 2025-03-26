@@ -13,6 +13,8 @@ UNM
   - missing personal interaction of teaching or engaging with an individual or group on a specific problem
   - am reminded of this when I occasionally do instructor training for The Carpentries
 
+On a personal note, I was motivated to apply for my previous Reproducibility Librarian position by Melissa Rethlefsen - meaningful to join a team with leadership that has a vision for improving researcher 
+
 ///
 * challenges of a curriculum for a broad audience and meeting stakeholder expectations
   - different ideas of what is relevant, engaging
@@ -31,6 +33,10 @@ UNM
   - many programs did take this to heart and allocated funding specifically to bring people together if virtual events were challenging, hire translators as needed, or provide credit for internet access or headsets to participate in events
   - we also ended up broadening our understanding of codes of conduct, because the phrasing is very North American academic coded, and in many cases, what is desired is more accurately described as a Community Participation Guideline
 
+Ally Skills trainer
+* program to teach skills to pre-emptively create inclusive environments and respond to problematic behavior
+* next week for OLS -  non-profit focusing on capacity building and diversifying leadership in open scienc, globally
+
 OLS (Open Life Science)
 * governance committee, ally skills trainer, and subject matter expert
 * brings open science training to global audiences, especially Global South
@@ -41,10 +47,10 @@ Takeaway == there is no single way to do Open / Rigorous science
 (e.g. pre-registered RCT)
 
 Approach
+* active listening, seems silly
 * listen to what someone's context is
 * engage with their needs and constraints, could require drawing them out
 * open to meaning of culturally-specific language (e.g. languages with gendered nouns)
-
 
 ### Describe the specific behaviors that you use to create an environment of cooperation and collaboration within a team. Give us a specific example of how you have used these behaviors in the past.
 
@@ -67,6 +73,10 @@ Actions
 * with student workers, expectations document to be discussed
   - emphasizing care for the work, but not beyond them as individuals
   - belief in caring for people as the lever, by which good work gets done
+* Mozilla Open Leadership 
+  - work openly == vulnerability == scary, but builds trust
+* strive to work as much as possible in collaborative docs
+  - shared notes, editing, meetings that share power in decision making
 
 ### Describe a specific time when you were especially creative in solving a problem.
 
