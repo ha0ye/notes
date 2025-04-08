@@ -6,6 +6,8 @@ UNM
 * skills and experience across a diversity of fields, including technological, social, educational, and cultural
 * improving research (as a broad field) is meaningful to me - I have a depth of domain expertise to contribute
 
+I care about improving research practices and open science
+
 * in my current position, I have had the chance to make impact at a different scale
   - educational materials for a broad audience
 
@@ -141,8 +143,9 @@ organizing and documenting data files
 - metadata on source and methodology
 
 motivations:
-- specific use cases or structuring can change - you can't predict these!
+- needs for data can change (plots, analyses, combining with other data) - you can't predict these!
 - being able to adapt the data later saves time OR makes some things possible (if you forget how the data originated later)
+- be kind to your future self and collaborators
 
 - I gave a guest lecture for a class once
 	- one of the students came up to me afterwards - 
@@ -154,6 +157,11 @@ motivations:
 accessible examples of importance
 - tie to audience identity
 - organizing is good research practice == core motivation to be a good researcher
+
+what are the goals of a training or interaction:
+* solve an immediate problem if it exists
+* teach something that demostrates value quickly
+* communicate oneself as an expert or resource
 
 ### How have you supported faculty and graduate students in integrating data management practices into their research workflows?
 
@@ -178,12 +186,90 @@ as Data Paper editor for Ecology
 
 **what does success look like for this position**
 
+personal response (Jon Wheeler)
+* in mid-2010s, 4 person team
+* good variety of services, integrations with units and departments
+* upstream in research workflows
+* over time, team has shrunk
+* returning to high level of visibility among researchers, requests for DMP, integrating with departments
+* high visibility among research administration
+	* committees on research
+* recent Research Data Management policy
+* re-building, updating services and policy
+* outreach to tribal communities
+* data and data advocacy
+* successful data science program
+	* want to have data management at same level
+
+* Todd Quinn: within GFE group
+* helping colleagues
+
+* Holly Surbaugh
+* extending collaborative spirit to undergraduate experience
+
 **what does success look like for the libraries / CULL**
+* lots of flexibility to self-direct work in the libraries
+* strategic vision
+* achievable strategic goals
+* short- and long-term timescales
+
+A lot of self-starting (see also Sabbatical)
 
 **hiring timeline**
 
-**location logistics of position**
+June 1 is ideal start date, but negotiable
+
+zoom interview process through next week
+conferring on next step = on-campus interview
+* hope is by mid-April, end of April
+hope to have a decision by May
+
+**what are some individual aspects of the job that bring you joy?**
+**what are some frustrations?**
+
+Todd:
+* I enjoy the interactions with faculty, students, researchers, around a research project
+* collect data
+* also find data
+* get them started on data science
+* valuable for individual
+* valuable for Todd about what the needs are
+* get to meet people from different disciplines (mostly social sciences)
+
+frustrations
+* graduate faculty engagement group, relatively new
+* as a group, defining goals (maybe also actions)
+
+Holly:
+* ability to collaborate, being a big part of job satisfaction
+* found UNM very collegial
+* build really strong working relationship across the college, not always a given in library environments
+* emphasis on collaborating on projects and research
+
+frustrations
+* faculty-designated peer at UNM
+* ambitious plans for revitalizing a program - struggle to balance to cultivate research agenda with focus on day-to-day work
+* providing services
+
+Jon:
+* generalist joy
+* I like people, meeting people, working with people
+* being able to meet people and researchers, what is motivating them and driving them
+* sense of curiosity (personal)
+
+frustrations:
+* risk aversion
+* higher level positions that create bottlenecks
+* compliance-focused
+
+policy = risk management
 
 **research time / sabbatical time**
+* Jon is taking sabbatical on July 1
 
+**location logistics of position**
 
+OILS
+- more traditional faculty
+- 3rd division in libraries
+-  
