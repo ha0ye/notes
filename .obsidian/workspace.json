@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "file": "Anaconda Chat with Lilly Winfree.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Carpentries Teaching Demo - etherpad template"
+              "title": "Anaconda Chat with Lilly Winfree"
             }
           }
         ]
@@ -164,10 +164,10 @@
   },
   "active": "7894b57d74adb482",
   "lastOpenFiles": [
+    "Carpentries Teaching Demo - etherpad template.md",
     "Anaconda Chat with Lilly Winfree.md",
     "interview_notes.md",
     "UPenn Info.md",
-    "Carpentries Teaching Demo - etherpad template.md",
     "Carpentries Teaching Demo.md",
     "interview_notes.md alias",
     "chart.md",
