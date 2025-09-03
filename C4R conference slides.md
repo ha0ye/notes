@@ -32,3 +32,4 @@ activity idea
 
 
 
+An alternate negative control could have mice eating blueberries, keeping more variables controlled (the same) and narrowing the target of our investigation.

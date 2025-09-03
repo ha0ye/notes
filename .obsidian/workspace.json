@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Randomization lab meeting.md",
+                "file": "C4R conference slides.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Randomization lab meeting"
+              "title": "C4R conference slides"
             }
           }
         ]
@@ -165,12 +165,12 @@
   },
   "active": "0b0661c3d2c811b7",
   "lastOpenFiles": [
+    "Randomization lab meeting.md",
     "CONTROLS unit questions.md",
     "C4R conference slides.md",
     "metadata-template.md.md",
     "UPenn Info.md",
     "Prereview Application Questions.md",
-    "Randomization lab meeting.md",
     "Anaconda Chat with Lilly Winfree.md",
     "Carpentries Teaching Demo.md",
     "Carpentries Teaching Demo - etherpad template.md",
