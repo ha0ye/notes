@@ -50,6 +50,11 @@ Issues:
 
 #### Outline
 * summary and setup
+
+what does randomization do
+
+
+
 * study setup
 * what are we concerned about?
 

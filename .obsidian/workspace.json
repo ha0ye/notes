@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef49432ff44c3cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C4R conference slides.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "C4R conference slides"
-            }
-          },
-          {
             "id": "0b0661c3d2c811b7",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Randomization lab meeting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,16 +165,16 @@
   },
   "active": "0b0661c3d2c811b7",
   "lastOpenFiles": [
-    "C4R conference slides.md",
-    "Randomization lab meeting.md",
-    "Anaconda Chat with Lilly Winfree.md",
     "CONTROLS unit questions.md",
-    "Carpentries Teaching Demo.md",
-    "Carpentries Teaching Demo - etherpad template.md",
+    "C4R conference slides.md",
+    "metadata-template.md.md",
     "UPenn Info.md",
     "Prereview Application Questions.md",
+    "Randomization lab meeting.md",
+    "Anaconda Chat with Lilly Winfree.md",
+    "Carpentries Teaching Demo.md",
+    "Carpentries Teaching Demo - etherpad template.md",
     "archive/OSTP Listening Session Comment.md",
-    "metadata-template.md.md",
     "archive/interview_notes.md",
     "archive/informational-interview-USGS.md",
     "archive/weekly-goals_2023-04-17.md",
