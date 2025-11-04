@@ -1,34 +1,50 @@
-1. What interests you in this position? What interests you about working in an academic library? 
+### 1. What interests you in this position? What interests you about working in an academic library? 
 
 very motivated about open science and practices
-* academic library facilitates this
+* I have previously worked in an academic library
+	* work across disciplines
+	* positively received by people
+	* direct interaction with researchers
+	* capacity to address problems
+		* policy, training, collaboration with target audiences
 
 working remotely
-
-direct interaction is something I really enjoy
   
 
-2. Could you tell us a bit more about your experiences in managing, sharing or curating research data? (When we talk about these terms, we mean the range of activities undertaken to make data more useful and accessible to others into the future). In particular, what did you enjoy about your experiences? What challenges did you encounter?
+### 2. Could you tell us a bit more about your experiences in managing, sharing or curating research data? (When we talk about these terms, we mean the range of activities undertaken to make data more useful and accessible to others into the future). In particular, what did you enjoy about your experiences? What challenges did you encounter?
 
-two biggest experiences
+background is in computational research
+* projects to reshare aggregated datasets for macroecological analyses
 * postdoc - adjacent to long-term ecological experiment
-	* consistent workflow
+	* consistent workflow for data collection and sharing
 	* first-hand experience with all aspects, from data collection, data entry, quality checking, updating and archiving
 	* as a computational research background, insight into the choices that go into every step of the process "how the sausage is made"
+		* acknowledging work and expertise that goes into it
 * data paper editor for Ecology
 	* handle data paper submissions (datasets + metadata, peer-reviewed)
 	* evaluate potential for re-use (by audience of the journal)
-	* rely on domain expertise to judge the scientific value of the data + what are key indicators / aspects of the data that are relevant
+	* rely on domain expertise of reviewers to judge the scientific value of the data + what might be missing
 	* I evaluate organization
 		* is the metadata correct?
 		* are there issues in the data?
 		* does the organization make sense for re-use?
 		* what improvements could be made
 		* consistency across data papers
-	* satisfying to try and bring value and 
+	* satisfying to bring value to the data, and promote data sharing in a feasible way
+		* default open access, because actual published text is a minimal abstract
+		* metadata is available in open repository
 
 
-3. Please tell us about a time when something went wrong or was exceptionally challenging for you professionally or personally. What was the outcome and what did you learn from the experience?
+CHALLENGES
+* effective documentation in datasets that others have collected
+* whether data follows tidy principle that each row is an observation
+	* e.g. census data has data by demographic, and is aggregated, but does not clearly indicate which categories may or may not overlap
+		* so same individual may be represented in multiple rows of data
+	* dataset split across multiple files, but without unique identifiers to join or combine together
+
+### 3. Please tell us about a time when something went wrong or was exceptionally challenging for you professionally or personally. What was the outcome and what did you learn from the experience?
+
+
 
 * piece A - different stakeholders who have expertise and opinions on how to teach a topic
 * piece B - how do you teach a topic like "evaluating statistical claims" in the constraints of ~ 3 hours of practical content for a generic researcher in biomedical science?
@@ -53,7 +69,7 @@ SOLUTION:
 
   
 
-4. Tell us how you recognize and incorporate differing viewpoints, backgrounds, and ideas from others into your work. Please provide examples from your professional or personal experiences.
+### 4. Tell us how you recognize and incorporate differing viewpoints, backgrounds, and ideas from others into your work. Please provide examples from your professional or personal experiences.
 
 explicit practices for inclusion
 
@@ -79,7 +95,7 @@ Code for Science & Society Event Fund - https://www.codeforsociety.org/eventfund
 
   
 
-5. One important aspect of this position is protecting the integrity of sensitive data as well as complying with relevant data regulations and adhering to professional ethics. Please give an example of how you’ve worked with sensitive data previously. If you haven’t, how would you go about learning and implementing these regulations, issues, and ethics?
+### 5. One important aspect of this position is protecting the integrity of sensitive data as well as complying with relevant data regulations and adhering to professional ethics. Please give an example of how you’ve worked with sensitive data previously. If you haven’t, how would you go about learning and implementing these regulations, issues, and ethics?
     
 human subjects research (open grants)
 * interview participants
@@ -93,7 +109,7 @@ human subjects research (OLS)
 UF, approval for openrefine for secure and restricted data
   
 
-6. What questions do you have for us?
+### 6. What questions do you have for us?
 
 how do you collaborate or work jointly with other units on campus?
 e.g. grants, office of research, individual schools / departments
