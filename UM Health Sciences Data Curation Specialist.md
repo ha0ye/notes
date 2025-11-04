@@ -29,19 +29,51 @@ two biggest experiences
 
 
 3. Please tell us about a time when something went wrong or was exceptionally challenging for you professionally or personally. What was the outcome and what did you learn from the experience?
-    
+
+* piece A - different stakeholders who have expertise and opinions on how to teach a topic
+* piece B - how do you teach a topic like "evaluating statistical claims" in the constraints of ~ 3 hours of practical content for a generic researcher in biomedical science?
+
+further details:
+- outlines were not effective; learning objectives like "define p-values and critically evaluate their use"
+- subject matter experts might go on to draft out materials that missed the mark!
+
+realized that:
+- stakeholders (e.g. funders) were passionate because there were specific problems they wanted to solve
+	- and they asked for a specific solution (e.g. a unit on topic X)
+- exactly like the reference interview -- someone has been dealing with a problem and thought of a solution and approached you about the solution
+	- but the solution may not be what works for them or what is available
+	- NEED to draw out the details of the problem
+
+SOLUTION:
+* expand outline and planning documents to include:
+	* what is the rigor problem that this lesson will solve
+	* how will learning X solve that problem
+	* achieve alignment on this -- much better agreement on what the work should be
+
 
   
 
 4. Tell us how you recognize and incorporate differing viewpoints, backgrounds, and ideas from others into your work. Please provide examples from your professional or personal experiences.
 
-collaboration
-* 
+explicit practices for inclusion
+
+* "How to Work with Me" document - https://docs.google.com/document/d/1ZN_Pvqi9E-pVCd6k79UkXvNaU5bPxswlD6hKioN34MU/edit?usp=sharing
+  - communication preferences
+  - feedback
+  - approach to problem solving
+  - frustrations
+* with student workers, expectations document to be discussed
+  - emphasizing care for the work, but not beyond them as individuals
+  - belief in caring for people as the lever, by which good work gets done
 
 
-
-explicit inclusive practices
-
+Code for Science & Society Event Fund - https://www.codeforsociety.org/eventfund
+* selection committee from 2020-2022
+* program to fund data science training, with a specific vision of diversifying leadership in under-resourced communities
+* reviewed applications, and also iterated on selection and application process
+* one of the requirements initially was for funded events to consider accessibility needs and have a Code of Conduct
+  - many programs did take this to heart and allocated funding specifically to bring people together if virtual events were challenging, hire translators as needed, or provide credit for internet access or headsets to participate in events
+  - we also ended up broadening our understanding of codes of conduct, because the phrasing is very North American academic coded, and in many cases, what is desired is more accurately described as a Community Participation Guideline
 
 
 
@@ -49,18 +81,32 @@ explicit inclusive practices
 
 5. One important aspect of this position is protecting the integrity of sensitive data as well as complying with relevant data regulations and adhering to professional ethics. Please give an example of how you’ve worked with sensitive data previously. If you haven’t, how would you go about learning and implementing these regulations, issues, and ethics?
     
-human subjects research
+human subjects research (open grants)
+* interview participants
+* transcripts and videos on institutional cloud
+* coded and synthesized for reporting
 
+human subjects research (OLS)
+* reviewed interview transcripts for identifiable information
+* flag for interviewers
 
+UF, approval for openrefine for secure and restricted data
   
 
 6. What questions do you have for us?
 
+how do you collaborate or work jointly with other units on campus?
+e.g. grants, office of research, individual schools / departments
+
+what are the liaison duties?
+
+opportunities for independent research work? 
 
 
 
 
 
+====
 
 ### What are the considerations for working fully remote? (I am based in Philly, and my partner and I have family nearby, so moving is somewhat undesirable.)
 
