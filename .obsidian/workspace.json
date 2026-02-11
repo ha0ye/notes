@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Princeton Comp Sci Librarian"
             }
+          },
+          {
+            "id": "b8cada6bdc79f88e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3c3d1a7364acb05f",
+  "active": "b8cada6bdc79f88e",
   "lastOpenFiles": [
     "Prereview Application Questions.md",
     "metadata-template.md.md",
