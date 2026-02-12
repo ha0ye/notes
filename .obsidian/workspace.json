@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "b8cada6bdc79f88e",
+            "id": "b74429f6f6dae1aa",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Princeton CS Librarian Interview 1.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Princeton CS Librarian Interview 1"
             }
           }
         ],
@@ -190,12 +192,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8cada6bdc79f88e",
+  "active": "b74429f6f6dae1aa",
   "lastOpenFiles": [
+    "Princeton Comp Sci Librarian.md",
+    "Princeton CS Librarian Interview 1.md",
     "Prereview Application Questions.md",
     "metadata-template.md.md",
     "Randomization lab meeting.md",
-    "Princeton Comp Sci Librarian.md",
     "Anaconda Chat with Lilly Winfree.md",
     "Carpentries Teaching Demo.md",
     "UM Health Sciences Data Curation Specialist.md",
@@ -223,7 +226,6 @@
     "archive/weekly-goals_2023-07-31.md",
     "archive/weekly-goals_2023-04-23.md",
     "archive/weekly-goals_2023-07-24.md",
-    "archive/weekly-goals_2023-07-17.md",
     "ESA 2023 planning"
   ]
 }
