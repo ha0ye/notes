@@ -31,6 +31,21 @@ what is exciting about this position
 
 ### Liaison librarian experience
 
+Reproducibility Librarian
+* mixture of functional role and liaison responsibilities
+* outreach to many sectors of UF to explain services
+  - email based on alignment in instructional objectives
+* attending faculty meeting
+* teaching library orientation
+* teaching literature searching and following up
+* in one case, collaborating on a literature search, review of metabolomics data processing software
+
+
+
+
+
+
+
 
 
 ### Computational and/or data experience
