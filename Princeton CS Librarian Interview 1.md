@@ -40,11 +40,13 @@ Reproducibility Librarian
 * teaching literature searching and following up
 * in one case, collaborating on a literature search, review of metabolomics data processing software
 
-
-
-
-
-
+Teaching git and github session for Biomedical Engineering class (BME 6938)
+- based on my own experience and materials
+- Carpentries git lesson
+- connect practical skills with context for when to use skills
+- received student comment that it was the git class they wished they had in intro CS classes
+  - validating comment
+  - based on what I would have wanted in my own experience
 
 
 
