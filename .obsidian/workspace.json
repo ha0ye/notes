@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84cabf18e9b8ce27",
+        "id": "166020be4502d3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "68c2b45b75beca20",
+            "id": "365d034306b7eb51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "151d2fc0a24160d2",
@@ -160,8 +159,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "68c2b45b75beca20",
+  "active": "365d034306b7eb51",
   "lastOpenFiles": [
+    "Princeton Talk Notes.md",
+    "UM Health Sciences Data Curation Specialist.md",
+    "UPenn Info.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "Princeton CS Librarian Interview 1.md",
     "Princeton Comp Sci Librarian.md",
     "Prereview Application Questions.md",
@@ -169,7 +173,6 @@
     "Randomization lab meeting.md",
     "Anaconda Chat with Lilly Winfree.md",
     "Carpentries Teaching Demo.md",
-    "UM Health Sciences Data Curation Specialist.md",
     "archive/interview_notes.md",
     "Untitled",
     "archive/DEI-interview_2023-02-13.md",
@@ -177,7 +180,6 @@
     "archive/NCSU-01-nominating-committee.md",
     "C4R conference slides.md",
     "CONTROLS unit questions.md",
-    "UPenn Info.md",
     "Carpentries Teaching Demo - etherpad template.md",
     "archive/OSTP Listening Session Comment.md",
     "archive/informational-interview-USGS.md",
@@ -193,7 +195,6 @@
     "archive/weekly-goals_2023-08-14.md",
     "archive/weekly-goals_2023-07-31.md",
     "archive/weekly-goals_2023-04-23.md",
-    "archive/weekly-goals_2023-07-24.md",
     "ESA 2023 planning"
   ]
 }
