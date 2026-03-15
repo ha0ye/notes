@@ -11,10 +11,14 @@
             "id": "365d034306b7eb51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Princeton Interview Prep.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Princeton Interview Prep"
             }
           }
         ]
@@ -161,6 +165,7 @@
   },
   "active": "365d034306b7eb51",
   "lastOpenFiles": [
+    "Princeton Interview Prep.md",
     "Princeton Talk Notes.md",
     "UM Health Sciences Data Curation Specialist.md",
     "UPenn Info.md",
@@ -194,7 +199,6 @@
     "logseq",
     "archive/weekly-goals_2023-08-14.md",
     "archive/weekly-goals_2023-07-31.md",
-    "archive/weekly-goals_2023-04-23.md",
     "ESA 2023 planning"
   ]
 }
