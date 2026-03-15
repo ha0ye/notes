@@ -2,6 +2,9 @@
 
 ### Why are you interested in this position?
 
+I want to be in direct contact with audiences: researchers and students.
+I'm currently on a grant-funded project. There are lots of benefits 
+
 
 ### What's your greatest professional strength?
 
@@ -25,14 +28,28 @@ setting my own boundaries on time
 
 ### Tell me about a time you had to manage competing priorities.
 
-# XXX
+All the time in my current job.
+
+* preparing for events, conferences, teaching
+* new projects
+* revising old projects
+* updating processes
+
+urgency
+where am I a blocker
+delegate or ask for help
+negotiate work or deadlines
+
+IF I know I might be late for a deadline, I communicate in advance. This sets expectation. It is painful, but less painful than being late unexpectedly. It also reminds others that I am thinking and I am aware. I'm being intentional rather than absent-minded.
 
 ### Describe a situation where you had to work with a difficult colleague or stakeholder. How did you handle it?
 
 (Shai) feedback that is really about his own desire to make a point heard
 * have dealt with peer reviewer before
-* do not need to take it literally, as long as underlying concern addressed
-
+* feedback is informative, but it doesn't always need to be addressed literally
+* it is a signal that there is some underlying concern and passion in the project
+  - concern can be addressed 
+  - passion can be channeled
 
 ### Tell me about a project you're particularly proud of.
 
@@ -52,6 +69,17 @@ CSS Event Fund
 ### What does an ideal work environment look like to you?
 
 ### What questions do you have for us?
+
+How do you evaluate the effectiveness of library services and projects? When do you decide to pivot?
+
+What kinds of successful projects have you carried out recently? What are ones you want to improve on?
+
+What qualities contribute to success in this role?
+
+What professional development do you engage in?
+
+
+
 
 ## Computational & AI Expertise
 
