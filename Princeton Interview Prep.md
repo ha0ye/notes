@@ -1,16 +1,35 @@
+### What questions do you have for us?
+
+How do you evaluate the effectiveness of library services and projects? When do you decide to pivot? What does a pivot / retrospective look like? 
+
+What kinds of successful projects have you carried out recently? What are ones you want to improve on?
+
+What qualities contribute to success in this role?
+
+What professional development do you engage in?
+
+Living / Commute logistics?
+
+Time expectations?
+
+Partner hire?
+
+Other benefits?
+
 ## About You
 
 ### Why are you interested in this position?
 
-I want to be in direct contact with audiences: researchers and students.
-I'm currently on a grant-funded project. There are lots of benefits 
-
+I want to be in direct contact with audiences: researchers and students. I miss that in my current position.
+I work on a grant-funded project. There are lots of benefits (resources to do ancillary aspects of the project), but it does feel limiting in justifying my time to service organizations or other types of professional activities.
 
 ### What's your greatest professional strength?
 
-skilled audience-centered problem solver
-* helps me identify the right problem
-* background in many areas and design thinking help identify effective solutions
+problem solver
+* intentional, reflective, audience-centered
+* these attributes help me identify the right problem
+* background in many areas to see the problem from many perspectives
+* design thinking help identify effective solutions
 
 ### What's an area you're actively working to develop?
 
@@ -21,8 +40,6 @@ clarifying roles and expectations ahead of time
 setting my own boundaries on time
 * I am very capable - sometimes it feels easier and faster to do something myself than ask someone else who has it as their responsibility
 * can help when there is clearer guidance around overall expectations, productivity, room for growth
-
----
 
 ## Behavioral Standbys
 
@@ -55,31 +72,37 @@ IF I know I might be late for a deadline, I communicate in advance. This sets ex
 
 CSS Event Fund
 
-
 ### Describe a failure or mistake and what you learned from it.
 
-# XXXX
+I have been trying collaborators to do specific kinds of work.
+I thought the issue was that they didn't understand the nature of the teaching we were seeking.
+I developed training workshops to help with that.
+The trainings felt patronizing to them.
+The collaborators still did not produce the work that we wanted.
+I concluded we were misaligned:
+* they did not WANT to do the work the way we wanted; they wanted to do the work the way THEY wanted
+* they responded to feedback like we were reviewers, not collaborators
 
----
+LESSON
+* be on the lookout for alignment issues early
+* set unambiguous expectations
+* provide checks on expectations
 
 ## Fit & Vision
 
 ### Where do you see yourself professionally in five years?
 
+* I want to be making impact on large scale (that was a reason I left librarianship to take my current position)
+  - reflecting back, I want to make sure to balance that desire with what I enjoy
+  - seek out collaborations that work effectively for me
+
 ### What does an ideal work environment look like to you?
 
-### What questions do you have for us?
-
-How do you evaluate the effectiveness of library services and projects? When do you decide to pivot?
-
-What kinds of successful projects have you carried out recently? What are ones you want to improve on?
-
-What qualities contribute to success in this role?
-
-What professional development do you engage in?
-
-
-
+* trust in my professional judgment
+  - if I say I have doubts or concerns, that they are taken seriously
+* commitment to long-term
+  - invest in people
+  - invest in processes
 
 ## Computational & AI Expertise
 
@@ -94,7 +117,6 @@ What professional development do you engage in?
 * clarify purpose and usage of LLMs
   - breaking down a complex task - identify suitable tools or solutions for individual parts
 
-
 ### How do you stay current with AI developments, and how do you translate that into guidance for researchers?
 
 * at the moment, haphazardly via social media and other networks
@@ -104,7 +126,6 @@ What professional development do you engage in?
   - problem solving
   - lets me scan through to pinpoint what the core goal is of some new report
   - how does that work? how does that connect to existing pieces? how does that improve on the status quo
-
 
 ### What does "AI literacy" mean to you, and how would you teach it differently to a first-year undergrad versus a faculty member?
 
@@ -120,9 +141,6 @@ What professional development do you engage in?
   - meta-analysis of LLM tools in education
   - custom tutors are one of the most effective uses
   - helps someone learn a new topic - they don't know what the concepts are or how they are connected - being able to have an interactive guide using natural language is effective
-  - 
-
----
 
 ## Research Support & Consultation
 
@@ -135,36 +153,20 @@ What professional development do you engage in?
 * asked volunteers to co-lead and co-organize
 * asked RDAP for funding - got some money for stipend and/or free membership for participants
 
-
-
-
-
 ### How do you approach supporting a researcher whose work is outside your own expertise?
 
 * support doesn't require being an expert - not trying to solve someone's problem for them
 * guide them to the right answer
 * need to understand the situation and key 
 
-
-
----
-
-## Instruction
-
-### Describe an instructional session you designed for a technical audience. What worked, what didn't?
-
-### How do you assess whether instruction has actually landed?
-
----
-
 ## Collection Development
 
 ### How have you approached collection development in a fast-moving field where the landscape shifts quickly?
 
 * would think about resources that don't age or are less likely to age
-
-
----
+* go back to broader problem - what is the use for collections
+  - identify ways to manage this
+  - automation solutions
 
 ## Liaison & Outreach
 
@@ -182,11 +184,6 @@ What professional development do you engage in?
 * conferences
 * service
 * MLA Data Caucus chair
-
-
-
-
----
 
 ## Collaboration & Collegiality
 
@@ -209,8 +206,6 @@ figure out how to align to shared goals
     - add structure to communications to facilitate respective needs
     - template docs
 
----
-
 ## Adaptability
 
 - The position description flags "rapidly changing expectations." Give me an example of a time you had to significantly reorient how you were doing your work.
@@ -228,5 +223,3 @@ figure out how to align to shared goals
 * changed scope
   - simplify UX (less trying to replicate authenticity of lab environment)
   - change decision points for users from engaging in science to making judgments about a scenario (people are more ready to critique someone else's science than work on their own example)
-
-
