@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "166020be4502d3d2",
+        "id": "b828d2afe966b18d",
         "type": "tabs",
         "children": [
           {
-            "id": "365d034306b7eb51",
+            "id": "11e9c48146473e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Princeton Interview Prep.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Princeton Interview Prep"
+              "title": "New tab"
             }
           }
         ]
@@ -163,7 +159,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "365d034306b7eb51",
+  "active": "11e9c48146473e19",
   "lastOpenFiles": [
     "Princeton Interview Prep.md",
     "Princeton Talk Notes.md",
