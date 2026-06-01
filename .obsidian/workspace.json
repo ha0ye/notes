@@ -11,10 +11,14 @@
             "id": "11e9c48146473e19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Carpentries Teaching Demo - etherpad template.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Carpentries Teaching Demo - etherpad template"
             }
           }
         ]
