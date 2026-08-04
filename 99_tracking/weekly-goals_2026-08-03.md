@@ -16,6 +16,11 @@ tags:
 - [ ] explore usage of Linter plugin to auto-update frontmatter
 - [x] organize existing notes
 
+### Ecology editorial tasks
+- [ ] review specific tasks
+
+### Learn Obsidian interface and features
+
 ### Storage and management of Claude skills / processes
 
 ## Holding for Updates

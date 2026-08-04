@@ -18,7 +18,7 @@ _workflows/      # Scripts and workflow definitions that operate on the vault (n
 01_notes/        # Scratch, meetings, ideas, anything unprocessed — the inbox
 02_projects/     # Notes about projects — goals, status, decisions, links to actual project repos
 03_people/       # Collaborators, stakeholders — contact info, expertise, motivations
-04_templates/    # Reusable scaffolds for new projects or note types
+999_templates/    # Reusable scaffolds for new projects or note types
 99_tracking/     # Weekly task lists and work logs — feeds downstream reports
 ```
 
@@ -47,7 +47,7 @@ _workflows/      # Scripts and workflow definitions that operate on the vault (n
 | `01_notes/` | **Voice-preserved** | — | Touch content |
 | `02_projects/` | **Collaborative** | Draft, update, restructure | — |
 | `03_people/` | **Collaborative** | Organize, format provided info into fields | Generate content without input |
-| `04_templates/` | **Collaborative** | Build and refine scaffolds | — |
+| `999_templates/` | **Collaborative** | Build and refine scaffolds | — |
 | `99_tracking/` | **Voice-preserved** | — | Touch content |
 
 **Policy definitions:**

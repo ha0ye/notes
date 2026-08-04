@@ -1,1 +1,14 @@
-{}
+{
+  "cssTheme": "Sanctum",
+  "textFontFamily": "General Sans",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "sanctum-font-fix",
+    "sanctum-customizations"
+  ],
+  "accentColor": "#640ff5",
+  "theme": "obsidian",
+  "baseFontSize": 12,
+  "translucency": false,
+  "monospaceFontFamily": "Hasklig"
+}

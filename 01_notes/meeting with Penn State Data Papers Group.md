@@ -1,6 +1,5 @@
 ---
 type: note
-title: meeting with 
 date: 2026-08-04
 tags: [meeting, data, open science, data paper]
 ---

@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(Rscript _workflows/verify_vault_structure.R)"
+      "Bash(Rscript _workflows/verify_vault_structure.R)",
+      "Bash(git status:*)"
     ]
-  }
+  },
+  "hooks": {}
 }

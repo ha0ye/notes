@@ -1,0 +1,11 @@
+/* Fix circled characters caused by Sanctum enabling ss05 with Inter Variable */
+/* See: https://github.com/jdanielmourao/obsidian-sanctum/issues/238 */
+body {
+  font-feature-settings: "ss02" on;
+}
+
+/* Lighten dark mode background */
+.theme-dark {
+  --background-primary: #1e1e1e;
+  --background-secondary: #252525;
+}

@@ -21,7 +21,7 @@ pass <- TRUE
 # --- Required folders ---
 required_folders <- c(
   "_workflows", "00_resources", "01_notes", "02_projects",
-  "03_people", "04_templates", "99_tracking"
+  "03_people", "999_templates", "99_tracking"
 )
 checks <- data.frame(
   label = required_folders,
@@ -38,7 +38,7 @@ checks <- data.frame(
 pass <- report("Checking key files...", checks) && pass
 
 # --- Templates ---
-templates <- list.files(file.path(vault_dir, "04_templates"), pattern = "\\.md$")
+templates <- list.files(file.path(vault_dir, "999_templates"), pattern = "\\.md$")
 checks <- data.frame(
   label = "at least one template exists",
   pass = length(templates) > 0
