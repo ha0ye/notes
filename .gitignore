@@ -1,0 +1,8 @@
+# Obsidian workspace files (device-specific, not worth syncing)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+
+# OS files
+.DS_Store
+Thumbs.db

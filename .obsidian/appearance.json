@@ -1,13 +1,1 @@
-{
-  "baseFontSize": 13,
-  "translucency": false,
-  "theme": "obsidian",
-  "cssTheme": "",
-  "enabledCssSnippets": [
-    "obsidian-default-theme",
-    "custom"
-  ],
-  "textFontFamily": "Source Code Pro",
-  "monospaceFontFamily": "Source Code Pro",
-  "accentColor": ""
-}
+{}

@@ -1,0 +1,95 @@
+---
+type: weekly_tracking
+date_start: 2023-07-17
+tags:
+  - tracking
+---
+
+# Weekly Goals
+
+### Steele MS Thesis (deadline: Aug 7)
+- [ ] read thesis
+- [ ] compile comments
+- [ ] write up
+- [ ] fill out form
+- [ ] return documents 
+
+### NIH DMSP working group
+- [x] paper submission
+- [ ] stats update for July
+
+### OLS Governance Committee
+- [ ] do doc review
+
+### C4R organization
+- [x] review and finalize 1-pager
+- [ ] merge and finalize content from Friday meeting
+	- [ ] CENTER leadership info
+	- [x] CENTER contact info
+	- [x] mission/vision/values
+- [ ] CENTER operations guide
+	- [ ] communications and meeting guidelines
+	- [ ] documentation on Notion
+	- [ ] Unit Development Guide
+- [ ] 
+
+### C4R curriculum
+- [ ] next steps for Road to Rigor content
+- [ ] integration into other content development
+- [ ] comment on JHU causality units
+- [ ] draft of unit development guide
+
+### Penn onboarding
+- [ ] set up supplemental retirement
+
+### Ecology Data Paper
+- [x] prepare initial agenda for ESA special session
+- [ ] prepare Penn reliance on external IRB application
+- [ ] next steps for README standard
+- [x] arrange travel
+
+### Moving Tasks
+- [ ] grow lights
+- [x] hook screws for knife storage
+- [ ] utensil storage
+
+### Living in Philly Tasks
+- [x] PA car registration
+- [ ] Philadelphia parking permit
+- [ ] change address banking
+	- [ ] Capital One
+- [ ] change address shopping
+	- [x] Amazon
+	- [x] tcgplayer
+	- [ ] 
+- [x] pick up bike sticker 4040 Chestnut
+
+### Falafel Tasks
+- [ ] dental consult - July 28
+
+### C&RL paper (Open Grants)
+- [ ] add to ORCID
+- [ ] revisions (due Aug 1)
+
+## Holding for Updates
+
+### CSCCE Accessibility Tip Sheet
+- [x] add to ORCID
+
+### Toronto Replication Games
+- [ ] add paper to ORCID
+
+### Transition Items (post)
+- [ ] email Tina for W-2 if not received by Feb 15, 2024 - tlitchfield@uflib.ufl.edu
+
+## Deprioritize
+
+### Activity Reporter
+- [ ] setup better workflow for updating data from remote sources
+- [ ] add lookup of bib information from DOI
+- [ ] standardize creation of bib information from existing data
+- [ ] standardize data transformation vs. printing/formatting code
+- [ ] generalize code to decode REDCap radio and checkbox responses
+- [ ] create test data
+- [ ] create test suite
+- [ ] create test document
