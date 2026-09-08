@@ -3,12 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "Notes"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
+  title: "Hao Ye Notes"
 
 format:
   html:
     theme: cosmo
+    from: markdown+autolink_bare_uris
