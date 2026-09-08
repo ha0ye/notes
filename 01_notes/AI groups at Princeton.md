@@ -22,10 +22,16 @@ https://research.princeton.edu/policies-compliance/policies/guidelines-usage-gen
 
 #### PUL AI Research Task Force
 https://pul-confluence.atlassian.net/wiki/spaces/COM/pages/512688148/Artificial+Intelligence+Research+Task+Force
+* includes rubric / guidance on evaluating tools
 * PUL LibGuide
 
 #### Center for Digital Humanities
 
+#### AI Affinity Group
+https://pul-confluence.atlassian.net/wiki/spaces/COM/pages/11764343/AI+Affinity+Group
+
+
+#### LLM Collective
 
 #### PUL
 one of library's vendor products
