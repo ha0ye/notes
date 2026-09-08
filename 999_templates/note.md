@@ -1,9 +1,6 @@
 ---
 type: note
-title:
-date:
+last_updated:
 tags: []
 ---
-
-# {{title}}
 

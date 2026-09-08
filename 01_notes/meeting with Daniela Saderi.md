@@ -1,9 +1,10 @@
 ---
 type: note
 date: 2026-08-04
-tags: [data, prereview, open science, data paper, peer review]
+tags: [data, prereview, open_science, data_paper, peer_review]
+last_updated: 2026-09-08
 ---
-
+(chatting with [[Daniela Saderi]]
 
 discussion of reviewing datasets
 

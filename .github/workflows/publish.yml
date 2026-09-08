@@ -1,0 +1,40 @@
+name: Publish shared notes
+
+# Builds the Quarto site from notes flagged `share: true` and publishes it
+# to GitHub Pages (gh-pages branch). Package versions are restored from
+# renv.lock so this matches local `Rscript _workflows/publish_site.R` runs.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Restore R packages from renv.lock
+        uses: r-lib/actions/setup-renv@v2
+
+      - name: Build shared-notes site source (share: true notes -> _publish/content)
+        run: Rscript _workflows/publish_site.R
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render and publish to GitHub Pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+          path: _publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
