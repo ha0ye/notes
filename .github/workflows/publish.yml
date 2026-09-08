@@ -25,7 +25,7 @@ jobs:
       - name: Restore R packages from renv.lock
         uses: r-lib/actions/setup-renv@v2
 
-      - name: Build shared-notes site source (share: true notes -> _publish/content)
+      - name: "Build shared-notes site source (share: true notes -> _publish/content)"
         run: Rscript _workflows/publish_site.R
 
       - name: Set up Quarto
